@@ -5,12 +5,14 @@
     "es_html_path": "edicoes/2026-06-14/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-14/panorama-mobilidade-latam-2026-06-14-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-14/panorama-mobilidade-latam-2026-06-14-es.pdf",
+    "card_count": 26,
+    "country_count": 0,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-14/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-14/panorama-mobilidade-latam-2026-06-14-pt.pdf",
-    "pt_pdf_size": 181239,
+    "pt_pdf_size": 117711,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-14/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-14/panorama-mobilidade-latam-2026-06-14-es.pdf",
-    "es_pdf_size": 181006
+    "es_pdf_size": 117531
   },
   {
     "date": "2026-06-15",
@@ -18,12 +20,14 @@
     "es_html_path": "edicoes/2026-06-15/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-15/panorama-mobilidade-latam-2026-06-15-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-15/panorama-mobilidade-latam-2026-06-15-es.pdf",
+    "card_count": 16,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-15/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-15/panorama-mobilidade-latam-2026-06-15-pt.pdf",
-    "pt_pdf_size": 166352,
+    "pt_pdf_size": 52925,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-15/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-15/panorama-mobilidade-latam-2026-06-15-es.pdf",
-    "es_pdf_size": 165570
+    "es_pdf_size": 52529
   },
   {
     "date": "2026-06-18",
@@ -31,12 +35,14 @@
     "es_html_path": "edicoes/2026-06-18/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-18/panorama-mobilidade-latam-2026-06-18-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-18/panorama-mobilidade-latam-2026-06-18-es.pdf",
+    "card_count": 18,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-18/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-18/panorama-mobilidade-latam-2026-06-18-pt.pdf",
-    "pt_pdf_size": 166960,
+    "pt_pdf_size": 103660,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-18/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-18/panorama-mobilidade-latam-2026-06-18-es.pdf",
-    "es_pdf_size": 166793
+    "es_pdf_size": 103064
   },
   {
     "date": "2026-06-19",
@@ -44,12 +50,14 @@
     "es_html_path": "edicoes/2026-06-19/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-19/panorama-mobilidade-latam-2026-06-19-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-19/panorama-mobilidade-latam-2026-06-19-es.pdf",
+    "card_count": 22,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-19/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-19/panorama-mobilidade-latam-2026-06-19-pt.pdf",
-    "pt_pdf_size": 176180,
+    "pt_pdf_size": 112603,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-19/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-19/panorama-mobilidade-latam-2026-06-19-es.pdf",
-    "es_pdf_size": 175541
+    "es_pdf_size": 112009
   },
   {
     "date": "2026-06-22",
@@ -57,12 +65,14 @@
     "es_html_path": "edicoes/2026-06-22/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-22/panorama-mobilidade-latam-2026-06-22-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-22/panorama-mobilidade-latam-2026-06-22-es.pdf",
+    "card_count": 35,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-22/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-22/panorama-mobilidade-latam-2026-06-22-pt.pdf",
-    "pt_pdf_size": 195930,
+    "pt_pdf_size": 81708,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-22/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-22/panorama-mobilidade-latam-2026-06-22-es.pdf",
-    "es_pdf_size": 195090
+    "es_pdf_size": 80789
   },
   {
     "date": "2026-06-23",
@@ -70,12 +80,14 @@
     "es_html_path": "edicoes/2026-06-23/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-23/panorama-mobilidade-latam-2026-06-23-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-23/panorama-mobilidade-latam-2026-06-23-es.pdf",
+    "card_count": 34,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-23/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-23/panorama-mobilidade-latam-2026-06-23-pt.pdf",
-    "pt_pdf_size": 185049,
+    "pt_pdf_size": 120128,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-23/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-23/panorama-mobilidade-latam-2026-06-23-es.pdf",
-    "es_pdf_size": 184649
+    "es_pdf_size": 119143
   },
   {
     "date": "2026-06-24",
@@ -83,12 +95,14 @@
     "es_html_path": "edicoes/2026-06-24/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-24/panorama-mobilidade-latam-2026-06-24-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-24/panorama-mobilidade-latam-2026-06-24-es.pdf",
+    "card_count": 36,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-24/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-24/panorama-mobilidade-latam-2026-06-24-pt.pdf",
-    "pt_pdf_size": 191374,
+    "pt_pdf_size": 124791,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-24/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-24/panorama-mobilidade-latam-2026-06-24-es.pdf",
-    "es_pdf_size": 190962
+    "es_pdf_size": 124196
   },
   {
     "date": "2026-06-25",
@@ -96,12 +110,14 @@
     "es_html_path": "edicoes/2026-06-25/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-25/panorama-mobilidade-latam-2026-06-25-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-25/panorama-mobilidade-latam-2026-06-25-es.pdf",
+    "card_count": 37,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-25/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-25/panorama-mobilidade-latam-2026-06-25-pt.pdf",
-    "pt_pdf_size": 192217,
+    "pt_pdf_size": 125865,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-25/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-25/panorama-mobilidade-latam-2026-06-25-es.pdf",
-    "es_pdf_size": 191594
+    "es_pdf_size": 125266
   },
   {
     "date": "2026-06-26",
@@ -109,12 +125,14 @@
     "es_html_path": "edicoes/2026-06-26/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-26/panorama-mobilidade-latam-2026-06-26-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-26/panorama-mobilidade-latam-2026-06-26-es.pdf",
+    "card_count": 48,
+    "country_count": 14,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-26/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-26/panorama-mobilidade-latam-2026-06-26-pt.pdf",
-    "pt_pdf_size": 430019,
+    "pt_pdf_size": 143211,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-26/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-26/panorama-mobilidade-latam-2026-06-26-es.pdf",
-    "es_pdf_size": 429545
+    "es_pdf_size": 142464
   },
   {
     "date": "2026-06-29",
@@ -122,12 +140,14 @@
     "es_html_path": "edicoes/2026-06-29/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-29/panorama-mobilidade-latam-2026-06-29-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-29/panorama-mobilidade-latam-2026-06-29-es.pdf",
+    "card_count": 17,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-29/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-29/panorama-mobilidade-latam-2026-06-29-pt.pdf",
-    "pt_pdf_size": 285630,
+    "pt_pdf_size": 107785,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-29/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-29/panorama-mobilidade-latam-2026-06-29-es.pdf",
-    "es_pdf_size": 285532
+    "es_pdf_size": 107499
   },
   {
     "date": "2026-06-30",
@@ -135,12 +155,14 @@
     "es_html_path": "edicoes/2026-06-30/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-06-30/panorama-mobilidade-latam-2026-06-30-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-06-30/panorama-mobilidade-latam-2026-06-30-es.pdf",
+    "card_count": 18,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-30/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-30/panorama-mobilidade-latam-2026-06-30-pt.pdf",
-    "pt_pdf_size": 189814,
+    "pt_pdf_size": 103044,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-06-30/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-06-30/panorama-mobilidade-latam-2026-06-30-es.pdf",
-    "es_pdf_size": 189440
+    "es_pdf_size": 102588
   },
   {
     "date": "2026-07-01",
@@ -148,12 +170,14 @@
     "es_html_path": "edicoes/2026-07-01/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-01/panorama-mobilidade-latam-2026-07-01-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-01/panorama-mobilidade-latam-2026-07-01-es.pdf",
+    "card_count": 26,
+    "country_count": 10,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-01/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-01/panorama-mobilidade-latam-2026-07-01-pt.pdf",
-    "pt_pdf_size": 88829,
+    "pt_pdf_size": 106483,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-01/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-01/panorama-mobilidade-latam-2026-07-01-es.pdf",
-    "es_pdf_size": 89636
+    "es_pdf_size": 105716
   },
   {
     "date": "2026-07-02",
@@ -161,12 +185,14 @@
     "es_html_path": "edicoes/2026-07-02/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-02/panorama-mobilidade-latam-2026-07-02-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-02/panorama-mobilidade-latam-2026-07-02-es.pdf",
+    "card_count": 16,
+    "country_count": 12,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-02/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-02/panorama-mobilidade-latam-2026-07-02-pt.pdf",
-    "pt_pdf_size": 168214,
+    "pt_pdf_size": 96350,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-02/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-02/panorama-mobilidade-latam-2026-07-02-es.pdf",
-    "es_pdf_size": 168036
+    "es_pdf_size": 96169
   },
   {
     "date": "2026-07-03",
@@ -174,12 +200,14 @@
     "es_html_path": "edicoes/2026-07-03/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-03/panorama-mobilidade-latam-2026-07-03-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-03/panorama-mobilidade-latam-2026-07-03-es.pdf",
+    "card_count": 26,
+    "country_count": 12,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-03/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-03/panorama-mobilidade-latam-2026-07-03-pt.pdf",
-    "pt_pdf_size": 170311,
+    "pt_pdf_size": 104137,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-03/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-03/panorama-mobilidade-latam-2026-07-03-es.pdf",
-    "es_pdf_size": 170426
+    "es_pdf_size": 104183
   },
   {
     "date": "2026-07-04",
@@ -187,12 +215,14 @@
     "es_html_path": "edicoes/2026-07-04/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-04/panorama-mobilidade-latam-2026-07-04-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-04/panorama-mobilidade-latam-2026-07-04-es.pdf",
+    "card_count": 20,
+    "country_count": 12,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-04/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-04/panorama-mobilidade-latam-2026-07-04-pt.pdf",
-    "pt_pdf_size": 161253,
+    "pt_pdf_size": 97683,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-04/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-04/panorama-mobilidade-latam-2026-07-04-es.pdf",
-    "es_pdf_size": 161762
+    "es_pdf_size": 98075
   },
   {
     "date": "2026-07-06",
@@ -200,12 +230,14 @@
     "es_html_path": "edicoes/2026-07-06/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-06/panorama-mobilidade-latam-2026-07-06-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-06/panorama-mobilidade-latam-2026-07-06-es.pdf",
+    "card_count": 14,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-06/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-06/panorama-mobilidade-latam-2026-07-06-pt.pdf",
-    "pt_pdf_size": 122348,
+    "pt_pdf_size": 87765,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-06/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-06/panorama-mobilidade-latam-2026-07-06-es.pdf",
-    "es_pdf_size": 122504
+    "es_pdf_size": 87907
   },
   {
     "date": "2026-07-07",
@@ -213,12 +245,14 @@
     "es_html_path": "edicoes/2026-07-07/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-07/panorama-mobilidade-latam-2026-07-07-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-07/panorama-mobilidade-latam-2026-07-07-es.pdf",
+    "card_count": 17,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-07/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-07/panorama-mobilidade-latam-2026-07-07-pt.pdf",
-    "pt_pdf_size": 204737,
+    "pt_pdf_size": 49736,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-07/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-07/panorama-mobilidade-latam-2026-07-07-es.pdf",
-    "es_pdf_size": 204593
+    "es_pdf_size": 49729
   },
   {
     "date": "2026-07-08",
@@ -226,12 +260,14 @@
     "es_html_path": "edicoes/2026-07-08/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-08/panorama-mobilidade-latam-2026-07-08-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-08/panorama-mobilidade-latam-2026-07-08-es.pdf",
+    "card_count": 17,
+    "country_count": 0,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-08/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-08/panorama-mobilidade-latam-2026-07-08-pt.pdf",
-    "pt_pdf_size": 230571,
+    "pt_pdf_size": 48245,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-08/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-08/panorama-mobilidade-latam-2026-07-08-es.pdf",
-    "es_pdf_size": 230781
+    "es_pdf_size": 48720
   },
   {
     "date": "2026-07-09",
@@ -239,12 +275,14 @@
     "es_html_path": "edicoes/2026-07-09/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-09/panorama-mobilidade-latam-2026-07-09-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-09/panorama-mobilidade-latam-2026-07-09-es.pdf",
+    "card_count": 17,
+    "country_count": 0,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-09/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-09/panorama-mobilidade-latam-2026-07-09-pt.pdf",
-    "pt_pdf_size": 240335,
+    "pt_pdf_size": 98525,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-09/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-09/panorama-mobilidade-latam-2026-07-09-es.pdf",
-    "es_pdf_size": 240491
+    "es_pdf_size": 99283
   },
   {
     "date": "2026-07-10",
@@ -252,12 +290,14 @@
     "es_html_path": "edicoes/2026-07-10/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-10/panorama-mobilidade-latam-2026-07-10-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-10/panorama-mobilidade-latam-2026-07-10-es.pdf",
+    "card_count": 15,
+    "country_count": 0,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-10/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-10/panorama-mobilidade-latam-2026-07-10-pt.pdf",
-    "pt_pdf_size": 209322,
+    "pt_pdf_size": 93375,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-10/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-10/panorama-mobilidade-latam-2026-07-10-es.pdf",
-    "es_pdf_size": 209551
+    "es_pdf_size": 93671
   },
   {
     "date": "2026-07-13",
@@ -265,12 +305,14 @@
     "es_html_path": "edicoes/2026-07-13/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-13/panorama-mobilidade-latam-2026-07-13-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-13/panorama-mobilidade-latam-2026-07-13-es.pdf",
+    "card_count": 15,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-13/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-13/panorama-mobilidade-latam-2026-07-13-pt.pdf",
-    "pt_pdf_size": 186451,
+    "pt_pdf_size": 90059,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-13/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-13/panorama-mobilidade-latam-2026-07-13-es.pdf",
-    "es_pdf_size": 186597
+    "es_pdf_size": 90285
   },
   {
     "date": "2026-07-14",
@@ -278,12 +320,14 @@
     "es_html_path": "edicoes/2026-07-14/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-14/panorama-mobilidade-latam-2026-07-14-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-14/panorama-mobilidade-latam-2026-07-14-es.pdf",
+    "card_count": 20,
+    "country_count": 12,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-14/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-14/panorama-mobilidade-latam-2026-07-14-pt.pdf",
-    "pt_pdf_size": 255843,
+    "pt_pdf_size": 96650,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-14/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-14/panorama-mobilidade-latam-2026-07-14-es.pdf",
-    "es_pdf_size": 256022
+    "es_pdf_size": 96803
   },
   {
     "date": "2026-07-15",
@@ -291,12 +335,14 @@
     "es_html_path": "edicoes/2026-07-15/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-15/panorama-mobilidade-latam-2026-07-15-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-15/panorama-mobilidade-latam-2026-07-15-es.pdf",
+    "card_count": 21,
+    "country_count": 11,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-15/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-15/panorama-mobilidade-latam-2026-07-15-pt.pdf",
-    "pt_pdf_size": 242929,
+    "pt_pdf_size": 99194,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-15/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-15/panorama-mobilidade-latam-2026-07-15-es.pdf",
-    "es_pdf_size": 243241
+    "es_pdf_size": 99707
   },
   {
     "date": "2026-07-16",
@@ -304,12 +350,14 @@
     "es_html_path": "edicoes/2026-07-16/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-16/panorama-mobilidade-latam-2026-07-16-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-16/panorama-mobilidade-latam-2026-07-16-es.pdf",
+    "card_count": 16,
+    "country_count": 11,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-16/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-16/panorama-mobilidade-latam-2026-07-16-pt.pdf",
-    "pt_pdf_size": 229365,
+    "pt_pdf_size": 92238,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-16/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-16/panorama-mobilidade-latam-2026-07-16-es.pdf",
-    "es_pdf_size": 229613
+    "es_pdf_size": 92513
   },
   {
     "date": "2026-07-17",
@@ -317,12 +365,14 @@
     "es_html_path": "edicoes/2026-07-17/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-17/panorama-mobilidade-latam-2026-07-17-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-17/panorama-mobilidade-latam-2026-07-17-es.pdf",
+    "card_count": 13,
+    "country_count": 7,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-17/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-17/panorama-mobilidade-latam-2026-07-17-pt.pdf",
-    "pt_pdf_size": 182397,
+    "pt_pdf_size": 86053,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-17/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-17/panorama-mobilidade-latam-2026-07-17-es.pdf",
-    "es_pdf_size": 182474
+    "es_pdf_size": 86104
   },
   {
     "date": "2026-07-20",
@@ -330,12 +380,14 @@
     "es_html_path": "edicoes/2026-07-20/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-20/panorama-mobilidade-latam-2026-07-20-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-20/panorama-mobilidade-latam-2026-07-20-es.pdf",
+    "card_count": 11,
+    "country_count": 7,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-20/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-20/panorama-mobilidade-latam-2026-07-20-pt.pdf",
-    "pt_pdf_size": 154634,
+    "pt_pdf_size": 83682,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-20/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-20/panorama-mobilidade-latam-2026-07-20-es.pdf",
-    "es_pdf_size": 154494
+    "es_pdf_size": 83830
   },
   {
     "date": "2026-07-21",
@@ -343,12 +395,14 @@
     "es_html_path": "edicoes/2026-07-21/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-21/panorama-mobilidade-latam-2026-07-21-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-21/panorama-mobilidade-latam-2026-07-21-es.pdf",
+    "card_count": 22,
+    "country_count": 10,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-21/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-21/panorama-mobilidade-latam-2026-07-21-pt.pdf",
-    "pt_pdf_size": 210396,
+    "pt_pdf_size": 96926,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-21/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-21/panorama-mobilidade-latam-2026-07-21-es.pdf",
-    "es_pdf_size": 210435
+    "es_pdf_size": 96792
   },
   {
     "date": "2026-07-22",
@@ -356,12 +410,14 @@
     "es_html_path": "edicoes/2026-07-22/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-22/panorama-mobilidade-latam-2026-07-22-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-22/panorama-mobilidade-latam-2026-07-22-es.pdf",
+    "card_count": 19,
+    "country_count": 11,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-22/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-22/panorama-mobilidade-latam-2026-07-22-pt.pdf",
-    "pt_pdf_size": 240863,
+    "pt_pdf_size": 95257,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-22/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-22/panorama-mobilidade-latam-2026-07-22-es.pdf",
-    "es_pdf_size": 240790
+    "es_pdf_size": 95045
   },
   {
     "date": "2026-07-23",
@@ -369,12 +425,14 @@
     "es_html_path": "edicoes/2026-07-23/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-23/panorama-mobilidade-latam-2026-07-23-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-23/panorama-mobilidade-latam-2026-07-23-es.pdf",
+    "card_count": 15,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-23/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-23/panorama-mobilidade-latam-2026-07-23-pt.pdf",
-    "pt_pdf_size": 193126,
+    "pt_pdf_size": 89521,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-23/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-23/panorama-mobilidade-latam-2026-07-23-es.pdf",
-    "es_pdf_size": 193335
+    "es_pdf_size": 89826
   },
   {
     "date": "2026-07-24",
@@ -382,12 +440,14 @@
     "es_html_path": "edicoes/2026-07-24/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-24/panorama-mobilidade-latam-2026-07-24-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-24/panorama-mobilidade-latam-2026-07-24-es.pdf",
+    "card_count": 11,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-24/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-24/panorama-mobilidade-latam-2026-07-24-pt.pdf",
-    "pt_pdf_size": 176039,
+    "pt_pdf_size": 83244,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-24/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-24/panorama-mobilidade-latam-2026-07-24-es.pdf",
-    "es_pdf_size": 176053
+    "es_pdf_size": 83225
   },
   {
     "date": "2026-07-27",
@@ -395,12 +455,14 @@
     "es_html_path": "edicoes/2026-07-27/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-27/panorama-mobilidade-latam-2026-07-27-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-27/panorama-mobilidade-latam-2026-07-27-es.pdf",
+    "card_count": 11,
+    "country_count": 4,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-27/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-27/panorama-mobilidade-latam-2026-07-27-pt.pdf",
-    "pt_pdf_size": 113274,
+    "pt_pdf_size": 81757,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-27/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-27/panorama-mobilidade-latam-2026-07-27-es.pdf",
-    "es_pdf_size": 113154
+    "es_pdf_size": 81625
   },
   {
     "date": "2026-07-28",
@@ -408,12 +470,14 @@
     "es_html_path": "edicoes/2026-07-28/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-28/panorama-mobilidade-latam-2026-07-28-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-28/panorama-mobilidade-latam-2026-07-28-es.pdf",
+    "card_count": 18,
+    "country_count": 8,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-28/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-28/panorama-mobilidade-latam-2026-07-28-pt.pdf",
-    "pt_pdf_size": 182020,
+    "pt_pdf_size": 94030,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-28/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-28/panorama-mobilidade-latam-2026-07-28-es.pdf",
-    "es_pdf_size": 182690
+    "es_pdf_size": 94245
   },
   {
     "date": "2026-07-29",
@@ -421,12 +485,14 @@
     "es_html_path": "edicoes/2026-07-29/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-29/panorama-mobilidade-latam-2026-07-29-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-29/panorama-mobilidade-latam-2026-07-29-es.pdf",
+    "card_count": 15,
+    "country_count": 0,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-29/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-29/panorama-mobilidade-latam-2026-07-29-pt.pdf",
-    "pt_pdf_size": 178859,
+    "pt_pdf_size": 94594,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-29/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-29/panorama-mobilidade-latam-2026-07-29-es.pdf",
-    "es_pdf_size": 178803
+    "es_pdf_size": 94593
   },
   {
     "date": "2026-07-30",
@@ -434,12 +500,14 @@
     "es_html_path": "edicoes/2026-07-30/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-30/panorama-mobilidade-latam-2026-07-30-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-30/panorama-mobilidade-latam-2026-07-30-es.pdf",
+    "card_count": 17,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-30/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-30/panorama-mobilidade-latam-2026-07-30-pt.pdf",
-    "pt_pdf_size": 194355,
+    "pt_pdf_size": 94178,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-30/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-30/panorama-mobilidade-latam-2026-07-30-es.pdf",
-    "es_pdf_size": 194704
+    "es_pdf_size": 94507
   },
   {
     "date": "2026-07-31",
@@ -447,12 +515,14 @@
     "es_html_path": "edicoes/2026-07-31/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-07-31/panorama-mobilidade-latam-2026-07-31-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-07-31/panorama-mobilidade-latam-2026-07-31-es.pdf",
+    "card_count": 15,
+    "country_count": 7,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-31/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-31/panorama-mobilidade-latam-2026-07-31-pt.pdf",
-    "pt_pdf_size": 162552,
+    "pt_pdf_size": 89616,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-07-31/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-07-31/panorama-mobilidade-latam-2026-07-31-es.pdf",
-    "es_pdf_size": 162620
+    "es_pdf_size": 89781
   },
   {
     "date": "2026-08-03",
@@ -460,12 +530,14 @@
     "es_html_path": "edicoes/2026-08-03/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-03/panorama-mobilidade-latam-2026-08-03-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-03/panorama-mobilidade-latam-2026-08-03-es.pdf",
+    "card_count": 18,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-03/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-03/panorama-mobilidade-latam-2026-08-03-pt.pdf",
-    "pt_pdf_size": 196952,
+    "pt_pdf_size": 94289,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-03/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-03/panorama-mobilidade-latam-2026-08-03-es.pdf",
-    "es_pdf_size": 197120
+    "es_pdf_size": 94220
   },
   {
     "date": "2026-08-04",
@@ -473,12 +545,14 @@
     "es_html_path": "edicoes/2026-08-04/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-04/panorama-mobilidade-latam-2026-08-04-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-04/panorama-mobilidade-latam-2026-08-04-es.pdf",
+    "card_count": 14,
+    "country_count": 8,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-04/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-04/panorama-mobilidade-latam-2026-08-04-pt.pdf",
-    "pt_pdf_size": 188182,
+    "pt_pdf_size": 89573,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-04/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-04/panorama-mobilidade-latam-2026-08-04-es.pdf",
-    "es_pdf_size": 188471
+    "es_pdf_size": 90009
   },
   {
     "date": "2026-08-05",
@@ -486,12 +560,14 @@
     "es_html_path": "edicoes/2026-08-05/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-05/panorama-mobilidade-latam-2026-08-05-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-05/panorama-mobilidade-latam-2026-08-05-es.pdf",
+    "card_count": 16,
+    "country_count": 11,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-05/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-05/panorama-mobilidade-latam-2026-08-05-pt.pdf",
-    "pt_pdf_size": 229184,
+    "pt_pdf_size": 93023,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-05/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-05/panorama-mobilidade-latam-2026-08-05-es.pdf",
-    "es_pdf_size": 228805
+    "es_pdf_size": 93639
   },
   {
     "date": "2026-08-06",
@@ -499,12 +575,14 @@
     "es_html_path": "edicoes/2026-08-06/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-06/panorama-mobilidade-latam-2026-08-06-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-06/panorama-mobilidade-latam-2026-08-06-es.pdf",
+    "card_count": 12,
+    "country_count": 10,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-06/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-06/panorama-mobilidade-latam-2026-08-06-pt.pdf",
-    "pt_pdf_size": 178952,
+    "pt_pdf_size": 85269,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-06/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-06/panorama-mobilidade-latam-2026-08-06-es.pdf",
-    "es_pdf_size": 179001
+    "es_pdf_size": 85338
   },
   {
     "date": "2026-08-07",
@@ -512,12 +590,14 @@
     "es_html_path": "edicoes/2026-08-07/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-07/panorama-mobilidade-latam-2026-08-07-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-07/panorama-mobilidade-latam-2026-08-07-es.pdf",
+    "card_count": 22,
+    "country_count": 13,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-07/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-07/panorama-mobilidade-latam-2026-08-07-pt.pdf",
-    "pt_pdf_size": 292103,
+    "pt_pdf_size": 101498,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-07/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-07/panorama-mobilidade-latam-2026-08-07-es.pdf",
-    "es_pdf_size": 291867
+    "es_pdf_size": 101578
   },
   {
     "date": "2026-08-10",
@@ -525,12 +605,14 @@
     "es_html_path": "edicoes/2026-08-10/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-10/panorama-mobilidade-latam-2026-08-10-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-10/panorama-mobilidade-latam-2026-08-10-es.pdf",
+    "card_count": 20,
+    "country_count": 11,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-10/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-10/panorama-mobilidade-latam-2026-08-10-pt.pdf",
-    "pt_pdf_size": 211124,
+    "pt_pdf_size": 99900,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-10/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-10/panorama-mobilidade-latam-2026-08-10-es.pdf",
-    "es_pdf_size": 211020
+    "es_pdf_size": 99796
   },
   {
     "date": "2026-08-11",
@@ -538,12 +620,14 @@
     "es_html_path": "edicoes/2026-08-11/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-11/panorama-mobilidade-latam-2026-08-11-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-11/panorama-mobilidade-latam-2026-08-11-es.pdf",
+    "card_count": 21,
+    "country_count": 11,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-11/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-11/panorama-mobilidade-latam-2026-08-11-pt.pdf",
-    "pt_pdf_size": 260097,
+    "pt_pdf_size": 102426,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-11/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-11/panorama-mobilidade-latam-2026-08-11-es.pdf",
-    "es_pdf_size": 260345
+    "es_pdf_size": 102484
   },
   {
     "date": "2026-08-12",
@@ -551,12 +635,14 @@
     "es_html_path": "edicoes/2026-08-12/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-12/panorama-mobilidade-latam-2026-08-12-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-12/panorama-mobilidade-latam-2026-08-12-es.pdf",
+    "card_count": 18,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-12/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-12/panorama-mobilidade-latam-2026-08-12-pt.pdf",
-    "pt_pdf_size": 206393,
+    "pt_pdf_size": 97120,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-12/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-12/panorama-mobilidade-latam-2026-08-12-es.pdf",
-    "es_pdf_size": 206393
+    "es_pdf_size": 97077
   },
   {
     "date": "2026-08-13",
@@ -564,12 +650,14 @@
     "es_html_path": "edicoes/2026-08-13/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-13/panorama-mobilidade-latam-2026-08-13-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-13/panorama-mobilidade-latam-2026-08-13-es.pdf",
+    "card_count": 14,
+    "country_count": 10,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-13/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-13/panorama-mobilidade-latam-2026-08-13-pt.pdf",
-    "pt_pdf_size": 209678,
+    "pt_pdf_size": 91384,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-13/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-13/panorama-mobilidade-latam-2026-08-13-es.pdf",
-    "es_pdf_size": 209711
+    "es_pdf_size": 91489
   },
   {
     "date": "2026-08-14",
@@ -577,12 +665,14 @@
     "es_html_path": "edicoes/2026-08-14/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-14/panorama-mobilidade-latam-2026-08-14-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-14/panorama-mobilidade-latam-2026-08-14-es.pdf",
+    "card_count": 16,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-14/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-14/panorama-mobilidade-latam-2026-08-14-pt.pdf",
-    "pt_pdf_size": 173564,
+    "pt_pdf_size": 91690,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-14/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-14/panorama-mobilidade-latam-2026-08-14-es.pdf",
-    "es_pdf_size": 173345
+    "es_pdf_size": 91617
   },
   {
     "date": "2026-08-17",
@@ -590,12 +680,14 @@
     "es_html_path": "edicoes/2026-08-17/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-17/panorama-mobilidade-latam-2026-08-17-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-17/panorama-mobilidade-latam-2026-08-17-es.pdf",
+    "card_count": 12,
+    "country_count": 7,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-17/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-17/panorama-mobilidade-latam-2026-08-17-pt.pdf",
-    "pt_pdf_size": 165112,
+    "pt_pdf_size": 87283,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-17/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-17/panorama-mobilidade-latam-2026-08-17-es.pdf",
-    "es_pdf_size": 164672
+    "es_pdf_size": 87237
   },
   {
     "date": "2026-08-18",
@@ -603,12 +695,14 @@
     "es_html_path": "edicoes/2026-08-18/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-18/panorama-mobilidade-latam-2026-08-18-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-18/panorama-mobilidade-latam-2026-08-18-es.pdf",
+    "card_count": 15,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-18/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-18/panorama-mobilidade-latam-2026-08-18-pt.pdf",
-    "pt_pdf_size": 208885,
+    "pt_pdf_size": 91124,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-18/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-18/panorama-mobilidade-latam-2026-08-18-es.pdf",
-    "es_pdf_size": 208832
+    "es_pdf_size": 91362
   },
   {
     "date": "2026-08-19",
@@ -616,12 +710,14 @@
     "es_html_path": "edicoes/2026-08-19/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-19/panorama-mobilidade-latam-2026-08-19-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-19/panorama-mobilidade-latam-2026-08-19-es.pdf",
+    "card_count": 17,
+    "country_count": 10,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-19/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-19/panorama-mobilidade-latam-2026-08-19-pt.pdf",
-    "pt_pdf_size": 221128,
+    "pt_pdf_size": 93848,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-19/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-19/panorama-mobilidade-latam-2026-08-19-es.pdf",
-    "es_pdf_size": 221221
+    "es_pdf_size": 94091
   },
   {
     "date": "2026-08-20",
@@ -629,12 +725,14 @@
     "es_html_path": "edicoes/2026-08-20/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-20/panorama-mobilidade-latam-2026-08-20-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-20/panorama-mobilidade-latam-2026-08-20-es.pdf",
+    "card_count": 25,
+    "country_count": 11,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-20/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-20/panorama-mobilidade-latam-2026-08-20-pt.pdf",
-    "pt_pdf_size": 251882,
+    "pt_pdf_size": 105950,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-20/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-20/panorama-mobilidade-latam-2026-08-20-es.pdf",
-    "es_pdf_size": 252680
+    "es_pdf_size": 106896
   },
   {
     "date": "2026-08-21",
@@ -642,11 +740,13 @@
     "es_html_path": "edicoes/2026-08-21/es/index.html",
     "pt_pdf_path": "arquivos/clippings/2026-08-21/panorama-mobilidade-latam-2026-08-21-pt.pdf",
     "es_pdf_path": "arquivos/clippings/2026-08-21/panorama-mobilidade-latam-2026-08-21-es.pdf",
+    "card_count": 17,
+    "country_count": 9,
     "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-21/index.html",
     "pt_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-21/panorama-mobilidade-latam-2026-08-21-pt.pdf",
-    "pt_pdf_size": 212210,
+    "pt_pdf_size": 94806,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-08-21/es/index.html",
     "es_pdf_url": "https://panoramamobilidade.github.io/arquivos/clippings/2026-08-21/panorama-mobilidade-latam-2026-08-21-es.pdf",
-    "es_pdf_size": 212539
+    "es_pdf_size": 94890
   }
 ]
