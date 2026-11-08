@@ -9,8 +9,24 @@
     "es_pdf_path": null,
     "pt_pdf_url": null,
     "es_pdf_url": null,
-    "cards": 9,
-    "countries": 4
+    "cards": 20,
+    "countries": 8,
+    "country_counts": {
+      "argentina": 1,
+      "bolivia": 2,
+      "brasil": 6,
+      "peru": 1,
+      "mexico": 3,
+      "colombia": 3,
+      "paraguai": 3,
+      "costa-rica": 1
+    },
+    "signal_counts": {
+      "op": 5,
+      "monitor": 3,
+      "watch": 11,
+      "risk": 1
+    }
   },
   {
     "date": "2026-11-07",
