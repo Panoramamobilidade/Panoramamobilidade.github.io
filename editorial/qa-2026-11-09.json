@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-09",
+  "cards": 34,
+  "countries": 13,
+  "country_counts": {
+    "Argentina": 2,
+    "Bolivia": 2,
+    "Brasil": 10,
+    "Chile": 2,
+    "Colombia": 2,
+    "Costa Rica": 2,
+    "Equador": 2,
+    "Guatemala": 2,
+    "Mexico": 4,
+    "Panama": 1,
+    "Paraguay": 2,
+    "Peru": 2,
+    "Uruguay": 1
+  },
+  "signal_counts": {
+    "op": 10,
+    "risk": 3,
+    "watch": 19,
+    "monitor": 2
+  },
+  "older_edition_files_unchanged": 200,
+  "withheld": [
+    "BOL-02"
+  ],
+  "pdf": "Not generated: established local PDF converters unavailable.",
+  "local_qa": "passed"
+}

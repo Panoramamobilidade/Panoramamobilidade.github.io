@@ -10,7 +10,30 @@
     "pt_pdf_size": null,
     "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-11-09/es/",
     "es_pdf_url": null,
-    "es_pdf_size": null
+    "es_pdf_size": null,
+    "cards": 34,
+    "countries": 13,
+    "country_counts": {
+      "Argentina": 2,
+      "Bolivia": 2,
+      "Brasil": 10,
+      "Chile": 2,
+      "Colombia": 2,
+      "Costa Rica": 2,
+      "Equador": 2,
+      "Guatemala": 2,
+      "Mexico": 4,
+      "Panama": 1,
+      "Paraguay": 2,
+      "Peru": 2,
+      "Uruguay": 1
+    },
+    "signal_counts": {
+      "op": 10,
+      "risk": 3,
+      "watch": 19,
+      "monitor": 2
+    }
   },
   {
     "date": "2026-11-08",
