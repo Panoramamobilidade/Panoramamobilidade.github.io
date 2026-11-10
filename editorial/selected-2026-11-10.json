@@ -1,0 +1,569 @@
+{
+  "date": "2026-11-10",
+  "cards": [
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-09",
+      "source_url": "https://diariodotransporte.com.br/2026/11/09/metro-df-adia-para-25-de-novembro-licitacao-de-novo-sistema-de-controle-de-trens-que-inclui-expansoes-de-ceilandia-e-samambaia/",
+      "theme_pt": "Sinalização ferroviária / licitação",
+      "theme_es": "Señalización ferroviaria / licitación",
+      "title_pt": "Metrô-DF remarca para 25 de novembro licitação do sistema CBTC da Linha 1",
+      "title_es": "Metro-DF reprograma para el 25 de noviembre la licitación del sistema CBTC de la Línea 1",
+      "summary_pt": "O Metrô-DF remarcou para 25 de novembro a sessão de recebimento de propostas para sinalização e controle de trens da Linha 1, após problema técnico informado pela comissão. O escopo inclui CBTC, telecomunicações e integração com a frota existente.",
+      "summary_es": "Metro-DF reprogramó para el 25 de noviembre la recepción de propuestas para señalización y control de trenes de la Línea 1, tras un problema técnico informado por la comisión. El alcance incluye CBTC, telecomunicaciones e integración con la flota existente.",
+      "impact_pt": "É um reagendamento de licitação, não contratação nem implantação do sistema. A concorrência e a compatibilidade com futuras extensões serão os próximos marcos.",
+      "impact_es": "Es una reprogramación de licitación, no una contratación ni la implantación del sistema. El concurso y la compatibilidad con futuras extensiones serán los próximos hitos.",
+      "source_class": "Imprensa setorial"
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-09",
+      "source_url": "https://diariodotransporte.com.br/2026/11/09/belo-horizonte-republica-licitacao-para-trabalho-social-na-vila-guarata-ligado-a-implantacao-do-terminal-brt-amazonas/",
+      "theme_pt": "Infraestrutura BRT / trabalho social",
+      "theme_es": "Infraestructura BRT / trabajo social",
+      "title_pt": "Belo Horizonte republica licitação de trabalho social ligado ao Terminal BRT Amazonas",
+      "title_es": "Belo Horizonte republica una licitación de trabajo social vinculado a la Terminal BRT Amazonas",
+      "summary_pt": "A prefeitura republicou pregão para elaborar e implementar o Projeto de Trabalho Social da Vila Guaratã, associado ao Terminal BRT Amazonas. A abertura das propostas está marcada para 18 de novembro.",
+      "summary_es": "La alcaldía republicó una licitación para elaborar e implementar el Proyecto de Trabajo Social de Vila Guaratã, asociado a la Terminal BRT Amazonas. La apertura de propuestas está prevista para el 18 de noviembre.",
+      "impact_pt": "A etapa explicita a dimensão social preparatória de uma intervenção de infraestrutura. Não confirma construção do terminal, reassentamentos ou operação de linhas futuras.",
+      "impact_es": "La etapa explicita la dimensión social preparatoria de una intervención de infraestructura. No confirma la construcción de la terminal, reasentamientos ni la operación de rutas futuras.",
+      "source_class": "Imprensa setorial"
+    },
+    {
+      "id": "BRA-03",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-09",
+      "source_url": "https://diariodotransporte.com.br/2026/11/09/novos-brts-metro-vlt-e-trens-regionais-distrito-federal-marca-audiencia-para-apresentar-plano-de-mobilidade-dos-proximos-dez-anos/",
+      "theme_pt": "Planejamento de rede / participação pública",
+      "theme_es": "Planificación de red / participación pública",
+      "title_pt": "Distrito Federal abre audiência pública sobre plano decenal de mobilidade",
+      "title_es": "Distrito Federal abre audiencia pública sobre un plan decenal de movilidad",
+      "summary_pt": "A Secretaria de Transporte e Mobilidade do DF agendou para 11 de novembro audiência pública sobre o PDTU, com diretrizes para BRT, metrô, VLT e trens regionais no horizonte do plano.",
+      "summary_es": "La Secretaría de Transporte y Movilidad del DF programó para el 11 de noviembre una audiencia pública sobre el PDTU, con directrices para BRT, metro, tranvía y trenes regionales en el horizonte del plan.",
+      "impact_pt": "A audiência abre uma etapa de participação e priorização de rede; não representa contratação, licitação ou implantação imediata das expansões citadas.",
+      "impact_es": "La audiencia abre una etapa de participación y priorización de red; no representa contratación, licitación ni implantación inmediata de las expansiones citadas.",
+      "source_class": "Imprensa setorial"
+    },
+    {
+      "id": "BRA-04",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "URBS Curitiba",
+      "source_publication_date": "2026-11-10",
+      "source_url": "https://www.urbs.curitiba.pr.gov.br/noticia/urbs-abre-consulta-publica-sobre-revisao-tarifaria-do-transporte-coletivo",
+      "theme_pt": "Tarifa / regulação / governança",
+      "theme_es": "Tarifa / regulación / gobernanza",
+      "title_pt": "Curitiba abre consulta sobre revisão tarifária anual de 2027",
+      "title_es": "Curitiba abre consulta sobre la revisión tarifaria anual de 2027",
+      "summary_pt": "A URBS abriu consulta pública para receber contribuições à revisão tarifária anual aplicável ao transporte coletivo de Curitiba em 2027. A divulgação não fixa valor de tarifa nem delibera reajuste.",
+      "summary_es": "URBS abrió una consulta pública para recibir aportes a la revisión tarifaria anual aplicable al transporte colectivo de Curitiba en 2027. La divulgación no fija un valor de tarifa ni decide un reajuste.",
+      "impact_pt": "O processo antecipa um debate regulatório relevante para custos e usuários. A proposta técnica e a decisão tarifária ainda precisarão ser publicadas.",
+      "impact_es": "El proceso anticipa un debate regulatorio relevante para costos y usuarios. La propuesta técnica y la decisión tarifaria aún deberán publicarse.",
+      "source_class": "Fonte institucional"
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "op",
+      "source": "Ministério dos Transportes e Telecomunicações (MTT)",
+      "source_publication_date": "2026-11-04",
+      "source_url": "https://mtt.gob.cl/plan-piloto-agentes-antievasion-logra-positivos-resultados-pago-del-pasaje-aumento-254/",
+      "theme_pt": "Operação / evasão tarifária",
+      "theme_es": "Operación / evasión tarifaria",
+      "title_pt": "Piloto de agentes antievasão eleva em 25,4% as validações no serviço 107 da Red Movilidad",
+      "title_es": "Piloto de agentes contra la evasión eleva un 25,4% las validaciones en el servicio 107 de Red Movilidad",
+      "summary_pt": "O MTT informa 78.473 validações adicionais e aumento de 25,4% no serviço 107, com 89 agentes em 936 viagens no primeiro mês do piloto. A autoridade declarou intenção de replicar progressivamente a medida.",
+      "summary_es": "El MTT informa 78.473 validaciones adicionales y un aumento del 25,4% en el servicio 107, con 89 agentes en 936 viajes durante el primer mes del piloto. La autoridad declaró su intención de replicar gradualmente la medida.",
+      "impact_pt": "É resultado de um piloto em um serviço, não redução comprovada da evasão em toda a rede. Replicação, custo e persistência do efeito merecem acompanhamento.",
+      "impact_es": "Es el resultado de un piloto en un servicio, no una reducción comprobada de la evasión en toda la red. La replicación, el costo y la persistencia del efecto requieren seguimiento.",
+      "source_class": "Fonte institucional"
+    },
+    {
+      "id": "CHI-02",
+      "country": "Chile",
+      "signal": "op",
+      "source": "SoyChile",
+      "source_publication_date": "2026-11-07",
+      "source_url": "https://www.soychile.cl/temuco/sociedad/2026/11/07/971880/gore-inversion-transporte-publico-araucania.html",
+      "theme_pt": "Renovação de frota / eletrificação",
+      "theme_es": "Renovación de flota / electrificación",
+      "title_pt": "Araucanía apresenta renovação de frota, eletrificação e infraestrutura de transporte público",
+      "title_es": "Araucanía presenta renovación de flota, electrificación e infraestructura de transporte público",
+      "summary_pt": "O Governo Regional informou investimento de CLP 10.242 milhões em 2026, com renovação de 263 veículos em 22 comunas, recursos para ônibus padrão RED, táxis coletivos e dez projetos de infraestrutura. Entre os táxis coletivos apresentados há 26 elétricos.",
+      "summary_es": "El Gobierno Regional informó una inversión de CLP 10.242 millones en 2026, con renovación de 263 vehículos en 22 comunas, recursos para buses estándar RED, taxis colectivos y diez proyectos de infraestructura. Entre los taxis colectivos presentados hay 26 eléctricos.",
+      "impact_pt": "O pacote combina renovação, acessibilidade e infraestrutura regional. Os 26 elétricos não devem ser estendidos a todos os 263 veículos apresentados.",
+      "impact_es": "El paquete combina renovación, accesibilidad e infraestructura regional. Los 26 eléctricos no deben extrapolarse a los 263 vehículos presentados.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "Portal Bogotá / Empresa Metro de Bogotá",
+      "source_publication_date": "2026-11-08",
+      "source_url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/metro-de-bogota-completa-puente-ferroviario-en-la-nqs",
+      "theme_pt": "Infraestrutura metroferroviária / obras",
+      "theme_es": "Infraestructura metroferroviaria / obras",
+      "title_pt": "Linha 1 do Metro de Bogotá completa continuidade estrutural de ponte ferroviária na NQS",
+      "title_es": "Línea 1 del Metro de Bogotá completa la continuidad estructural de un puente ferroviario en la NQS",
+      "summary_pt": "A concretagem da última aduela completou a continuidade da estrutura de 159 metros na NQS com Calle 8 Sur. O Portal Bogotá situa o avanço global da Linha 1 em 84,68%.",
+      "summary_es": "El vaciado de la última dovela completó la continuidad de la estructura de 159 metros en la NQS con Calle 8 Sur. Portal Bogotá sitúa el avance global de la Línea 1 en el 84,68%.",
+      "impact_pt": "O marco físico reduz incertezas de execução em um ponto crítico da obra. O percentual é o informado pelo poder público e não equivale à entrada em operação.",
+      "impact_es": "El hito físico reduce incertidumbres de ejecución en un punto crítico de la obra. El porcentaje es el informado por el poder público y no equivale a la entrada en operación.",
+      "source_class": "Fonte institucional"
+    },
+    {
+      "id": "COL-02",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "Portal Bogotá / Empresa Metro de Bogotá",
+      "source_publication_date": "2026-11-08",
+      "source_url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/linea-1-metro-bogota-11-parques-renovados-en-las-areas-de-influencia",
+      "theme_pt": "Integração urbana / segurança viária",
+      "theme_es": "Integración urbana / seguridad vial",
+      "title_pt": "Linha 1 do Metro de Bogotá prevê renovar 11 parques no entorno do corredor",
+      "title_es": "Línea 1 del Metro de Bogotá prevé renovar 11 parques en el entorno del corredor",
+      "summary_pt": "A fonte informa intervenções de pavimentação, mobiliário urbano, interseções e conexões de pedestres em 11 parques da área de influência, como parte das melhorias de espaço público da Linha 1.",
+      "summary_es": "La fuente informa intervenciones de pavimentación, mobiliario urbano, intersecciones y conexiones peatonales en 11 parques del área de influencia, como parte de las mejoras de espacio público de la Línea 1.",
+      "impact_pt": "A frente conecta a obra principal à acessibilidade e à segurança dos acessos. É uma intervenção planejada no corredor, não uma entrega já concluída dos parques.",
+      "impact_es": "El frente conecta la obra principal con la accesibilidad y la seguridad de los accesos. Es una intervención planificada en el corredor, no una entrega ya concluida de los parques.",
+      "source_class": "Fonte institucional"
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "Chilango",
+      "source_publication_date": "2026-11-04",
+      "source_url": "https://www.chilango.com/noticias/transporte/linea-3-del-metro-tendra-intervencion-profunda-de-indios-verdes-a-la-raza-cierres-nocturnos-y-en-fin-de-semana/",
+      "theme_pt": "Infraestrutura metroferroviária / modernização",
+      "theme_es": "Infraestructura metroferroviaria / modernización",
+      "title_pt": "CDMX detalha intervenção profunda na Linha 3 do Metro entre Indios Verdes e La Raza",
+      "title_es": "CDMX detalla una intervención profunda en la Línea 3 del Metro entre Indios Verdes y La Raza",
+      "summary_pt": "O secretário de Mobilidade descreveu intervenção no trecho afetado por falha geológica, com modernização integral, orçamento superior a MXN 40 bilhões e programação de fechamentos noturnos e de fins de semana. A fonte situa 2027 como período mais intenso.",
+      "summary_es": "El secretario de Movilidad describió una intervención en el tramo afectado por una falla geológica, con modernización integral, presupuesto superior a MXN 40 mil millones y programación de cierres nocturnos y de fines de semana. La fuente sitúa 2027 como el período más intenso.",
+      "impact_pt": "O anúncio torna visível o desafio de resiliência de um trecho crítico da rede. Não se trata de obra já iniciada, orçamento integralmente executado ou calendário definitivo de interrupções.",
+      "impact_es": "El anuncio visibiliza el desafío de resiliencia de un tramo crítico de la red. No se trata de una obra ya iniciada, presupuesto plenamente ejecutado ni calendario definitivo de interrupciones.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "URU-01",
+      "country": "Uruguay",
+      "signal": "watch",
+      "source": "El País Uruguay",
+      "source_publication_date": "2026-11-09",
+      "source_url": "https://www.elpais.com.uy/informacion/servicios/cuando-se-podra-abonar-el-boleto-con-tarjeta-de-credito-y-debito-en-los-omnibus-de-montevideo",
+      "theme_pt": "Bilhetagem / pagamentos interoperáveis",
+      "theme_es": "Recaudo / pagos interoperables",
+      "title_pt": "Montevidéu prevê pagamentos a bordo por cartões e e-wallets a partir de junho de 2027",
+      "title_es": "Montevideo prevé pagos a bordo con tarjetas y e-wallets desde junio de 2027",
+      "summary_pt": "Reportagem atribuída à Intendência de Montevidéu informa cronograma a partir de junho de 2027 para pagamento a bordo com cartões nacionais e internacionais de débito, crédito, pré-pagos e e-wallets. A nota também registra teste da nova versão de Cómo Ir.",
+      "summary_es": "Una nota atribuida a la Intendencia de Montevideo informa un cronograma desde junio de 2027 para pagos a bordo con tarjetas nacionales e internacionales de débito, crédito, prepagas y e-wallets. También registra pruebas de una nueva versión de Cómo Ir.",
+      "impact_pt": "O cronograma aponta uma agenda de interoperabilidade de pagamentos e informação ao usuário. A aceitação não está disponível hoje e a conclusão dependerá da implantação anunciada.",
+      "impact_es": "El cronograma apunta a una agenda de interoperabilidad de pagos e información al usuario. La aceptación no está disponible hoy y la conclusión dependerá de la implantación anunciada.",
+      "source_class": "Imprensa jornalística"
+    }
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A.",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A.",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones",
+      "tipo_fonte": "associado_uitp"
+    }
+  ],
+  "coverage_gaps": [
+    "Argentina",
+    "Bolivia",
+    "Costa Rica",
+    "Equador",
+    "El Salvador",
+    "Guatemala",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Venezuela"
+  ],
+  "intake_records": [
+    "2026-11-10-0830-fontes-proprias.md",
+    "2026-11-10-0930-imprensa-instituicoes.md",
+    "2026-11-10-1015-google-news-lacunas.md"
+  ]
+}

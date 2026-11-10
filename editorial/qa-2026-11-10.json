@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-10",
+  "cards": 10,
+  "countries": 5,
+  "country_counts": {
+    "Brasil": 4,
+    "Chile": 2,
+    "Colombia": 2,
+    "Mexico": 1,
+    "Uruguay": 1
+  },
+  "signal_counts": {
+    "watch": 6,
+    "op": 4
+  },
+  "coverage_gaps": [
+    "Argentina",
+    "Bolivia",
+    "Costa Rica",
+    "Equador",
+    "El Salvador",
+    "Guatemala",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Venezuela"
+  ],
+  "google_news_final_urls": 0,
+  "local_qa": "passed",
+  "pdf": "not generated"
+}
