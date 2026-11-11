@@ -1,5 +1,30 @@
 [
   {
+    "date": "2026-11-11",
+    "pt_html_path": "edicoes/2026-11-11/index.html",
+    "es_html_path": "edicoes/2026-11-11/es/index.html",
+    "pt_pdf_path": null,
+    "es_pdf_path": null,
+    "pt_html_url": "https://panoramamobilidade.github.io/edicoes/2026-11-11/",
+    "es_html_url": "https://panoramamobilidade.github.io/edicoes/2026-11-11/es/",
+    "pt_pdf_url": null,
+    "es_pdf_url": null,
+    "cards": 8,
+    "countries": 6,
+    "country_counts": {
+      "Brasil": 3,
+      "Chile": 1,
+      "Colombia": 1,
+      "Costa Rica": 1,
+      "Mexico": 1,
+      "Panama": 1
+    },
+    "signal_counts": {
+      "watch": 5,
+      "op": 3
+    }
+  },
+  {
     "date": "2026-11-10",
     "pt_html_path": "edicoes/2026-11-10/index.html",
     "es_html_path": "edicoes/2026-11-10/es/index.html",
