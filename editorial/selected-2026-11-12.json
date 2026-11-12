@@ -1,0 +1,549 @@
+{
+  "date": "2026-11-12",
+  "cards": [
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "monitor",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://technibus.com.br/2026/11/11/empregos-verdes-abrem-novas-oportunidades-para-motoristas-mecanicos-e-industria-brasileira-de-onibus",
+      "theme_pt": "Eletrificação / qualificação profissional",
+      "theme_es": "Electrificación / formación profesional",
+      "title_pt": "Transição energética do ônibus entra no debate sobre empregos verdes e qualificação",
+      "title_es": "La transición energética del bus entra en el debate sobre empleos verdes y formación",
+      "summary_pt": "Reportagem associa a transição energética do transporte coletivo à necessidade de qualificar motoristas, mecânicos e a cadeia industrial de ônibus, a partir de debates da COP31.",
+      "summary_es": "El reportaje vincula la transición energética del transporte colectivo con la necesidad de formar conductores, mecánicos y la cadena industrial de buses, a partir de debates de la COP31.",
+      "impact_pt": "É um sinal setorial sobre capacidades necessárias para a eletrificação. Não anuncia programa regulatório, contrato ou implantação operacional novos.",
+      "impact_es": "Es una señal sectorial sobre las capacidades necesarias para la electrificación. No anuncia un nuevo programa regulatorio, contrato ni implantación operativa.",
+      "source_class": "Imprensa setorial"
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "Metro de Medellín",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://www.metrodemedellin.gov.co/al-dia/noticias/llegan-los-pagos-abiertos-al-metro-de-medellin-ahora-es-posible-viajar-pagando-con-tarjetas-bancarias",
+      "theme_pt": "Bilhetagem / pagamentos abertos",
+      "theme_es": "Recaudo / pagos abiertos",
+      "title_pt": "Metro de Medellín inicia pagamentos abertos com cartão e carteiras digitais",
+      "title_es": "Metro de Medellín inicia pagos abiertos con tarjetas y billeteras digitales",
+      "summary_pt": "Cartões Visa e Mastercard por aproximação, Apple Pay e Google Pay começaram a ser aceitos nas linhas A e B. A expansão para outros modos está vinculada à modernização da Cívica.",
+      "summary_es": "Tarjetas Visa y Mastercard sin contacto, Apple Pay y Google Pay comenzaron a aceptarse en las líneas A y B. La expansión a otros modos está vinculada a la modernización de Cívica.",
+      "impact_pt": "A implantação atualiza o acesso ao sistema e cria referência regional em pagamentos abertos; a ampliação anunciada ainda depende das próximas etapas de modernização.",
+      "impact_es": "La implantación actualiza el acceso al sistema y crea una referencia regional en pagos abiertos; la ampliación anunciada aún depende de las próximas etapas de modernización.",
+      "source_class": "Fonte institucional"
+    },
+    {
+      "id": "COS-01",
+      "country": "Costa Rica",
+      "signal": "watch",
+      "source": "Teletica / consulta pública INCOFER",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://www.teletica.com/nacional/incofer-publica-cartel-para-contratar-empresa-que-gestione-el-tren-electrico-tibi_420970",
+      "theme_pt": "Ferrovia / estruturação de projeto",
+      "theme_es": "Ferrocarril / estructuración de proyecto",
+      "title_pt": "INCOFER publica licitação para gerir a estruturação do trem elétrico TIBI",
+      "title_es": "INCOFER publica licitación para gestionar la estructuración del tren eléctrico TIBI",
+      "summary_pt": "O edital busca a empresa que coordenará as licitações de desenho e construção das duas primeiras linhas do projeto. A reportagem cita prazo de dois meses para propostas e projeta primeiras obras na ligação San José–Heredia–Alajuela em 2028.",
+      "summary_es": "El pliego busca la empresa que coordinará las licitaciones de diseño y construcción de las dos primeras líneas del proyecto. El reportaje cita dos meses para propuestas y proyecta primeras obras en la conexión San José–Heredia–Alajuela en 2028.",
+      "impact_pt": "O marco é de contratação para estruturação, não de início das obras. A definição da gestora condicionará as próximas licitações do projeto ferroviário.",
+      "impact_es": "El hito es de contratación para estructuración, no de inicio de obras. La definición de la gestora condicionará las próximas licitaciones del proyecto ferroviario.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "GUA-01",
+      "country": "Guatemala",
+      "signal": "op",
+      "source": "Infobae Guatemala",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://www.infobae.com/guatemala/2026/11/11/presidente-bernardo-arevalo-promulga-la-ley-que-habilita-el-metroriel-en-el-area-metropolitana/",
+      "theme_pt": "Ferrovia / regulação e governança",
+      "theme_es": "Ferrocarril / regulación y gobernanza",
+      "title_pt": "Promulgação do Decreto 24-2026 coloca em vigor o marco legal do Metroriel",
+      "title_es": "La promulgación del Decreto 24-2026 pone en vigor el marco legal del Metroriel",
+      "summary_pt": "A sanção presidencial põe em vigor a Lei para a Implementação de um Sistema Ferroviário de Passageiros na Área Metropolitana, com marco institucional e mecanismos para o projeto.",
+      "summary_es": "La sanción presidencial pone en vigor la Ley para la Implementación de un Sistema Ferroviario de Pasajeros en el Área Metropolitana, con marco institucional y mecanismos para el proyecto.",
+      "impact_pt": "O avanço é normativo e de governança. Não equivale a obras iniciadas, contrato assinado ou serviço ferroviário em operação.",
+      "impact_es": "El avance es normativo y de gobernanza. No equivale a obras iniciadas, contrato firmado ni servicio ferroviario en operación.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "GUA-02",
+      "country": "Guatemala",
+      "signal": "watch",
+      "source": "Dirección General de Transportes (DGT)",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://dgt.gob.gt/postura-de-la-dgt-ante-la-resolucion-de-la-cc-sobre-el-sistema-limitador-de-velocidad/",
+      "theme_pt": "Segurança viária / regulação",
+      "theme_es": "Seguridad vial / regulación",
+      "title_pt": "DGT reafirma vigência do Sistema Limitador de Velocidade após decisão da Corte",
+      "title_es": "DGT reafirma la vigencia del Sistema Limitador de Velocidad tras decisión de la Corte",
+      "summary_pt": "A DGT afirma que o limitador de velocidade previsto na Lei para o Fortalecimento da Segurança Viária continua como instrumento para reduzir velocidades no transporte extraurbano e de carga após a resolução vinculada ao processo 5185-2026.",
+      "summary_es": "La DGT afirma que el limitador de velocidad previsto en la Ley para el Fortalecimiento de la Seguridad Vial continúa como instrumento para reducir velocidades en el transporte extraurbano y de carga tras la resolución vinculada al proceso 5185-2026.",
+      "impact_pt": "A posição preserva uma diretriz regulatória de segurança com alcance sistêmico. A implementação prática e a fiscalização seguem como próximos pontos de atenção.",
+      "impact_es": "La posición preserva una directriz regulatoria de seguridad con alcance sistémico. La implementación práctica y la fiscalización siguen como próximos puntos de atención.",
+      "source_class": "Fonte institucional"
+    },
+    {
+      "id": "PAN-01",
+      "country": "Panama",
+      "signal": "watch",
+      "source": "Panamá América",
+      "source_publication_date": "2026-11-10",
+      "source_url": "https://www.panamaamerica.com.pa/sociedad/el-metro-busca-administrador-de-su-sistema-de-recaudacion-1281877",
+      "theme_pt": "Bilhetagem / governança financeira",
+      "theme_es": "Recaudo / gobernanza financiera",
+      "title_pt": "Metro de Panamá abre licitação para recaudo e administração financeira do transporte integrado",
+      "title_es": "Metro de Panamá abre licitación para recaudo y administración financiera del transporte integrado",
+      "summary_pt": "A reportagem registra processo de US$ 190 milhões, com prazo de dez anos, para operação do recaudo e administração financeira do sistema integrado.",
+      "summary_es": "El reportaje registra un proceso de US$ 190 millones, con plazo de diez años, para la operación del recaudo y la administración financiera del sistema integrado.",
+      "impact_pt": "Trata-se de licitação aberta, não de contrato adjudicado. A seleção e o desenho de integração financeira serão os próximos marcos para o sistema.",
+      "impact_es": "Se trata de una licitación abierta, no de un contrato adjudicado. La selección y el diseño de integración financiera serán los próximos hitos para el sistema.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "PAR-01",
+      "country": "Paraguay",
+      "signal": "risk",
+      "source": "Última Hora",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://www.ultimahora.com/gremios-solicitan-destitucion-del-viceministro-de-transporte",
+      "theme_pt": "Governança / sustentabilidade operacional",
+      "theme_es": "Gobernanza / sostenibilidad operativa",
+      "title_pt": "Gremios de operadores pedem troca no Viceministério de Transporte",
+      "title_es": "Gremios de operadores piden cambio en el Viceministerio de Transporte",
+      "summary_pt": "Cetrapam e Ucetrama pediram a destituição do vice-ministro, citando subsídios, regularidade, sustentabilidade financeira e previsibilidade institucional. A solicitação é posição das entidades, não mudança de autoridade confirmada.",
+      "summary_es": "Cetrapam y Ucetrama pidieron la destitución del viceministro, citando subsidios, regularidad, sostenibilidad financiera y previsibilidad institucional. La solicitud es posición de las entidades, no un cambio de autoridad confirmado.",
+      "impact_pt": "O episódio sinaliza pressão sobre a governança e a continuidade operacional do transporte metropolitano de Assunção; exige acompanhamento de respostas oficiais e medidas de estabilidade.",
+      "impact_es": "El episodio señala presión sobre la gobernanza y la continuidad operativa del transporte metropolitano de Asunción; exige seguimiento de respuestas oficiales y medidas de estabilidad.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "PER-01",
+      "country": "Peru",
+      "signal": "risk",
+      "source": "La República",
+      "source_publication_date": "2026-11-09",
+      "source_url": "https://larepublica.pe/sociedad/2026/11/09/paro-confirmado-mas-de-50-empresas-de-transporte-suspenderan-servicio-este-martes-por-extorsiones-641538",
+      "theme_pt": "Segurança operacional / extorsões",
+      "theme_es": "Seguridad operativa / extorsiones",
+      "title_pt": "Mais de 50 empresas de transporte de Lima suspendem serviços em mobilização contra extorsões",
+      "title_es": "Más de 50 empresas de transporte de Lima suspenden servicios en movilización contra extorsiones",
+      "summary_pt": "A mobilização foi convocada pela Anitra em resposta a extorsões e ataques ao setor. A informação deve ser lida como paralisação temporária atribuída aos transportadores, não como interrupção total da cidade.",
+      "summary_es": "La movilización fue convocada por Anitra como respuesta a extorsiones y ataques al sector. La información debe leerse como una paralización temporal atribuida a los transportadores, no como una interrupción total de la ciudad.",
+      "impact_pt": "O caso evidencia um risco sistêmico de segurança que afeta continuidade, custos e confiança na operação. A resposta institucional e a evolução dos ataques são os sinais críticos a monitorar.",
+      "impact_es": "El caso evidencia un riesgo sistémico de seguridad que afecta continuidad, costos y confianza en la operación. La respuesta institucional y la evolución de los ataques son las señales críticas a monitorear.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "URU-01",
+      "country": "Uruguay",
+      "signal": "watch",
+      "source": "Búsqueda",
+      "source_publication_date": "2026-11-05",
+      "source_url": "https://www.busqueda.com.uy/economia/el-gobierno-avanza-plan-maestro-el-tren-y-la-recuperacion-vias-y-material-rodante-n5418948",
+      "theme_pt": "Ferrovia / planejamento e financiamento",
+      "theme_es": "Ferrocarril / planificación y financiamiento",
+      "title_pt": "Governo avança no plano mestre ferroviário e estrutura fundo para manutenção",
+      "title_es": "Gobierno avanza en el plan maestro ferroviario y estructura fondo para mantenimiento",
+      "summary_pt": "A Direção Nacional de Transporte Ferroviário do MTOP elabora plano mestre com conclusão estimada para março e estrutura fideicomisso para reabilitação e manutenção de vias e material rodante. A matéria cita prioridade para Montevidéu–Rivera e análise de futura integração metropolitana de passageiros.",
+      "summary_es": "La Dirección Nacional de Transporte Ferroviario del MTOP elabora un plan maestro con conclusión estimada para marzo y estructura un fideicomiso para rehabilitación y mantenimiento de vías y material rodante. La nota cita prioridad para Montevideo–Rivera y análisis de futura integración metropolitana de pasajeros.",
+      "impact_pt": "O movimento organiza prioridades e fonte de manutenção; não é obra contratada nem serviço metropolitano de passageiros já definido.",
+      "impact_es": "El movimiento organiza prioridades y fuente de mantenimiento; no es obra contratada ni servicio metropolitano de pasajeros ya definido.",
+      "source_class": "Imprensa jornalística"
+    }
+  ],
+  "coverage_gaps": [
+    "Argentina",
+    "Bolivia",
+    "Chile",
+    "Equador",
+    "El Salvador",
+    "Mexico",
+    "Venezuela"
+  ],
+  "intake_records": [
+    "2026-11-12-0830-fontes-proprias.md",
+    "2026-11-12-0930-imprensa-instituicoes.md",
+    "2026-11-12-1015-google-news-lacunas.md"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A.",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A.",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones",
+      "tipo_fonte": "associado_uitp"
+    }
+  ]
+}
