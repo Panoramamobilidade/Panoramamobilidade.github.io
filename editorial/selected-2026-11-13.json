@@ -1,0 +1,1051 @@
+{
+  "date": "2026-11-13",
+  "cards": [
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://technibus.com.br/2026/11/12/bndes-quer-ampliar-financiamento-de-onibus-eletricos-por-locacao-a-partir-do-modelo-de-sao-jose-dos-campos",
+      "theme_pt": "Eletrificação / financiamento estruturado",
+      "theme_es": "Electrificación / financiación estructurada",
+      "title_pt": "BNDES sinaliza ampliação do financiamento por locação de ônibus elétricos",
+      "title_es": "BNDES señala la ampliación de la financiación por arrendamiento de buses eléctricos",
+      "summary_pt": "Durante a COP31, o BNDES apresentou a intenção de levar a outros municípios a estrutura de financiamento por locação adotada em São José dos Campos. O modelo de referência envolve 400 ônibus elétricos e aprovação anterior de R$ 879,4 milhões.",
+      "summary_es": "Durante la COP31, el BNDES presentó la intención de llevar a otros municipios la estructura de financiación por arrendamiento aplicada en São José dos Campos. El modelo de referencia contempla 400 buses eléctricos y una aprobación previa de R$ 879,4 millones.",
+      "impact_pt": "É um sinal de escala para a eletrificação e para modelos contratuais que separem investimento e operação. Não há novas cidades contratadas nem novo crédito aprovado nesta atualização.",
+      "impact_es": "Es una señal de escala para la electrificación y para modelos contractuales que separen inversión y operación. No hay nuevas ciudades contratadas ni un nuevo crédito aprobado en esta actualización.",
+      "source_class": "Imprensa setorial"
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://technibus.com.br/2026/11/12/aprovados-mais-de-r-3-6-bilhoes-em-investimentos-para-a-mobilidade-urbana-em-sao-paulo",
+      "theme_pt": "Infraestrutura / financiamento",
+      "theme_es": "Infraestructura / financiación",
+      "title_pt": "Enquadramentos viabilizam mais de R$ 3,6 bilhões para mobilidade em São Paulo",
+      "title_es": "Encuadramientos habilitan más de R$ 3,6 mil millones para movilidad en São Paulo",
+      "summary_pt": "O Ministério das Cidades aprovou enquadramentos para captação via debêntures incentivadas na modernização de linhas metropolitanas de trem e na requalificação do Terminal Barra Funda, além de incentivo fiscal para expansão da Linha 2-Verde.",
+      "summary_es": "El Ministerio de las Ciudades aprobó encuadramientos para captar recursos mediante bonos incentivados destinados a modernizar líneas metropolitanas de tren y recalificar la Terminal Barra Funda, además de incentivo fiscal para expandir la Línea 2-Verde.",
+      "impact_pt": "O marco é de viabilização de captação e incentivo fiscal para projetos metroferroviários e terminais. Não representa títulos emitidos, recursos desembolsados, obras concluídas ou contratos adjudicados.",
+      "impact_es": "El hito es de habilitación de captación e incentivo fiscal para proyectos ferroviarios metropolitanos y terminales. No representa títulos emitidos, recursos desembolsados, obras terminadas ni contratos adjudicados.",
+      "source_class": "Imprensa setorial"
+    },
+    {
+      "id": "COS-01",
+      "country": "Costa Rica",
+      "signal": "risk",
+      "source": "Radio Monumental",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://www.monumental.co.cr/2026/11/11/ctp-pide-a-aresep-revisar-cobros-para-el-transporte-publico-en-2027-por-impacto-economico/",
+      "theme_pt": "Regulação / sustentabilidade operacional",
+      "theme_es": "Regulación / sostenibilidad operativa",
+      "title_pt": "CTP pede revisão de cobrança regulatória de 2027 por impacto no transporte público",
+      "title_es": "CTP pide revisar cobros regulatorios de 2027 por impacto en el transporte público",
+      "summary_pt": "O Conselho de Transporte Público solicitou à ARESEP a revisão dos valores propostos para o cânone de 2027. Segundo o CTP, os custos podem afetar continuidade, cobertura e qualidade do serviço; o Ministério de Obras Públicas e Transportes apoia a revisão.",
+      "summary_es": "El Consejo de Transporte Público solicitó a ARESEP revisar los valores propuestos para el canon de 2027. Según el CTP, los costos pueden afectar continuidad, cobertura y calidad del servicio; el Ministerio de Obras Públicas y Transportes respalda la revisión.",
+      "impact_pt": "É uma pressão institucional sobre o desenho regulatório e a sustentabilidade dos operadores. Não é tarifa, norma ou revisão já aprovada.",
+      "impact_es": "Es una presión institucional sobre el diseño regulatorio y la sostenibilidad de los operadores. No es una tarifa, norma ni revisión ya aprobada.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "EQU-01",
+      "country": "Equador",
+      "signal": "risk",
+      "source": "Primicias",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://www.primicias.ec/quito/buses-ecovia-trole-servicio-usuarios-amt-corrupcion-encuesta-136895/",
+      "theme_pt": "Experiência do usuário / reputação do serviço",
+      "theme_es": "Experiencia del usuario / reputación del servicio",
+      "title_pt": "Pesquisa aponta piora na avaliação de ônibus, Trole e Ecovía em Quito",
+      "title_es": "Encuesta muestra deterioro en la evaluación de buses, Trole y Ecovía en Quito",
+      "summary_pt": "A Encuesta de Percepción Ciudadana 2026 de Quito Cómo Vamos, aplicada a 600 pessoas, aponta 53% de insatisfação com ônibus urbanos e 46,3% de rejeição aos sistemas municipais Trole, Ecovía e Corredor Sur Occidental.",
+      "summary_es": "La Encuesta de Percepción Ciudadana 2026 de Quito Cómo Vamos, aplicada a 600 personas, señala 53% de insatisfacción con buses urbanos y 46,3% de rechazo a los sistemas municipales Trole, Ecovía y Corredor Sur Occidental.",
+      "impact_pt": "O dado é um diagnóstico de percepção sobre tarifa, conforto, segurança e tempo de viagem, não uma auditoria operacional ou uma nova decisão tarifária. Reforça o risco reputacional para a rede municipal.",
+      "impact_es": "El dato es un diagnóstico de percepción sobre tarifa, confort, seguridad y tiempo de viaje, no una auditoría operativa ni una nueva decisión tarifaria. Refuerza el riesgo reputacional para la red municipal.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "El Financiero",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://www.elfinanciero.com.mx/transporte-y-movilidad/2026/11/12/llega-a-mexico-el-primer-tren-de-pasajeros-para-la-ruta-mexico-pachuca/",
+      "theme_pt": "Ferrovia / material rodante",
+      "theme_es": "Ferrocarril / material rodante",
+      "title_pt": "Primeiro trem elétrico da rota México–Pachuca chega a Pantaco",
+      "title_es": "Llega a Pantaco el primer tren eléctrico de la ruta México–Pachuca",
+      "summary_pt": "A primeira unidade de uma frota de 15 trens elétricos chegou ao terminal de Pantaco, na Cidade do México, para o projeto entre Buenavista e Pachuca. A reportagem informa capacidade de 893 passageiros por composição e obras no trecho AIFA–Pachuca.",
+      "summary_es": "La primera unidad de una flota de 15 trenes eléctricos llegó a la terminal de Pantaco, en Ciudad de México, para el proyecto entre Buenavista y Pachuca. El reportaje informa capacidad de 893 pasajeros por composición y obras en el tramo AIFA–Pachuca.",
+      "impact_pt": "A chegada do primeiro material rodante torna visível a etapa de implantação do corredor. Não equivale ao início da operação, à entrega da obra ou à chegada de toda a frota.",
+      "impact_es": "La llegada del primer material rodante hace visible la etapa de implantación del corredor. No equivale al inicio de operación, a la entrega de la obra ni a la llegada de toda la flota.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "URU-01",
+      "country": "Uruguay",
+      "signal": "watch",
+      "source": "Montevideo Portal",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://www.montevideo.com.uy/Noticias/Frecuencias-de-hasta-4-minutos-y-5-000-empleos-los-avances-en-el-proyecto-de-transporte-uc982050",
+      "theme_pt": "BRT / planejamento e licitação",
+      "theme_es": "BRT / planificación y licitación",
+      "title_pt": "Reforma metropolitana avança com dois corredores BRT e preparação de licitações",
+      "title_es": "La reforma metropolitana avanza con dos corredores BRT y preparación de licitaciones",
+      "summary_pt": "A atualização do projeto prevê corredores pela 8 de Octubre–camino Maldonado–ruta 8 e pela avenida Italia–Giannattasio. A reportagem informa US$ 20 milhões para iniciar licitações, obras projetadas para meados de 2027 e transformação concluída no fim de 2029.",
+      "summary_es": "La actualización del proyecto prevé corredores por 8 de Octubre–camino Maldonado–ruta 8 y por avenida Italia–Giannattasio. El reportaje informa US$ 20 millones para iniciar licitaciones, obras proyectadas para mediados de 2027 y transformación concluida a fines de 2029.",
+      "impact_pt": "O marco é de avanço de desenho, recursos preparatórios e licitação futura. Não há obras iniciadas nem contrato adjudicado.",
+      "impact_es": "El hito es de avance de diseño, recursos preparatorios y futura licitación. No hay obras iniciadas ni contrato adjudicado.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "URU-02",
+      "country": "Uruguay",
+      "signal": "watch",
+      "source": "El Observador",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://www.elobservador.com.uy/nacional/reforma-del-transporte-avanza-nueva-sociedad-privada-las-empresas-que-operaran-el-brt-cutcsa-tendra-mas-60-n6063535",
+      "theme_pt": "BRT / governança operacional",
+      "theme_es": "BRT / gobernanza operativa",
+      "title_pt": "Empresas estruturam sociedade para futura operação dos BRTs metropolitanos",
+      "title_es": "Empresas estructuran sociedad para la futura operación de los BRT metropolitanos",
+      "summary_pt": "A Agência de Transporte Metropolitano apresentou às empresas permissárias cálculos de participação nas linhas que circulam pela avenida Italia e 8 de Octubre, enquanto avança a estruturação de uma sociedade privada para a operação dos BRTs. A CUTCSA teria participação majoritária.",
+      "summary_es": "La Agencia de Transporte Metropolitano presentó a las empresas permisionarias cálculos de participación en las líneas que circulan por avenida Italia y 8 de Octubre, mientras avanza la estructuración de una sociedad privada para operar los BRT. CUTCSA tendría participación mayoritaria.",
+      "impact_pt": "A frente operacional complementa o planejamento físico dos corredores, mas o decreto seguia em preparação e as licitações ainda não foram publicadas.",
+      "impact_es": "El frente operativo complementa la planificación física de los corredores, pero el decreto seguía en preparación y las licitaciones aún no se habían publicado.",
+      "source_class": "Imprensa jornalística"
+    },
+    {
+      "id": "ARG-01",
+      "country": "Argentina",
+      "signal": "watch",
+      "source": "enelSubte",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://enelsubte.com/noticias/avatares-holograficos-con-ia-en-el-subte-se-presento-una-sola-empresa/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 99,
+      "theme_pt": "IA / informação ao passageiro",
+      "theme_es": "IA / información al pasajero",
+      "title_pt": "Subte tem única proponente para avatares de atendimento com IA",
+      "title_es": "El Subte recibe una sola propuesta para avatares de atención con IA",
+      "summary_pt": "A Dexeon foi declarada pré-adjudicatária da contratação de seis totens em duas estações da Linha B. Os dispositivos devem oferecer orientação e informação por interação conversacional.",
+      "summary_es": "Dexeon fue declarada preadjudicataria de la contratación de seis tótems en dos estaciones de la Línea B. Los dispositivos ofrecerían orientación e información mediante interacción conversacional.",
+      "impact_pt": "A disputa restrita exige acompanhar adjudicação, desempenho e acessibilidade. O atendimento ainda não está implantado.",
+      "impact_es": "La competencia limitada exige seguir adjudicación, desempeño y accesibilidad. La atención aún no está implantada."
+    },
+    {
+      "id": "ARG-02",
+      "country": "Argentina",
+      "signal": "op",
+      "source": "enelSubte",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://enelsubte.com/noticias/adjudicaron-la-reparacion-general-de-117-coches-coches-del-san-martin/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "Artigo publicado em 12/11 e atualizado em 13/11; timestamp Google de 13/11 não é data original.",
+      "discovery_index": 101,
+      "theme_pt": "Ferrovia / manutenção de frota",
+      "theme_es": "Ferrocarril / mantenimiento de flota",
+      "title_pt": "Trenes Argentinos adjudica reparação pesada de 117 carros do San Martín",
+      "title_es": "Trenes Argentinos adjudica la reparación pesada de 117 coches del San Martín",
+      "summary_pt": "A UTE Roggio–Emepa recebeu o lote de 63 carros e a Materfer, o de 54. A intervenção contempla componentes estruturais, sistemas e instalação de ar-condicionado.",
+      "summary_es": "La UTE Roggio–Emepa recibió el lote de 63 coches y Materfer, el de 54. La intervención contempla componentes estructurales, sistemas e instalación de aire acondicionado.",
+      "impact_pt": "O contrato enfrenta a indisponibilidade de material rodante da linha. Adjudicação não equivale à entrega de unidades reformadas.",
+      "impact_es": "El contrato aborda la indisponibilidad de material rodante de la línea. La adjudicación no equivale a entregar unidades reparadas."
+    },
+    {
+      "id": "ARG-03",
+      "country": "Argentina",
+      "signal": "monitor",
+      "source": "enelSubte",
+      "source_publication_date": "2026-11-10",
+      "source_url": "https://enelsubte.com/noticias/la-union-internacional-del-transporte-publico-sesionara-en-buenos-aires/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 69,
+      "theme_pt": "UITP / cooperação e inteligência setorial",
+      "theme_es": "UITP / cooperación e inteligencia sectorial",
+      "title_pt": "Fórum UITP América Latina em Buenos Aires reúne financiamento, dados e transição energética",
+      "title_es": "El Foro UITP América Latina en Buenos Aires reúne financiación, datos y transición energética",
+      "summary_pt": "A agenda anunciada para 16 a 19 de novembro na Usina del Arte inclui e-BRT, reuniões de associados, conferência internacional e visitas técnicas. Financiamento, pagamentos e experiência do passageiro estão entre os eixos.",
+      "summary_es": "La agenda anunciada para el 16 al 19 de noviembre en la Usina del Arte incluye e-BRT, reuniones de socios, conferencia internacional y visitas técnicas. Financiación, pagos y experiencia del pasajero figuran entre los ejes.",
+      "impact_pt": "É uma agenda futura de cooperação da rede UITP, não um anúncio de investimento contratado ou resultados já obtidos.",
+      "impact_es": "Es una agenda futura de cooperación de la red UITP, no un anuncio de inversión contratada ni resultados ya alcanzados."
+    },
+    {
+      "id": "BOL-01",
+      "country": "Bolivia",
+      "signal": "watch",
+      "source": "La Patria",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://lapatria.bo/enfoque-nacional/gestion/acuerdo-permite-reanudacion-transporte-publico-potosi/",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 116,
+      "theme_pt": "Continuidade / revisão tarifária",
+      "theme_es": "Continuidad / revisión tarifaria",
+      "title_pt": "Potosí retoma transporte após seis dias de suspensão e reabre estudo tarifário",
+      "title_es": "Potosí retoma el transporte tras seis días de suspensión y reabre el estudio tarifario",
+      "summary_pt": "Transportadores e Conselho de Tráfego acordaram o retorno dos serviços e a continuidade do estudo do Índice de Passageiros por Quilômetro. O trabalho de campo está previsto para 16 de novembro, mantendo-se as tarifas da Lei Municipal 574.",
+      "summary_es": "Transportistas y Consejo de Tráfico acordaron restablecer los servicios y continuar el estudio del Índice de Pasajeros por Kilómetro. El trabajo de campo está previsto para el 16 de noviembre y siguen vigentes las tarifas de la Ley Municipal 574.",
+      "impact_pt": "A recuperação da continuidade depende de uma negociação de custos ainda aberta; pedidos de aumento não são tarifas aprovadas.",
+      "impact_es": "La continuidad recuperada depende de una negociación de costos aún abierta; las solicitudes de aumento no son tarifas aprobadas."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "op",
+      "source": "Meganoticias",
+      "source_publication_date": "2026-11-10",
+      "source_url": "https://www.meganoticias.cl/nacional/536037-linea-9-metro-de-santiago-avance-obras-fechas-inauguracion-estaciones-comunas-10-11-2026.html",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 621,
+      "theme_pt": "Metro / expansão de rede",
+      "theme_es": "Metro / expansión de red",
+      "title_pt": "Linha 9 de Santiago alcança 5% de avanço ao fim de outubro",
+      "title_es": "La Línea 9 de Santiago alcanza un 5% de avance al cierre de octubre",
+      "summary_pt": "A atualização de 10 de novembro informa avanço global de 5% na futura linha de 27 km e 19 estações. A implantação está planejada em três etapas entre 2030 e 2033.",
+      "summary_es": "La actualización del 10 de noviembre informa un avance global del 5% en la futura línea de 27 km y 19 estaciones. La implantación está prevista en tres etapas entre 2030 y 2033.",
+      "impact_pt": "O dado dá uma referência verificável de execução e de horizonte de integração. Os prazos são projeções, não datas de abertura garantidas.",
+      "impact_es": "El dato aporta una referencia verificable de ejecución y horizonte de integración. Los plazos son proyecciones, no fechas de apertura garantizadas."
+    },
+    {
+      "id": "CHI-02",
+      "country": "Chile",
+      "signal": "watch",
+      "source": "Canal 9 / Radio Bío Bío",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://www.canal9.cl/episodios/2026/11/13/teleferico-para-valparaiso-da-paso-clave-mop-abre-proceso-de-licitacion-para-desarrollar-anteproyecto",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 3001,
+      "theme_pt": "Teleférico / estudo e contratação",
+      "theme_es": "Teleférico / estudio y contratación",
+      "title_pt": "Reportagem detalha licitação de estudo para teleférico de Valparaíso",
+      "title_es": "Un reportaje detalla la licitación del estudio para el teleférico de Valparaíso",
+      "summary_pt": "A cobertura de 13 de novembro descreve a consultoria para definir traçado, demanda, engenharia e viabilidade do sistema. A recepção de propostas está prevista até 21 de dezembro, com abertura econômica em fevereiro de 2027.",
+      "summary_es": "La cobertura del 13 de noviembre describe la consultoría para definir trazado, demanda, ingeniería y viabilidad del sistema. La recepción de ofertas está prevista hasta el 21 de diciembre, con apertura económica en febrero de 2027.",
+      "impact_pt": "O objeto é estudo de anteprojeto, não construção. O edital já estava em andamento antes desta reportagem; a obra permanece condicionada à avaliação.",
+      "impact_es": "El objeto es un estudio de anteproyecto, no construcción. La licitación ya estaba en curso antes de este reportaje; la obra sigue condicionada a la evaluación."
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "risk",
+      "source": "El Colombiano",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://www.elcolombiano.com/colombia/metro-bogota-busca-trabajadores-perfiles-tecnicos-chinos-HG43543260",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 737,
+      "theme_pt": "Metro / capacidade de implantação",
+      "theme_es": "Metro / capacidad de implantación",
+      "title_pt": "Metro de Bogotá precisa ampliar equipe para sistemas e acabamentos",
+      "title_es": "El Metro de Bogotá necesita ampliar su equipo para sistemas y acabados",
+      "summary_pt": "A Empresa Metro informou necessidade de cerca de 2.500 trabalhadores adicionais nos próximos meses, incluindo técnicos de redes e equipamentos. O gerente atribui a busca por especialistas estrangeiros à escassez de perfis locais para atividades específicas.",
+      "summary_es": "La Empresa Metro informó que necesita unos 2.500 trabajadores adicionales en los próximos meses, incluidos técnicos de redes y equipos. El gerente atribuye la búsqueda de especialistas extranjeros a la escasez local de perfiles para tareas específicas.",
+      "impact_pt": "A disponibilidade de mão de obra se torna risco de cronograma na transição de obra civil para instalação de sistemas. As contratações e visas não estão todas concluídas.",
+      "impact_es": "La disponibilidad de mano de obra se vuelve un riesgo de cronograma en el paso de obra civil a instalación de sistemas. Las contrataciones y visas aún no están todas concluidas."
+    },
+    {
+      "id": "COS-02",
+      "country": "Costa Rica",
+      "signal": "op",
+      "source": "Delfino.cr",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://delfino.cr/2026/11/pago-electronico-en-transporte-publico-alcanzo-los-45-mil-millones-en-transacciones-tras-cinco-anos-de-implementado",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 933,
+      "theme_pt": "Pagamentos abertos / escala",
+      "theme_es": "Pagos abiertos / escala",
+      "title_pt": "SINPE-TP supera 100 milhões de pagamentos e incorpora 25 ônibus em Alajuela",
+      "title_es": "SINPE-TP supera 100 millones de pagos e incorpora 25 buses en Alajuela",
+      "summary_pt": "O BCCR reportou mais de ₡45 bilhões transacionados desde 2021. A entrada de 25 ônibus da Coopetransasi amplia o pagamento sem contato; a base informada soma 75 empresas e 2.313 unidades.",
+      "summary_es": "El BCCR reportó más de ₡45 mil millones transados desde 2021. La incorporación de 25 buses de Coopetransasi amplía el pago sin contacto; la base informada suma 75 empresas y 2.313 unidades.",
+      "impact_pt": "O marco combina expansão real e adoção acumulada. A meta de cobertura da Grande Área Metropolitana em 2027 não é implantação já concluída.",
+      "impact_es": "El hito combina expansión real y adopción acumulada. La meta de cobertura de la Gran Área Metropolitana en 2027 no es una implantación ya terminada."
+    },
+    {
+      "id": "EQU-02",
+      "country": "Equador",
+      "signal": "monitor",
+      "source": "Quito Informa",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://quitoinforma.quito.gob.ec/2026/11/12/1792-millones-de-viajes-registra-el-metro-de-quito-y-supera-el-millon-de-cuentas-ciudad/",
+      "source_class": "Fonte institucional",
+      "validation_note": "",
+      "discovery_index": 1205,
+      "theme_pt": "Demanda / acesso digital",
+      "theme_es": "Demanda / acceso digital",
+      "title_pt": "Metro de Quito registra 179,2 milhões de viagens acumuladas e um milhão de contas",
+      "title_es": "El Metro de Quito registra 179,2 millones de viajes acumulados y un millón de cuentas",
+      "summary_pt": "O boletim de outubro de 2026, divulgado em 12 de novembro, informa média de 212 mil viagens em dias úteis. O sistema superou um milhão de Cuentas Ciudad e registra 717 mil cédulas vinculadas.",
+      "summary_es": "El boletín de octubre de 2026, divulgado el 12 de noviembre, informa un promedio de 212 mil viajes en días laborables. El sistema superó un millón de Cuentas Ciudad y registra 717 mil cédulas vinculadas.",
+      "impact_pt": "Os indicadores ajudam a avaliar uso cotidiano e maturidade do acesso digital. O total é acumulado desde o início da operação, não demanda de um mês.",
+      "impact_es": "Los indicadores permiten evaluar uso cotidiano y madurez del acceso digital. El total es acumulado desde el inicio de operación, no demanda de un mes."
+    },
+    {
+      "id": "GUA-01",
+      "country": "Guatemala",
+      "signal": "watch",
+      "source": "Prensa Libre",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://www.prensalibre.com/economia/aerometro-mapa-muestra-donde-estaran-sus-67-torres-y-12-estaciones/",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 1301,
+      "theme_pt": "Teleférico / integração metropolitana",
+      "theme_es": "Teleférico / integración metropolitana",
+      "title_pt": "Novo mapa detalha 67 torres e 12 estações do AeroMetro",
+      "title_es": "Un nuevo mapa detalla 67 torres y 12 estaciones del AeroMetro",
+      "summary_pt": "A reportagem apresenta a distribuição das duas linhas entre Plaza España e Molino de las Flores, via El Trébol. O desenho prevê aproximadamente 8,9 km, conexões com terminais e operação escalonada estimada para 2027 e 2029.",
+      "summary_es": "El reportaje presenta la distribución de las dos líneas entre Plaza España y Molino de las Flores, vía El Trébol. El diseño contempla aproximadamente 8,9 km, conexiones con terminales y operación escalonada estimada para 2027 y 2029.",
+      "impact_pt": "O detalhamento territorial orienta integração com ônibus e acesso aos terminais. Traçado e cronograma publicados não representam inauguração ou avanço físico medido.",
+      "impact_es": "El detalle territorial orienta la integración con buses y el acceso a terminales. El trazado y cronograma publicados no representan inauguración ni avance físico medido."
+    },
+    {
+      "id": "GUA-02",
+      "country": "Guatemala",
+      "signal": "monitor",
+      "source": "Plaza Pública",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://plazapublica.com.gt/politica/entrevista/reino-unido-sobre-el-metroriel-hay-que-empezar-a-hacer-compras-publicas-de-una-forma-completamente-distinta/",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "Publicação12/11; entrevista29/10; ângulo de contratação distinto da promulgação publicada12/11.",
+      "discovery_index": 1341,
+      "theme_pt": "MetroRiel / contratação e governança",
+      "theme_es": "MetroRiel / contratación y gobernanza",
+      "title_pt": "Entrevista explica modelo contratual britânico proposto para o MetroRiel",
+      "title_es": "Una entrevista explica el modelo contractual británico propuesto para MetroRiel",
+      "summary_pt": "Representantes britânicas explicam à Plaza Pública o uso proposto de contratos NEC, alocação de riscos e mecanismos de resolução de disputas. Financiamento e definição final do projeto permanecem em estruturação.",
+      "summary_es": "Representantes británicas explican a Plaza Pública el uso propuesto de contratos NEC, asignación de riesgos y mecanismos de resolución de disputas. La financiación y definición final del proyecto siguen en estructuración.",
+      "impact_pt": "É reportagem explicativa publicada em 12/11 sobre entrevista realizada em 29/10. Não é nova promulgação, crédito concedido ou licitação adjudicada.",
+      "impact_es": "Es un reportaje explicativo publicado el 12/11 sobre una entrevista realizada el 29/10. No es una nueva promulgación, crédito otorgado ni licitación adjudicada."
+    },
+    {
+      "id": "MEX-02",
+      "country": "Mexico",
+      "signal": "risk",
+      "source": "Pasajero7",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://www.pasajero7.com/las-ventas-autobuses-caen-24-2-en-mexico-los-primeros-diez-meses-2026/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 1469,
+      "theme_pt": "Indústria / renovação de frota",
+      "theme_es": "Industria / renovación de flota",
+      "title_pt": "Venda de ônibus no varejo mexicano cai 24,2% até outubro",
+      "title_es": "La venta minorista de buses en México cae un 24,2% hasta octubre",
+      "summary_pt": "Dados da indústria divulgados pela ANPACT e reportados pelo Pasajero7 apontam 4.320 ônibus vendidos no varejo entre janeiro e outubro, ante 5.699 um ano antes. No atacado, o acumulado de ônibus cresceu 8%.",
+      "summary_es": "Datos de la industria difundidos por ANPACT y reportados por Pasajero7 señalan 4.320 buses vendidos al menudeo entre enero y octubre, frente a 5.699 un año antes. Al mayoreo, el acumulado de buses creció un 8%.",
+      "impact_pt": "A divergência entre canais indica pressão sobre a demanda e o financiamento da renovação. Os números não medem diretamente entrega de frota urbana.",
+      "impact_es": "La divergencia entre canales indica presión sobre la demanda y financiación de la renovación. Las cifras no miden directamente entregas de flota urbana."
+    },
+    {
+      "id": "MEX-03",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Político MX",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://politico.mx/2026/11/13/metro-cdmx-regresa-a-la-mesa-directiva-de-la-asociacion-latinoamericana-alamys/",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 1486,
+      "theme_pt": "Cooperação metroferroviária",
+      "theme_es": "Cooperación ferroviaria metropolitana",
+      "title_pt": "Metro CDMX retorna à direção da ALAMYS para 2026–2028",
+      "title_es": "El Metro CDMX vuelve a la directiva de ALAMYS para 2026–2028",
+      "summary_pt": "O STC ocupará a vocalia 6 após designação na assembleia da associação em Bilbao. Segundo o diretor do sistema, o retorno à mesa diretiva ocorre após duas décadas.",
+      "summary_es": "El STC ocupará la vocalía 6 tras su designación en la asamblea de la asociación en Bilbao. Según el director del sistema, vuelve a la mesa directiva después de dos décadas.",
+      "impact_pt": "Abre espaço de intercâmbio técnico e gestão entre operadores. A designação institucional não comprova melhoria operacional já realizada.",
+      "impact_es": "Abre espacio de intercambio técnico y gestión entre operadores. La designación institucional no acredita mejoras operativas ya realizadas."
+    },
+    {
+      "id": "MEX-04",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "Pasajero7",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://www.pasajero7.com/proponen-obligar-a-concesionarios-transporte-publico-a-incorporar-unidades-accesibles/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 3081,
+      "theme_pt": "Acessibilidade / concessões",
+      "theme_es": "Accesibilidad / concesiones",
+      "title_pt": "Proposta vincula concessões de transporte a padrões de acessibilidade",
+      "title_es": "Una propuesta vincula concesiones de transporte con estándares de accesibilidad",
+      "summary_pt": "Iniciativa apresentada na Câmara propõe incorporar exigências de acessibilidade à Lei Geral de Mobilidade e Segurança Viária. A proposta inclui adaptação progressiva de frota, sinalização e dispositivos auditivos.",
+      "summary_es": "Una iniciativa presentada en la Cámara propone incorporar exigencias de accesibilidad a la Ley General de Movilidad y Seguridad Vial. Incluye adaptación progresiva de flota, señalización y dispositivos auditivos.",
+      "impact_pt": "Pode alterar requisitos de outorga e renovação das concessões se aprovada. É iniciativa legislativa, não obrigação nova já em vigor.",
+      "impact_es": "Podría modificar requisitos de otorgamiento y renovación de concesiones si se aprueba. Es una iniciativa legislativa, no una obligación nueva ya vigente."
+    },
+    {
+      "id": "MEX-05",
+      "country": "Mexico",
+      "signal": "risk",
+      "source": "Pasajero7",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://www.pasajero7.com/cdmx-acumula-cuatro-anos-sin-armonizar-ley-movilidad-la-legislacion-federal/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 3084,
+      "theme_pt": "Segurança viária / regulação",
+      "theme_es": "Seguridad vial / regulación",
+      "title_pt": "Coalizão cobra harmonização da lei de mobilidade da CDMX",
+      "title_es": "Una coalición reclama armonizar la ley de movilidad de CDMX",
+      "summary_pt": "Organizações da Coalición Movilidad Segura denunciaram em entrevista coletiva a demora na adequação da lei local ao marco federal de 2022. Cobram infraestrutura segura, controles de velocidade e fiscalização.",
+      "summary_es": "Organizaciones de la Coalición Movilidad Segura denunciaron en conferencia de prensa la demora en adecuar la ley local al marco federal de 2022. Reclaman infraestructura segura, controles de velocidad y fiscalización.",
+      "impact_pt": "É uma cobrança pública atual sobre governança da prevenção, atribuída às entidades; não uma reforma já aprovada nem uma nova medição de mortes.",
+      "impact_es": "Es un reclamo público actual sobre gobernanza de la prevención, atribuido a las entidades; no una reforma aprobada ni una nueva medición de muertes."
+    },
+    {
+      "id": "MEX-06",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "Pasajero7",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://www.pasajero7.com/setran-reporta-cinco-compromisos-cumplidos-la-feu-mantiene-trabajos-en-obras-cobertura/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 3085,
+      "theme_pt": "Jalisco / tarifa e informação ao usuário",
+      "theme_es": "Jalisco / tarifa e información al usuario",
+      "title_pt": "Jalisco apresenta balanço de compromissos com estudantes e avanço dos dados de rede",
+      "title_es": "Jalisco presenta un balance de compromisos con estudiantes y datos de red",
+      "summary_pt": "A SETRAN reportou cinco compromissos cumpridos com a FEU, incluindo tarifa estudantil de 5 pesos até 2030. Informa conclusão da primeira etapa de dados no Google Maps e 2.500 unidades com GPS para futura informação em tempo real.",
+      "summary_es": "SETRAN reportó cinco compromisos cumplidos con la FEU, incluida la tarifa estudiantil de 5 pesos hasta 2030. Informa la conclusión de la primera etapa de datos en Google Maps y 2.500 unidades con GPS para futura información en tiempo real.",
+      "impact_pt": "O balanço separa benefícios tarifários e dados já disponíveis de entregas pendentes: paradas seguras, mapa de cobertura e localização em tempo real.",
+      "impact_es": "El balance distingue beneficios tarifarios y datos ya disponibles de entregas pendientes: paradas seguras, mapa de cobertura y ubicación en tiempo real."
+    },
+    {
+      "id": "MEX-07",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "Pasajero7",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://www.pasajero7.com/gobierno-federal-jalisco-acuerdan-liberar-derecho-via-iniciar-las-obras-del-tren-irapuato-guadalajara/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "Data visível do veículo12/11; metadado00:28UTC12/11. Preservada data editorial exibida, sem substituição pelo timestamp de descoberta.",
+      "discovery_index": 3087,
+      "theme_pt": "Ferrovia / liberação de faixa",
+      "theme_es": "Ferrocarril / liberación del derecho de vía",
+      "title_pt": "Convênio organiza liberação de faixa para o trem Irapuato–Guadalajara",
+      "title_es": "Un convenio organiza la liberación del derecho de vía del tren Irapuato–Guadalajara",
+      "summary_pt": "Governos federal, de Jalisco e municípios firmaram mecanismo de facilidades administrativas e janela única para identificar proprietários e negociar terrenos. A integração com a Linha 3 e Mi Macro Periférico faz parte do planejamento.",
+      "summary_es": "Los gobiernos federal, de Jalisco y municipales firmaron un mecanismo de facilidades administrativas y ventanilla única para identificar propietarios y negociar terrenos. La integración con Línea 3 y Mi Macro Periférico forma parte de la planificación.",
+      "impact_pt": "O fato é coordenação prévia de terrenos, não início generalizado das obras ou definição de todas as estações.",
+      "impact_es": "El hecho es coordinación previa sobre terrenos, no inicio generalizado de las obras ni definición de todas las estaciones."
+    },
+    {
+      "id": "MEX-08",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "Chilango",
+      "source_publication_date": "2026-11-11",
+      "source_url": "https://www.chilango.com/noticias/cdmx-plan-desarrollo-20-anos-agua-vivienda-transporte/amp",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 3090,
+      "theme_pt": "Planejamento / eletrificação",
+      "theme_es": "Planificación / electrificación",
+      "title_pt": "Projeto do plano da CDMX para 2045 segue para análise legislativa",
+      "title_es": "El proyecto del plan de CDMX hacia 2045 pasa a análisis legislativo",
+      "summary_pt": "A Junta de Governo do IPDP aprovou o projeto de Plano Geral de Desenvolvimento 2025–2045. O documento prevê transporte público elétrico e coordenação territorial e será analisado pelo Congresso local.",
+      "summary_es": "La Junta de Gobierno del IPDP aprobó el proyecto de Plan General de Desarrollo 2025–2045. El documento contempla transporte público eléctrico y coordinación territorial y será analizado por el Congreso local.",
+      "impact_pt": "A aprovação nesta instância não encerra a tramitação. Metas de longo prazo dependerão de programas, projetos e orçamento.",
+      "impact_es": "La aprobación en esta instancia no concluye el trámite. Las metas de largo plazo dependerán de programas, proyectos y presupuesto."
+    },
+    {
+      "id": "PAN-01",
+      "country": "Panama",
+      "signal": "monitor",
+      "source": "Panamá América",
+      "source_publication_date": "2026-11-10",
+      "source_url": "https://www.panamaamerica.com.pa/sociedad/sistema-de-alerta-sismica-evitaria-alarmas-innecesarias-disminuira-interrupciones-en-metro-1281878",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 1679,
+      "theme_pt": "Resiliência / alerta sísmico",
+      "theme_es": "Resiliencia / alerta sísmica",
+      "title_pt": "Panamá debate alerta sísmico para reduzir interrupções desnecessárias no Metro",
+      "title_es": "Panamá debate una alerta sísmica para reducir interrupciones innecesarias del Metro",
+      "summary_pt": "Após o terremoto, a reportagem aborda uma rede de alerta que permitiria diferenciar intensidade e localização do risco. O presidente afirmou disposição de custear a ferramenta, ainda dependente de recursos e estrutura permanente.",
+      "summary_es": "Tras el terremoto, el reportaje aborda una red de alerta que permitiría diferenciar intensidad y localización del riesgo. El presidente expresó disposición a costearla, todavía dependiente de recursos y estructura permanente.",
+      "impact_pt": "O sinal é de política de resiliência e continuidade, não de rede contratada ou instalada. A redução de interrupções é um benefício potencial.",
+      "impact_es": "La señal es de política de resiliencia y continuidad, no de una red contratada o instalada. La reducción de interrupciones es un beneficio potencial."
+    },
+    {
+      "id": "PAR-01",
+      "country": "Paraguay",
+      "signal": "watch",
+      "source": "MOPC Paraguai",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://mopc.gov.py/ministro-abre-espacio-de-dialogo-con-gremios-del-transporte-para-analizar-propuestas-del-sector/",
+      "source_class": "Fonte institucional",
+      "validation_note": "",
+      "discovery_index": 1821,
+      "theme_pt": "Governança / negociação institucional",
+      "theme_es": "Gobernanza / negociación institucional",
+      "title_pt": "MOPC abre diálogo e pede análise de propostas de transportadores",
+      "title_es": "El MOPC abre diálogo y solicita analizar propuestas de transportistas",
+      "summary_pt": "O ministro Juan Carlos Baruja reuniu Fetram, Cetrapam e Ucetrama e solicitou ao Viceministério a coleta e análise dos planteamentos. A comunicação oficial prevê continuidade do intercâmbio técnico.",
+      "summary_es": "El ministro Juan Carlos Baruja reunió a Fetram, Cetrapam y Ucetrama y pidió al Viceministerio recopilar y analizar los planteamientos. La comunicación oficial prevé continuidad del intercambio técnico.",
+      "impact_pt": "É resposta institucional posterior à pressão empresarial já noticiada, não destituição do vice-ministro, revisão tarifária aprovada ou acordo financeiro.",
+      "impact_es": "Es una respuesta institucional posterior a la presión empresarial ya informada, no destitución del viceministro, revisión tarifaria aprobada ni acuerdo financiero."
+    },
+    {
+      "id": "PAR-02",
+      "country": "Paraguay",
+      "signal": "risk",
+      "source": "Última Hora",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://www.ultimahora.com/transporte-publico-en-crisis-sin-aire-con-reguladas-y-sin-itinerarios-en-los-barrios",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 1834,
+      "theme_pt": "Qualidade / cobertura e acessibilidade",
+      "theme_es": "Calidad / cobertura y accesibilidad",
+      "title_pt": "Reportagem registra falhas de frequência, cobertura e acessibilidade na Grande Assunção",
+      "title_es": "Un reportaje documenta fallas de frecuencia, cobertura y accesibilidad en Gran Asunción",
+      "summary_pt": "Passageiros ouvidos pelo Última Hora relatam espera irregular, longas caminhadas e frota sem climatização. Pessoas com deficiência visual denunciam dificuldades de embarque; bairros seguem sem reposição de serviços retirados.",
+      "summary_es": "Pasajeros entrevistados por Última Hora relatan espera irregular, largas caminatas y flota sin climatización. Personas con discapacidad visual denuncian dificultades de abordaje; barrios siguen sin sustitución de servicios retirados.",
+      "impact_pt": "A apuração reúne experiências em vários municípios e cobra gestão de oferta e inclusão. São relatos atribuídos, não auditoria integral de desempenho ou infrações julgadas.",
+      "impact_es": "La investigación reúne experiencias en varios municipios y reclama gestión de oferta e inclusión. Son testimonios atribuidos, no una auditoría integral de desempeño ni infracciones juzgadas."
+    },
+    {
+      "id": "PER-01",
+      "country": "Peru",
+      "signal": "watch",
+      "source": "Gestión · conteúdo para assinantes / contenido para suscriptores",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://gestion.pe/economia/metropolitano-arrancaria-etapa-operativa-en-2027-que-sucedera-cuando-se-concrete-noticia/",
+      "source_class": "Imprensa jornalística",
+      "validation_note": "",
+      "discovery_index": 1983,
+      "theme_pt": "Metropolitano / contrato de concessão",
+      "theme_es": "Metropolitano / contrato de concesión",
+      "title_pt": "ATU projeta concluir aditivo estrutural do Metropolitano no início de 2027",
+      "title_es": "ATU prevé concluir la adenda estructural del Metropolitano a inicios de 2027",
+      "summary_pt": "O presidente da ATU disse ao Gestión que o texto está em ajuste final com operadores e aguarda validação do MEF. A mudança contratual poderia destravar recepção de infraestrutura, renovação de frota e novos equipamentos.",
+      "summary_es": "El presidente de ATU dijo a Gestión que el texto está en ajuste final con operadores y aguarda validación del MEF. La modificación contractual podría destrabar recepción de infraestructura, renovación de flota y nuevos equipos.",
+      "impact_pt": "A etapa operacional citada é contratual: o BRT já transporta passageiros desde 2010. Não há aditivo assinado ou aval do MEF confirmado.",
+      "impact_es": "La etapa operativa citada es contractual: el BRT ya transporta pasajeros desde 2010. No hay adenda firmada ni aval del MEF confirmado."
+    },
+    {
+      "id": "BRA-03",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://diariodotransporte.com.br/2026/11/12/pernambuco-autoriza-reajuste-de-1463-nas-passagens-de-onibus-intermunicipais/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 432,
+      "theme_pt": "Tarifa / transporte intermunicipal",
+      "theme_es": "Tarifa / transporte intermunicipal",
+      "title_pt": "Arpe autoriza reajuste de 14,63% nos ônibus intermunicipais de Pernambuco",
+      "title_es": "Arpe autoriza un ajuste del 14,63% en buses intermunicipales de Pernambuco",
+      "summary_pt": "Segundo a reportagem, a Resolução 362 permite à EPTI atualizar tarifas com base na inflação de junho de 2023 a maio de 2026. O preço final depende da distância e da categoria do serviço.",
+      "summary_es": "Según el reportaje, la Resolución 362 permite a EPTI actualizar tarifas según la inflación de junio de 2023 a mayo de 2026. El precio final depende de la distancia y categoría del servicio.",
+      "impact_pt": "É autorização de reajuste do sistema, não confirmação de novos preços em todas as linhas. Não se confunde com taxas de embarque dos terminais.",
+      "impact_es": "Es una autorización de ajuste del sistema, no confirmación de nuevos precios en todas las rutas. No equivale a las tasas de embarque de terminales."
+    },
+    {
+      "id": "BRA-04",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://diariodotransporte.com.br/2026/11/13/receita-adia-para-marco-de-2027-novo-prazo-fiscal-do-bilhete-eletronico-no-transporte-semiurbano-e-metropolitano/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 444,
+      "theme_pt": "Bilhetagem / calendário fiscal",
+      "theme_es": "Billetaje / calendario fiscal",
+      "title_pt": "Prazo fiscal de bilhete eletrônico semiurbano e metropolitano passa a março de 2027",
+      "title_es": "El plazo fiscal del billete electrónico semiurbano y metropolitano pasa a marzo de 2027",
+      "summary_pt": "A cobertura do Ato Conjunto RFB/CGIBS 7 informa adiamento para 1º de março da obrigação prevista para dezembro. A alteração também abrange a NFS-e dos serviços municipais de transporte enquadrados na regra.",
+      "summary_es": "La cobertura del Acto Conjunto RFB/CGIBS 7 informa el aplazamiento al 1 de marzo de la obligación prevista para diciembre. El cambio también abarca la NFS-e de los servicios municipales de transporte incluidos en la regla.",
+      "impact_pt": "Operadores ganham tempo de adequação tributária. Não é alteração de tarifa, cartão de transporte ou regra de integração.",
+      "impact_es": "Los operadores ganan tiempo para adecuación tributaria. No modifica tarifas, tarjetas de transporte ni reglas de integración."
+    },
+    {
+      "id": "BRA-05",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://diariodotransporte.com.br/2026/11/12/em-plena-cop31-lei-sancionada-pelo-governo-federal-autoriza-r-145-bilhoes-para-renovar-frotas-de-onibus-e-caminhoes-pelo-bndes-producao-nacional-tera-prioridade/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 468,
+      "theme_pt": "Financiamento / renovação de frota",
+      "theme_es": "Financiación / renovación de flota",
+      "title_pt": "Lei autoriza até R$ 14,5 bilhões para renovação de ônibus e caminhões",
+      "title_es": "Una ley autoriza hasta R$ 14,5 mil millones para renovar buses y camiones",
+      "summary_pt": "A reportagem sobre a Lei 15.528 informa limite de crédito via BNDES e possibilidade de financiar chassis e carrocerias separadamente, com exigências de fabricação nacional e credenciamento.",
+      "summary_es": "El reportaje sobre la Ley 15.528 informa un límite de crédito vía BNDES y la posibilidad de financiar chasis y carrocerías por separado, con requisitos de fabricación nacional y acreditación.",
+      "impact_pt": "O limite autorizado não é desembolso nem verba exclusiva para elétricos; condições e elegibilidade dependem da regulamentação financeira.",
+      "impact_es": "El límite autorizado no es un desembolso ni recursos exclusivos para eléctricos; condiciones y elegibilidad dependen de la regulación financiera."
+    },
+    {
+      "id": "BRA-06",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://diariodotransporte.com.br/2026/11/12/motiva-passa-a-integrar-centro-de-comando-e-controle-de-sp-para-reforcar-seguranca-em-quatro-linhas-de-trens-e-metro/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 470,
+      "theme_pt": "Segurança / centros de controle",
+      "theme_es": "Seguridad / centros de control",
+      "title_pt": "Motiva integra centro estadual de comando para quatro linhas de São Paulo",
+      "title_es": "Motiva integra el centro estatal de mando para cuatro líneas de São Paulo",
+      "summary_pt": "Convênio assinado em 10 de novembro prevê representante das linhas 4, 5, 8 e 9 no CICC. A integração conecta equipes das concessionárias e forças de segurança no compartilhamento de ocorrências.",
+      "summary_es": "Un convenio firmado el 10 de noviembre prevé un representante de las líneas 4, 5, 8 y 9 en el CICC. La integración conecta equipos de las concesionarias y fuerzas de seguridad para compartir incidentes.",
+      "impact_pt": "É avanço de coordenação operacional. A redução de tempo de resposta e de crimes precisa ser medida, não presumida.",
+      "impact_es": "Es un avance de coordinación operativa. La reducción de tiempos de respuesta y delitos debe medirse, no presumirse."
+    },
+    {
+      "id": "BRA-07",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://diariodotransporte.com.br/2026/11/13/sao-paulo-autoriza-empenho-dos-r-3703-milhoes-ja-incluidos-no-orcamento-dos-onibus/",
+      "source_class": "Imprensa setorial",
+      "validation_note": "",
+      "discovery_index": 487,
+      "theme_pt": "Subsídio / execução orçamentária",
+      "theme_es": "Subsidio / ejecución presupuestaria",
+      "title_pt": "São Paulo autoriza empenho de R$ 370,3 milhões para remunerar ônibus",
+      "title_es": "São Paulo autoriza comprometer R$ 370,3 millones para remunerar a operadores de buses",
+      "summary_pt": "O despacho de 13 de novembro permite realizar despesa e emitir empenhos sobre crédito suplementar aberto no dia anterior para a SPTrans. A verba integra compensações tarifárias municipais.",
+      "summary_es": "La disposición del 13 de noviembre permite realizar gasto y emitir compromisos sobre el crédito suplementario abierto el día anterior para SPTrans. Los recursos integran compensaciones tarifarias municipales.",
+      "impact_pt": "Crédito e autorização tratam do mesmo dinheiro, contado uma vez. Empenho autorizado não comprova liquidação ou pagamento aos operadores.",
+      "impact_es": "Crédito y autorización corresponden al mismo dinero, contado una sola vez. El compromiso autorizado no acredita liquidación ni pago a operadores."
+    }
+  ],
+  "coverage_gaps": [
+    "Bolivia",
+    "Colombia",
+    "Panama",
+    "Peru"
+  ],
+  "intake_records": [
+    "2026-11-13-0830-fontes-proprias.md",
+    "2026-11-13-0930-imprensa-instituicoes.md",
+    "2026-11-13-1015-google-news-lacunas.md"
+  ],
+  "country_shortfalls": {
+    "Bolivia": 1,
+    "Colombia": 1,
+    "Panama": 1,
+    "Peru": 1
+  },
+  "recovery_window": [
+    "2026-11-06",
+    "2026-11-13"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "published_baseline_cards": 101,
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A.",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A.",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo",
+      "tipo_fonte": "associado_uitp"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones",
+      "tipo_fonte": "associado_uitp"
+    }
+  ]
+}
