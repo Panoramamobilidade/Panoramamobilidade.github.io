@@ -1,0 +1,425 @@
+{
+  "date": "2026-11-16",
+  "cards": [
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "risk",
+      "source": "La Tercera",
+      "source_publication_date": "2026-11-16",
+      "source_url": "https://www.latercera.com/nacional/noticia/metro-comunica-el-cierre-de-ocho-estaciones-de-la-linea-5/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Continuidade operacional / contingência metroferroviária",
+      "theme_es": "Continuidad operativa / contingencia ferroviaria metropolitana",
+      "title_pt": "Metro de Santiago fecha cinco estações da Linha 5 e opera o serviço de forma segmentada",
+      "title_es": "Metro de Santiago cierra cinco estaciones de la Línea 5 y opera el servicio de forma segmentada",
+      "summary_pt": "A Linha 5 teve cinco estações fechadas, e o serviço ficou dividido entre Plaza de Maipú–San Pablo e Santa Ana–Vicente Valdés. Na publicação aberta, a empresa ainda não havia informado a causa da contingência.",
+      "summary_es": "La Línea 5 tuvo cinco estaciones cerradas y el servicio quedó dividido entre Plaza de Maipú–San Pablo y Santa Ana–Vicente Valdés. En la publicación abierta, la empresa aún no había informado la causa de la contingencia.",
+      "impact_pt": "A interrupção afeta um trecho relevante da rede e exige acompanhamento da normalização e da causa. A edição não atribui motivo além do que foi informado pela fonte.",
+      "impact_es": "La interrupción afecta un tramo relevante de la red y exige seguimiento de la normalización y de la causa. La edición no atribuye un motivo más allá de lo informado por la fuente."
+    },
+    {
+      "id": "CRI-01",
+      "country": "Costa Rica",
+      "signal": "risk",
+      "source": "El Observador CR",
+      "source_publication_date": "2026-11-15",
+      "source_url": "https://observador.cr/20-rutas-de-autobuses-fueron-devueltas-en-2-anos-por-sus-concesionarios-que-esta-afectando-al-sector/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Concessões de ônibus / continuidade do serviço",
+      "theme_es": "Concesiones de autobuses / continuidad del servicio",
+      "title_pt": "Devolução de 20 rotas de ônibus expõe risco de continuidade do serviço na Costa Rica",
+      "title_es": "La devolución de 20 rutas de autobús expone un riesgo para la continuidad del servicio en Costa Rica",
+      "summary_pt": "O Conselho de Transporte Público informou que concessionários devolveram 20 rotas em dois anos, com duas devoluções em outubro. CTP e ARESEP analisam alternativas conforme cada rota, segundo a reportagem.",
+      "summary_es": "El Consejo de Transporte Público informó que concesionarios devolvieron 20 rutas en dos años, con dos devoluciones en octubre. CTP y ARESEP analizan alternativas según cada ruta, de acuerdo con el reportaje.",
+      "impact_pt": "O dado aponta pressão sobre a continuidade e a sustentabilidade das concessões. Queda de demanda, concorrência informal, custos e compensações aparecem como avaliações atribuídas a representantes do setor, não como diagnóstico oficial conclusivo.",
+      "impact_es": "El dato señala presión sobre la continuidad y la sostenibilidad de las concesiones. La caída de demanda, la competencia informal, los costos y las compensaciones aparecen como valoraciones atribuidas a representantes del sector, no como un diagnóstico oficial concluyente."
+    },
+    {
+      "id": "ECU-01",
+      "country": "Equador",
+      "signal": "op",
+      "source": "Quito Informa",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://quitoinforma.quito.gob.ec/2026/11/13/quito-supera-los-81-millones-de-viajes-con-el-sistema-integrado-de-recaudo/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Integração tarifária / arrecadação digital",
+      "theme_es": "Integración tarifaria / recaudo digital",
+      "title_pt": "Quito supera 81 milhões de viagens no Sistema Integrado de Recaudo",
+      "title_es": "Quito supera los 81 millones de viajes en el Sistema Integrado de Recaudo",
+      "summary_pt": "O município reporta 81,2 milhões de viagens no SIR desde 1º de abril, integrando Metro, Trolebús e Ecovía. A fonte também registra 1.030.864 Cuentas Ciudad, 201.999 Tarjetas Ciudad e mais de 7.200 pontos de recarga.",
+      "summary_es": "El municipio reporta 81,2 millones de viajes en el SIR desde el 1 de abril, integrando Metro, Trolebús y Ecovía. La fuente también registra 1.030.864 Cuentas Ciudad, 201.999 Tarjetas Ciudad y más de 7.200 puntos de recarga.",
+      "impact_pt": "A métrica evidencia escala de integração de acesso e arrecadação. Não deve ser confundida com a demanda acumulada apenas do Metro de Quito nem com uma expansão futura ainda não implantada.",
+      "impact_es": "La métrica evidencia escala de integración de acceso y recaudo. No debe confundirse con la demanda acumulada solo del Metro de Quito ni con una expansión futura aún no implementada."
+    },
+    {
+      "id": "PAN-01",
+      "country": "Panama",
+      "signal": "watch",
+      "source": "TVN Panamá",
+      "source_publication_date": "2026-11-14",
+      "source_url": "https://www.tvn-2.com/nacionales/mibus-movilizo-12-7-millones-pasajeros-transporte-pide-carriles-exclusivos-tras-el-sismo_1_2271046.html",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Prioridade viária / confiabilidade do ônibus",
+      "theme_es": "Prioridad vial / confiabilidad del autobús",
+      "title_pt": "MiBus propõe faixas preferenciais ou exclusivas após congestionamentos associados ao sismo",
+      "title_es": "MiBus propone carriles preferenciales o exclusivos tras congestiones asociadas al sismo",
+      "summary_pt": "A MiBus informou ter transportado mais de 12,7 milhões de passageiros em outubro e propôs faixas preferenciais ou exclusivas após congestionamentos associados à emergência sísmica, segundo a reportagem.",
+      "summary_es": "MiBus informó haber transportado más de 12,7 millones de pasajeros en octubre y propuso carriles preferenciales o exclusivos tras congestiones asociadas a la emergencia sísmica, según el reportaje.",
+      "impact_pt": "O ponto validado é uma proposta de prioridade viária para melhorar a confiabilidade. Não há confirmação de aprovação, implantação, contratação ou obra.",
+      "impact_es": "El punto validado es una propuesta de prioridad vial para mejorar la confiabilidad. No hay confirmación de aprobación, implementación, contratación ni obra."
+    }
+  ],
+  "coverage_gaps": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Colombia",
+    "Guatemala",
+    "Mexico",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 2,
+    "Bolivia": 2,
+    "Brasil": 2,
+    "Chile": 1,
+    "Colombia": 2,
+    "Costa Rica": 1,
+    "Equador": 1,
+    "Guatemala": 2,
+    "Mexico": 2,
+    "Panama": 1,
+    "Paraguay": 2,
+    "Peru": 2,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-16-0830-fontes-proprias.md",
+    "2026-11-16-0930-imprensa-instituicoes.md",
+    "2026-11-16-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-09",
+    "2026-11-16"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
