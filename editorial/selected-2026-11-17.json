@@ -1,0 +1,409 @@
+{
+  "date": "2026-11-17",
+  "cards": [
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Via Trolebus",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://viatrolebus.com.br/2026/11/brt-e-vlt-do-rio-aceitam-debito-por-aproximacao/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Bilhetagem / pagamento aberto",
+      "theme_es": "Recaudo / pagos abiertos",
+      "title_pt": "BRT e VLT do Rio passam a aceitar cartões de débito por aproximação",
+      "title_es": "BRT y VLT de Río comienzan a aceptar tarjetas de débito sin contacto",
+      "summary_pt": "Segundo a SMTR, cartões de débito Visa e Mastercard por aproximação já podem ser usados em todo o BRT e VLT. Nos ônibus convencionais, a implantação continua gradual, com cobertura integral prevista pela fonte para o fim de novembro.",
+      "summary_es": "Según la SMTR, las tarjetas de débito Visa y Mastercard sin contacto ya pueden utilizarse en todo el BRT y el VLT. En los autobuses convencionales, la implementación sigue siendo gradual, con cobertura total prevista por la fuente para finales de noviembre.",
+      "impact_pt": "É um avanço de pagamento aberto em dois sistemas estruturais. A opção vale para viagens unitárias e não substitui as integrações tarifárias, que permanecem vinculadas ao cartão identificado ou ao QR Code do aplicativo.",
+      "impact_es": "Es un avance de pagos abiertos en dos sistemas estructurales. La opción sirve para viajes unitarios y no sustituye las integraciones tarifarias, que siguen vinculadas a la tarjeta identificada o al código QR de la aplicación."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "monitor",
+      "source": "G5 Noticias",
+      "source_publication_date": "2026-11-16",
+      "source_url": "https://g5noticias.cl/2026/11/16/estudio-catlec-evidencio-brecha-de-genero-en-la-percepcion-de-seguridad-en-el-metro-y-como-reducirla/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Segurança percebida / acessos metroferroviários",
+      "theme_es": "Seguridad percibida / accesos ferroviarios metropolitanos",
+      "title_pt": "Estudo CATLEC mede diferença de gênero na insegurança percebida nos entornos do Metro de Santiago",
+      "title_es": "Estudio CATLEC mide la brecha de género en la inseguridad percibida en los entornos del Metro de Santiago",
+      "summary_pt": "O estudo “Seguridad cotidiana en entornos de movilidad” ouviu 553 pessoas em cinco estações entre agosto e dezembro de 2024. Na dimensão de segurança de gênero, 49,1% das mulheres e 23,2% dos homens se declararam inseguros ou muito inseguros.",
+      "summary_es": "El estudio “Seguridad cotidiana en entornos de movilidad” consultó a 553 personas en cinco estaciones entre agosto y diciembre de 2024. En la dimensión de seguridad de género, el 49,1% de las mujeres y el 23,2% de los hombres se declararon inseguros o muy inseguros.",
+      "impact_pt": "A evidência oferece referência para desenho e gestão de acessos, conexões e espaços de espera. É um estudo recente, não um anúncio de intervenção ou uma medida operacional do Metro.",
+      "impact_es": "La evidencia ofrece una referencia para el diseño y la gestión de accesos, conexiones y espacios de espera. Es un estudio reciente, no un anuncio de intervención ni una medida operativa del Metro."
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Alcaldes de México",
+      "source_publication_date": "2026-11-16",
+      "source_url": "https://www.alcaldesdemexico.com/ciudadania/ruta-del-maiz-incorporan-autobuses-electricos-para-mejorar-el-transporte-en-topilejo/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Eletrificação / serviço periférico",
+      "theme_es": "Electrificación / servicio periférico",
+      "title_pt": "CDMX inicia a Ruta del Maíz com ônibus elétricos da RTP em Topilejo",
+      "title_es": "CDMX pone en marcha la Ruta del Maíz con autobuses eléctricos de RTP en Topilejo",
+      "summary_pt": "A nova rota começou a operar em San Miguel Topilejo, em Tlalpan, com ônibus elétricos da RTP e reforço de quatro linhas existentes. A reportagem registra expectativa de reduzir intervalos de até 90 minutos para 10–15 minutos.",
+      "summary_es": "La nueva ruta comenzó a operar en San Miguel Topilejo, en Tlalpan, con autobuses eléctricos de RTP y refuerzo de cuatro líneas existentes. El reportaje registra la expectativa de reducir intervalos de hasta 90 minutos a 10–15 minutos.",
+      "impact_pt": "O fato validado é a entrada em operação de serviço elétrico em área periférica, com ganho potencial de frequência. A edição não trata como já contratada a intenção mais ampla de comprar cerca de 400 veículos.",
+      "impact_es": "El hecho validado es la entrada en operación de un servicio eléctrico en una zona periférica, con potencial mejora de frecuencia. La edición no presenta como ya contratada la intención más amplia de comprar cerca de 400 vehículos."
+    }
+  ],
+  "coverage_gaps": [
+    "Argentina",
+    "Bolivia",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 2,
+    "Bolivia": 2,
+    "Brasil": 1,
+    "Chile": 1,
+    "Colombia": 2,
+    "Costa Rica": 2,
+    "Equador": 2,
+    "Guatemala": 2,
+    "Mexico": 1,
+    "Panama": 2,
+    "Paraguay": 2,
+    "Peru": 2,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-17-0830-fontes-proprias.md",
+    "2026-11-17-0930-imprensa-instituicoes.md",
+    "2026-11-17-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-10",
+    "2026-11-17"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
