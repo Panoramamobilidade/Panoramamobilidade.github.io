@@ -1,0 +1,524 @@
+{
+  "date": "2026-11-18",
+  "cards": [
+    {
+      "id": "BOL-01",
+      "country": "Bolivia",
+      "signal": "watch",
+      "source": "El Día",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://www.eldia.com.bo/2026-11-17/santa-cruz/alcaldia-lanza-proyecto-para-recuperar-las-24-estaciones-del-brt-del-primer-anillo.html",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "BRT / recuperação de infraestrutura",
+      "theme_es": "BRT / recuperación de infraestructura",
+      "title_pt": "Santa Cruz propõe recuperar 24 estações do BRT do primeiro anel por concessões temporárias",
+      "title_es": "Santa Cruz propone recuperar 24 estaciones del BRT del primer anillo mediante concesiones temporales",
+      "summary_pt": "A prefeitura anunciou o projeto Sarao para recuperar as 24 estações degradadas do BRT no primeiro anel. A proposta prevê concessões temporárias para 21 estações, com restauração e adequação assumidas por empresas, e uso de três estruturas para segurança cidadã.",
+      "summary_es": "La alcaldía anunció el proyecto Sarao para recuperar las 24 estaciones degradadas del BRT en el primer anillo. La propuesta prevé concesiones temporales para 21 estaciones, con restauración y adecuación asumidas por empresas, y uso de tres estructuras para seguridad ciudadana.",
+      "impact_pt": "É uma iniciativa concreta de reocupação de ativos, mas ainda pré-contratação: a convocação pública foi anunciada para a semana seguinte e não comprova retomada operacional do BRT.",
+      "impact_es": "Es una iniciativa concreta de reocupación de activos, pero aún previa a la contratación: la convocatoria pública fue anunciada para la semana siguiente y no demuestra una reactivación operacional del BRT."
+    },
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Via Trolebus",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://viatrolebus.com.br/2026/11/artesp-e-sptrans-assinam-convenio-de-integracao/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Integração física, operacional e tarifária",
+      "theme_es": "Integración física, operacional y tarifaria",
+      "title_pt": "Artesp e SPTrans formalizam convênio para integração metropolitana",
+      "title_es": "Artesp y SPTrans formalizan un convenio para la integración metropolitana",
+      "summary_pt": "O Convênio nº 001/2026, assinado em 16 de novembro e publicado no Diário Oficial paulista, estabelece cooperação para integração física, operacional e tarifária entre ônibus intermunicipais da RMSP e a rede municipal de São Paulo, com vigência de cinco anos.",
+      "summary_es": "El Convenio nº 001/2026, firmado el 16 de noviembre y publicado en el Diario Oficial de São Paulo, establece cooperación para la integración física, operacional y tarifaria entre autobuses intermunicipales de la RMSP y la red municipal de São Paulo, con vigencia de cinco años.",
+      "impact_pt": "O ato institucional cria base formal para integração metropolitana. Linhas abrangidas, cronograma de entrada em operação e regras tarifárias ainda não foram detalhados no extrato.",
+      "impact_es": "El acto institucional crea una base formal para la integración metropolitana. El extracto aún no detalla líneas involucradas, calendario de implementación ni reglas tarifarias."
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Via Trolebus",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://viatrolebus.com.br/2026/11/cptm-abre-licitacao-para-obras-na-estacao-da-luz/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Estação de integração / acessibilidade",
+      "theme_es": "Estación de integración / accesibilidad",
+      "title_pt": "CPTM abre licitação para cobertura e comunicação visual da plataforma central da Luz",
+      "title_es": "CPTM abre una licitación para cubierta y señalización de la plataforma central de Luz",
+      "summary_pt": "A licitação LC00926 prevê serviços de engenharia para implantar comunicação visual e cobertura na plataforma central da Estação da Luz. A sessão pública está marcada para 15 de dezembro, segundo o aviso no Diário Oficial do Estado.",
+      "summary_es": "La licitación LC00926 prevé servicios de ingeniería para implementar señalización y cubierta en la plataforma central de la Estación Luz. La sesión pública está prevista para el 15 de diciembre, según el aviso del Diario Oficial del Estado.",
+      "impact_pt": "É uma etapa verificável de contratação em um nó de integração de alta relevância regional; a obra ainda não foi adjudicada nem iniciada.",
+      "impact_es": "Es una etapa verificable de contratación en un nodo de integración de alta relevancia regional; la obra aún no ha sido adjudicada ni iniciada."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "watch",
+      "source": "BioBioChile",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://www.biobiochile.cl/noticias/nacional/region-del-bio-bio/2026/11/18/emplazan-a-de-grange-por-quinta-prorroga-en-licitacion-de-transporte-coronel-lota-debera-responder.shtml",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Eletrificação / licitação de transporte",
+      "theme_es": "Electrificación / licitación de transporte",
+      "title_pt": "Quinta prorrogação adia licitação Coronel–Lota com 50 ônibus elétricos previstos",
+      "title_es": "Quinta prórroga retrasa licitación Coronel–Lota con 50 autobuses eléctricos previstos",
+      "summary_pt": "A avaliação do processo foi prorrogada por mais 20 dias, até 3 de dezembro, pela quinta vez. A licitação prevê 50 ônibus elétricos para Coronel–Lota e 30 veículos a diesel no trecho Colcura–Concepción.",
+      "summary_es": "La evaluación del proceso fue prorrogada 20 días más, hasta el 3 de diciembre, por quinta vez. La licitación prevé 50 autobuses eléctricos para Coronel–Lota y 30 vehículos diésel en el tramo Colcura–Concepción.",
+      "impact_pt": "O atraso afeta o cronograma de uma renovação com eletrificação prevista. A reportagem registra que o processo não foi cancelado, mas a contratação segue sem conclusão.",
+      "impact_es": "El retraso afecta el calendario de una renovación con electrificación prevista. El reportaje señala que el proceso no fue cancelado, pero la contratación sigue sin concluir."
+    },
+    {
+      "id": "EQU-01",
+      "country": "Equador",
+      "signal": "risk",
+      "source": "El Comercio",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://www.elcomercio.com/actualidad/quito/tren-metro-quito-salio-operacion-preguntas-sobre-ocurrio/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metro / confiabilidade operacional",
+      "theme_es": "Metro / confiabilidad operacional",
+      "title_pt": "Metro de Quito retira preventivamente o trem UT16 de operação após inspeção pós-chuvas",
+      "title_es": "Metro de Quito retira preventivamente el tren UT16 de operación tras una inspección posterior a las lluvias",
+      "summary_pt": "Após o alagamento da estação La Pradera em 22 de outubro, uma inspeção da CAF identificou ocorrência nos retentores dos bogies. O UT16 concluiu o turno naquele dia e foi retirado preventivamente enquanto se aguarda laudo técnico e ação corretiva.",
+      "summary_es": "Tras la inundación de la estación La Pradera el 22 de octubre, una inspección de CAF identificó una incidencia en los retenes de los bogies. El UT16 completó su turno ese día y fue retirado preventivamente mientras se espera un informe técnico y una acción correctiva.",
+      "impact_pt": "A indisponibilidade preventiva de material rodante exige acompanhamento técnico. A fonte aberta não confirma dano elétrico nem estabelece causalidade definitiva.",
+      "impact_es": "La indisponibilidad preventiva de material rodante requiere seguimiento técnico. La fuente abierta no confirma daño eléctrico ni establece una causalidad definitiva."
+    },
+    {
+      "id": "GUA-01",
+      "country": "Guatemala",
+      "signal": "monitor",
+      "source": "Prensa Libre",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://www.prensalibre.com/guatemala/comunitario/que-es-vivi-y-como-funciona-asi-es-la-aplicacion-con-la-que-emetra-pretende-mejorar-la-movilidad-en-la-capital-breaking/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Informação ao usuário / ITS / IA",
+      "theme_es": "Información al usuario / ITS / IA",
+      "title_pt": "EMETRA apresenta VIVI MuniGuate para informação viária, alertas e participação cidadã",
+      "title_es": "EMETRA presenta VIVI MuniGuate para información vial, alertas y participación ciudadana",
+      "summary_pt": "EMETRA e a PMT apresentaram o aplicativo VIVI MuniGuate, para Android e iOS, com informações sobre acidentes, fechamentos, desvios e eventos, mapa interativo, reporte cidadão e assistente de IA para consultas de mobilidade.",
+      "summary_es": "EMETRA y la PMT presentaron la aplicación VIVI MuniGuate, para Android e iOS, con información sobre accidentes, cierres, desvíos y eventos, mapa interactivo, reporte ciudadano y asistente de IA para consultas de movilidad.",
+      "impact_pt": "É um lançamento de informação ao usuário com componente de ITS e IA. Cobertura, qualidade dos dados, adesão e efeitos operacionais ainda precisam ser observados.",
+      "impact_es": "Es un lanzamiento de información al usuario con componente de ITS e IA. La cobertura, calidad de datos, adopción y efectos operacionales todavía requieren seguimiento."
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Revista TyT",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://www.tyt.com.mx/nota/jalisco-incorpora-21-autobuses-mercedes-benz-para-el-transporte-publico-de-tres-ciudades",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Renovação de frota / emissões",
+      "theme_es": "Renovación de flota / emisiones",
+      "title_pt": "Jalisco incorpora 21 ônibus Euro VI em três cidades e mantém integração de Sayula em autorização",
+      "title_es": "Jalisco incorpora 21 autobuses Euro VI en tres ciudades y mantiene la integración de Sayula en autorización",
+      "summary_pt": "Foram incorporadas seis unidades em Ciudad Guzmán, 11 em Tepatitlán de Morelos e quatro em Ocotlán, dentro do programa estadual de renovação de frota. Governo e prefeitura de Sayula seguem no processo de autorização para adesão ao modelo ruta-empresa e ao Sistema Mi Transporte.",
+      "summary_es": "Se incorporaron seis unidades en Ciudad Guzmán, 11 en Tepatitlán de Morelos y cuatro en Ocotlán, dentro del programa estatal de renovación de flota. El gobierno y el municipio de Sayula siguen en el proceso de autorización para adherirse al modelo ruta-empresa y al Sistema Mi Transporte.",
+      "impact_pt": "A renovação em cidades intermediárias é o fato consolidado. A edição separa esse avanço da integração de Sayula, que ainda não tem implantação confirmada.",
+      "impact_es": "La renovación en ciudades intermedias es el hecho consolidado. La edición separa este avance de la integración de Sayula, que aún no tiene implementación confirmada."
+    },
+    {
+      "id": "MEX-02",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Gob MX / Presidencia",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://www.gob.mx/presidencia/prensa/construccion-del-tren-ciudad-de-mexico-queretaro-tiene-avance-del-32-presidenta-claudia-sheinbaum",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Ferrovia de passageiros / obras",
+      "theme_es": "Ferrocarril de pasajeros / obras",
+      "title_pt": "Trem Cidade do México–Querétaro atinge 32% de avanço, informa a Presidência",
+      "title_es": "El Tren Ciudad de México–Querétaro alcanza un avance del 32%, informa la Presidencia",
+      "summary_pt": "A Presidência informou 32% de avanço na construção e 90% de direito de via para o corredor. A atualização integra a meta federal de expansão de ferrovias de passageiros, com investimento total superior a MXN 700 bilhões citado para o programa.",
+      "summary_es": "La Presidencia informó un 32% de avance en la construcción y un 90% de derecho de vía para el corredor. La actualización integra la meta federal de expansión de ferrocarriles de pasajeros, con una inversión total superior a MXN 700 mil millones citada para el programa.",
+      "impact_pt": "É um marco oficial de execução em corredor de grande escala. O percentual não equivale a início de operação, entrega de estação ou conclusão do projeto.",
+      "impact_es": "Es un hito oficial de ejecución en un corredor de gran escala. El porcentaje no equivale al inicio de operación, entrega de una estación ni conclusión del proyecto."
+    },
+    {
+      "id": "PAN-01",
+      "country": "Panama",
+      "signal": "op",
+      "source": "Gaceta Oficial Digital",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://www.gacetaoficial.gob.pa/storage/gacetas/2026/11/30652_F/106448.pdf",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Metro / continuidade contratual",
+      "theme_es": "Metro / continuidad contractual",
+      "title_pt": "Gabinete aprova gerência de projeto da Linha 3 do Metro até junho de 2029",
+      "title_es": "Gabinete aprueba la gerencia de proyecto de la Línea 3 del Metro hasta junio de 2029",
+      "summary_pt": "A Resolução de Gabinete nº 130 autoriza procedimento excepcional entre o Metro de Panamá e o Consórcio PMTS Línea 3 para gerência de projeto, coordenação de interfaces e assistência técnica, por B/.16,22 milhões e 37 meses de vigência.",
+      "summary_es": "La Resolución de Gabinete nº 130 autoriza un procedimiento excepcional entre Metro de Panamá y el Consorcio PMTS Línea 3 para gerencia de proyecto, coordinación de interfaces y asistencia técnica, por B/.16,22 millones y 37 meses de vigencia.",
+      "impact_pt": "O ato formal sustenta a continuidade técnica e contratual de infraestrutura estratégica. Não representa, por si, nova frente física de obra ou inauguração da Linha 3.",
+      "impact_es": "El acto formal sostiene la continuidad técnica y contractual de infraestructura estratégica. No representa, por sí solo, un nuevo frente físico de obra ni la inauguración de la Línea 3."
+    },
+    {
+      "id": "PAN-02",
+      "country": "Panama",
+      "signal": "watch",
+      "source": "Metro Libre",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://www.metrolibre.com/nacionales/aprueban-fondos-para-carreteras-atp-y-operacion-del-metro-DC27431552",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Orçamento / continuidade operacional",
+      "theme_es": "Presupuesto / continuidad operacional",
+      "title_pt": "Comissão aprova B/.3,82 milhões para compromissos das Linhas 1 e 2 do Metro",
+      "title_es": "Comisión aprueba B/.3,82 millones para compromisos de las Líneas 1 y 2 del Metro",
+      "summary_pt": "A Comissão de Orçamento da Assembleia Nacional aprovou modificações de B/.3.815.792 para o Metro de Panamá, destinadas a seguros das Linhas 1 e 2 e a contas pendentes com fornecedores, segundo o diretor-geral citado pela reportagem.",
+      "summary_es": "La Comisión de Presupuesto de la Asamblea Nacional aprobó modificaciones por B/.3.815.792 para Metro de Panamá, destinadas a seguros de las Líneas 1 y 2 y a cuentas pendientes con proveedores, según el director general citado por el reportaje.",
+      "impact_pt": "A decisão dá visibilidade à continuidade financeira e operacional. Não corresponde a expansão física, inauguração de obra ou aprovação de uma nova linha.",
+      "impact_es": "La decisión da visibilidad a la continuidad financiera y operacional. No corresponde a expansión física, inauguración de obra ni aprobación de una nueva línea."
+    }
+  ],
+  "coverage_gaps": [
+    "Argentina",
+    "Colombia",
+    "Costa Rica",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 2,
+    "Bolivia": 1,
+    "Brasil": 0,
+    "Chile": 1,
+    "Colombia": 2,
+    "Costa Rica": 2,
+    "Equador": 1,
+    "Guatemala": 1,
+    "Mexico": 0,
+    "Panama": 0,
+    "Paraguay": 2,
+    "Peru": 2,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-18-0830-fontes-proprias.md",
+    "2026-11-18-0930-imprensa-instituicoes.md",
+    "2026-11-18-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-11",
+    "2026-11-18"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
