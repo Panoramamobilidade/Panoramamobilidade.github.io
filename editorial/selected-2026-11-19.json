@@ -1,0 +1,442 @@
+{
+  "date": "2026-11-19",
+  "cards": [
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Via Trolebus",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://viatrolebus.com.br/2026/11/metro-pede-licenca-para-o-trecho-fernao-dias-guarulhos/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Metro / licenciamento ambiental",
+      "theme_es": "Metro / licenciamiento ambiental",
+      "title_pt": "Metrô pede licença de instalação para trecho Fernão Dias–Dutra da extensão da Linha 2-Verde",
+      "title_es": "Metro solicita licencia de instalación para el tramo Fernão Dias–Dutra de la extensión de la Línea 2-Verde",
+      "summary_pt": "A Cetesb recebeu o pedido do Metrô de São Paulo para a Licença Ambiental de Instalação do trecho Fernão Dias–Dutra da extensão da Linha 2-Verde, nos municípios de São Paulo e Guarulhos, conforme edital publicado no Diário Oficial.",
+      "summary_es": "La Cetesb recibió la solicitud del Metro de São Paulo para la Licencia Ambiental de Instalación del tramo Fernão Dias–Dutra de la extensión de la Línea 2-Verde, en los municipios de São Paulo y Guarulhos, según un aviso publicado en el Diario Oficial.",
+      "impact_pt": "O registro confirma um avanço administrativo verificável para a expansão metroviária, mas não equivale à concessão da licença, ao início das obras nem a um cronograma definitivo.",
+      "impact_es": "El registro confirma un avance administrativo verificable para la expansión del metro, pero no equivale al otorgamiento de la licencia, al inicio de obras ni a un calendario definitivo."
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Pasajero7",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://www.pasajero7.com/jalisco-amplia-a-165-kilometros-red-transporte-publico-masivo-las-lineas-4-5/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Rede massiva / expansão operacional",
+      "theme_es": "Red masiva / expansión operacional",
+      "title_pt": "Jalisco informa rede de 165 km de transporte massivo após entrada das Linhas 4 e 5",
+      "title_es": "Jalisco informa una red de 165 km de transporte masivo tras la entrada de las Líneas 4 y 5",
+      "summary_pt": "Em balanço apresentado ao Congresso estadual, a Secretaria de Transporte informou que a operação das Linhas 4 e 5 acrescentou 53 km à oferta de transporte massivo. A rede soma 165 km ao considerar Mi Tren, Mi Macro Periférico e Mi Macro Calzada.",
+      "summary_es": "En un balance presentado al Congreso estatal, la Secretaría de Transporte informó que la operación de las Líneas 4 y 5 agregó 53 km a la oferta de transporte masivo. La red suma 165 km al considerar Mi Tren, Mi Macro Periférico y Mi Macro Calzada.",
+      "impact_pt": "O dado aponta ampliação operacional de rede com efeito territorial e intermodal. A fonte traz números distintos de 52 km e 53 km para a expansão de 2026; por isso, a edição atribui o balanço à secretaria.",
+      "impact_es": "El dato señala una ampliación operacional de red con efecto territorial e intermodal. La fuente trae cifras distintas de 52 km y 53 km para la expansión de 2026; por ello, la edición atribuye el balance a la secretaría."
+    },
+    {
+      "id": "MEX-02",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Infobae México",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://www.infobae.com/mexico/2026/11/18/metrobus-baja-de-precio-en-una-ruta-cual-sera-la-nueva-tarifa-y-a-partir-de-cuando/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Tarifa / conectividade aeroportuária",
+      "theme_es": "Tarifa / conectividad aeroportuaria",
+      "title_pt": "Metrobús reduz para MX$6 a conexão entre os terminais T1 e T2 do AICM",
+      "title_es": "Metrobús reduce a MX$6 la conexión entre las terminales T1 y T2 del AICM",
+      "summary_pt": "Desde 16 de novembro, o deslocamento interno entre os terminais 1 e 2 do Aeroporto Internacional Benito Juárez Ciudad de México passou a ter tarifa única de MX$6. A tarifa de MX$30 permanece para o trecho da Linha 4 entre o aeroporto e a rede urbana externa.",
+      "summary_es": "Desde el 16 de noviembre, el desplazamiento interno entre las terminales 1 y 2 del Aeropuerto Internacional Benito Juárez Ciudad de México pasó a tener una tarifa única de MX$6. La tarifa de MX$30 se mantiene para el tramo de la Línea 4 entre el aeropuerto y la red urbana externa.",
+      "impact_pt": "A medida reduz o custo de uma ligação de alta circulação entre terminais. Não representa redução geral da tarifa do Metrobús nem mudança em toda a Linha 4.",
+      "impact_es": "La medida reduce el costo de una conexión de alta circulación entre terminales. No representa una reducción general de la tarifa de Metrobús ni un cambio en toda la Línea 4."
+    },
+    {
+      "id": "PYG-01",
+      "country": "Paraguay",
+      "signal": "monitor",
+      "source": "MOPC / Viceministerio de Transporte",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://mopc.gov.py/el-transporte-publico-es-dignidad-para-las-familias-sostuvo-el-ministro/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Ônibus elétricos / operação e demanda",
+      "theme_es": "Autobuses eléctricos / operación y demanda",
+      "title_pt": "MOPC divulga balanço operacional dos 30 ônibus elétricos em três itinerários",
+      "title_es": "MOPC divulga balance operativo de los 30 autobuses eléctricos en tres itinerarios",
+      "summary_pt": "Durante visita à estação de carga de San Lorenzo, o MOPC informou que os 30 ônibus elétricos operados pelo Consórcio Arapoti atendem os itinerários E1, E2 e E3. O comunicado reporta 1.136.248 validações e 180.252 passageiros acumulados.",
+      "summary_es": "Durante una visita a la estación de carga de San Lorenzo, el MOPC informó que los 30 autobuses eléctricos operados por el Consorcio Arapoti atienden los itinerarios E1, E2 y E3. El comunicado reporta 1.136.248 validaciones y 180.252 pasajeros acumulados.",
+      "impact_pt": "São indicadores operacionais divulgados pelo órgão para acompanhar a eletrificação em serviço. Não equivalem a nova contratação, ampliação de frota ou auditoria independente de desempenho.",
+      "impact_es": "Son indicadores operativos divulgados por el organismo para acompañar la electrificación en servicio. No equivalen a una nueva contratación, ampliación de flota ni auditoría independiente de desempeño."
+    },
+    {
+      "id": "PER-01",
+      "country": "Peru",
+      "signal": "watch",
+      "source": "Lima Gris",
+      "source_publication_date": "2026-11-12",
+      "source_url": "https://limagris.com/tren-lima-chosica-sigue-sin-operar-atu-advierte-que-faltan-etapas-tecnicas-seguridad-ferroviaria-y-adecuacion-de-estaciones/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ferrovia de passageiros / prontidão operacional",
+      "theme_es": "Ferrocarril de pasajeros / preparación operacional",
+      "title_pt": "Lima–Chosica segue sem operação comercial, com pendências técnicas, contratuais e de segurança",
+      "title_es": "Lima–Chosica sigue sin operación comercial, con pendientes técnicos, contractuales y de seguridad",
+      "summary_pt": "A reportagem atribui à ATU, ao MTC e à ProInversión a pendência de definir operador, adequar estações e cruzamentos, proteger a via e concluir a modificação contratual. Há expectativa de adenda em dezembro de 2026, não início confirmado de serviço.",
+      "summary_es": "El reportaje atribuye a la ATU, al MTC y a ProInversión la pendiente de definir operador, adecuar estaciones y cruces, proteger la vía y concluir la modificación contractual. Hay expectativa de una adenda en diciembre de 2026, no un inicio de servicio confirmado.",
+      "impact_pt": "O quadro expõe risco de prazo e de prontidão operacional em um projeto ferroviário relevante para Lima Este. A expectativa de dezembro deve ser atribuída à ProInversión, sem tratá-la como cronograma definitivo.",
+      "impact_es": "El cuadro expone riesgo de plazo y preparación operacional en un proyecto ferroviario relevante para Lima Este. La expectativa de diciembre debe atribuirse a ProInversión, sin tratarla como un calendario definitivo."
+    }
+  ],
+  "coverage_gaps": [
+    "Argentina",
+    "Bolivia",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Panama",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 2,
+    "Bolivia": 2,
+    "Brasil": 1,
+    "Chile": 2,
+    "Colombia": 2,
+    "Costa Rica": 2,
+    "Equador": 2,
+    "Guatemala": 2,
+    "Mexico": 0,
+    "Panama": 2,
+    "Paraguay": 1,
+    "Peru": 1,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-19-0830-fontes-proprias.md",
+    "2026-11-19-0930-imprensa-instituicoes.md",
+    "2026-11-19-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-12",
+    "2026-11-19"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
