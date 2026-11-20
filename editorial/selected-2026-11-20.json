@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-20",
+  "cards": [
+    {
+      "id": "ARG-01",
+      "country": "Argentina",
+      "signal": "watch",
+      "source": "Trenes Argentinos / Argentina.gob.ar",
+      "source_publication_date": "2026-11-13",
+      "source_url": "https://www.argentina.gob.ar/noticias/avanza-el-traspaso-del-tren-del-valle-la-provincia-de-rio-negro",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Ferrovia regional / transição de gestão",
+      "theme_es": "Ferrocarril regional / transición de gestión",
+      "title_pt": "Tren del Valle entra em transição para a província de Río Negro",
+      "title_es": "Tren del Valle entra en transición hacia la provincia de Río Negro",
+      "summary_pt": "A Resolução 1853/2026 abriu a transição operacional, administrativa e tarifária do serviço Cipolletti–Neuquén–Plottier para a órbita de Río Negro. O processo prevê duas semanas e uma interrupção temporária no trecho durante a transferência.",
+      "summary_es": "La Resolución 1853/2026 abrió la transición operacional, administrativa y tarifaria del servicio Cipolletti–Neuquén–Plottier hacia la órbita de Río Negro. El proceso prevé dos semanas y una interrupción temporal del tramo durante el traspaso.",
+      "impact_pt": "É uma mudança de competência e gestão com efeito direto sobre a continuidade do serviço regional; não é expansão ferroviária ou início de obra.",
+      "impact_es": "Es un cambio de competencia y gestión con efecto directo sobre la continuidad del servicio regional; no es una ampliación ferroviaria ni el inicio de obras."
+    },
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Via Trolebus",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://viatrolebus.com.br/2026/11/metro-do-rio-trilhos-chegam-a-estacao-gavea/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Metrô / obras e via permanente",
+      "theme_es": "Metro / obras y vía permanente",
+      "title_pt": "MetrôRio inicia montagem dos trilhos na estação Gávea da Linha 4",
+      "title_es": "MetrôRio inicia el montaje de rieles en la estación Gávea de la Línea 4",
+      "summary_pt": "A montagem da via permanente começou na estação Gávea após a retirada de 28 mil toneladas de rocha do túnel de conexão com São Conrado. A reportagem mantém a entrega informada para o segundo semestre de 2028 e capacidade estimada de até 20 mil passageiros por dia.",
+      "summary_es": "El montaje de la vía permanente comenzó en la estación Gávea después de retirar 28 mil toneladas de roca del túnel de conexión con São Conrado. El reportaje mantiene la entrega informada para el segundo semestre de 2028 y una capacidad estimada de hasta 20 mil pasajeros diarios.",
+      "impact_pt": "É avanço físico verificável na retomada de uma estação antes paralisada, sem equivaler à inauguração; o cronograma depende das próximas etapas da obra.",
+      "impact_es": "Es un avance físico verificable en la reanudación de una estación antes paralizada, sin equivaler a su inauguración; el calendario depende de las etapas siguientes de obra."
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://diariodotransporte.com.br/2026/11/19/belo-horizonte-inicia-estudos-para-nova-concessao-de-onibus-que-vai-substituir-contratos-de-2008/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Ônibus / concessão e integração",
+      "theme_es": "Autobuses / concesión e integración",
+      "title_pt": "Belo Horizonte inicia modelagem para nova concessão municipal de ônibus em 2028",
+      "title_es": "Belo Horizonte inicia la modelización de una nueva concesión municipal de autobuses para 2028",
+      "summary_pt": "A Prefeitura iniciou, com apoio do BNDES, os estudos para substituir os contratos de 2008. O escopo abrange rede, integração com metrô e linhas metropolitanas, frota, remuneração, terminais e avaliação de eixos BRT e faixas preferenciais.",
+      "summary_es": "La Alcaldía inició, con apoyo del BNDES, los estudios para reemplazar los contratos de 2008. El alcance incluye red, integración con metro y líneas metropolitanas, flota, remuneración, terminales y evaluación de corredores BRT y carriles preferenciales.",
+      "impact_pt": "A etapa estrutura uma futura concessão com potencial de alterar integração e modelo econômico. Ainda não há edital, lotes definidos ou obras contratadas.",
+      "impact_es": "La etapa estructura una futura concesión con potencial para alterar la integración y el modelo económico. Aún no hay pliego, lotes definidos ni obras contratadas."
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "watch",
+      "source": "Bogotá.gov.co",
+      "source_publication_date": "2026-11-14",
+      "source_url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/nacion-confirma-cofinanciacion-para-estudios-linea-4-metro-de-bogota",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Metrô / estudos e cofinanciamento",
+      "theme_es": "Metro / estudios y cofinanciación",
+      "title_pt": "Nação confirma cofinanciamento para estudos da Linha 4 do Metrô de Bogotá",
+      "title_es": "La Nación confirma cofinanciación para estudios de la Línea 4 del Metro de Bogotá",
+      "summary_pt": "A Nação confirmou aporte estimado de COP 34 bilhões para cofinanciar estudos da Linha 4. A FDN apoiará a contratação da prefactibilidade, que o Distrito prevê contratar até o fim de 2026; a fase de factibilidade é estimada em COP 78 bilhões para 2027.",
+      "summary_es": "La Nación confirmó un aporte estimado de COP 34 mil millones para cofinanciar estudios de la Línea 4. La FDN apoyará la contratación de la prefactibilidad, que el Distrito prevé contratar antes de terminar 2026; la factibilidad se estima en COP 78 mil millones para 2027.",
+      "impact_pt": "O fato confirma recursos para a preparação dos estudos, mas não contrato assinado, traçado definitivo, obra ou decisão de construção.",
+      "impact_es": "El hecho confirma recursos para preparar los estudios, pero no un contrato firmado, trazado definitivo, obra ni decisión de construcción."
+    },
+    {
+      "id": "CRI-01",
+      "country": "Costa Rica",
+      "signal": "watch",
+      "source": "ARESEP",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://aresep.go.cr/noticias/aresep-logra-acuerdo-con-camaras-de-transportes-especiales/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Regulação / transporte especial",
+      "theme_es": "Regulación / transporte especial",
+      "title_pt": "ARESEP posterga para 2028 cobrança do cânone regulatório de 2027 no transporte especial",
+      "title_es": "ARESEP posterga hasta 2028 el cobro del canon regulatorio de 2027 en el transporte especial",
+      "summary_pt": "A reguladora e câmaras do transporte de trabalhadores e estudantes universitários acordaram excluir o valor do cânone de 2027 do direito de circulação, transferindo sua cobrança para 2028. A ARESEP informou que formalizará os termos por resolução.",
+      "summary_es": "La reguladora y cámaras del transporte de trabajadores y estudiantes universitarios acordaron excluir el valor del canon de 2027 del derecho de circulación y trasladar su cobro a 2028. ARESEP informó que formalizará los términos mediante resolución.",
+      "impact_pt": "É um ajuste financeiro-regulatório para operadores especializados, não uma mudança geral de tarifa urbana; a resolução é o próximo marco verificável.",
+      "impact_es": "Es un ajuste financiero-regulatorio para operadores especializados, no un cambio general de tarifa urbana; la resolución es el próximo hito verificable."
+    },
+    {
+      "id": "PAN-01",
+      "country": "Panama",
+      "signal": "watch",
+      "source": "Panamá América",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://www.panamaamerica.com.pa/provincias/panama-oeste-transportistas-de-arraijan-solicitan-mesa-de-trabajo-ante-entrada-en-operacion-de-la-linea-tres-del-metro-1282279",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Linha 3 / integração alimentadora",
+      "theme_es": "Línea 3 / integración alimentadora",
+      "title_pt": "Operadores de Arraiján pedem definição de alimentação e acessos para a Linha 3",
+      "title_es": "Operadores de Arraiján piden definir alimentación y accesos para la Línea 3",
+      "summary_pt": "Sete empresas solicitaram uma mesa de trabalho com o governo para discutir a atuação como rotas alimentadoras e alertaram para a ausência de baias de acesso de ônibus junto às estações. A reportagem cita 472 certificados de operação ligados às empresas.",
+      "summary_es": "Siete empresas solicitaron una mesa de trabajo con el gobierno para discutir su actuación como rutas alimentadoras y alertaron sobre la ausencia de bahías de acceso para buses junto a las estaciones. El reportaje cita 472 certificados de operación vinculados a las empresas.",
+      "impact_pt": "A demanda expõe risco de integração de última milha e de transição operacional. É uma reivindicação setorial, não decisão confirmada do governo ou do Metro.",
+      "impact_es": "La demanda expone riesgo de integración de última milla y de transición operacional. Es una solicitud sectorial, no una decisión confirmada del gobierno ni del Metro."
+    },
+    {
+      "id": "PER-01",
+      "country": "Peru",
+      "signal": "monitor",
+      "source": "Infobae Perú",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://www.infobae.com/peru/2026/11/19/atu-apunta-a-incorporar-3-mil-buses-de-transporte-urbano-en-lima-y-callao-en-los-proximos-18-meses/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / integração tarifária e financeira",
+      "theme_es": "Autobuses / integración tarifaria y financiera",
+      "title_pt": "ATU projeta 3 mil ônibus em Lima e Callao em 18 meses com arrecadação integrada",
+      "title_es": "ATU proyecta 3 mil autobuses en Lima y Callao en 18 meses con recaudo integrado",
+      "summary_pt": "A ATU apresenta como meta incorporar 3 mil unidades em 18 meses, apoiada em títulos habilitantes, arrecadação centralizada, cartão interoperável e fideicomisso de garantia. A fonte atribui ao órgão cerca de mil unidades incorporadas desde abril de 2025.",
+      "summary_es": "ATU presenta como meta incorporar 3 mil unidades en 18 meses, apoyada en títulos habilitantes, recaudo centralizado, tarjeta interoperable y fideicomiso de garantía. La fuente atribuye al organismo cerca de mil unidades incorporadas desde abril de 2025.",
+      "impact_pt": "É uma meta e uma arquitetura em desenvolvimento para renovação de frota e pagamentos, não frota contratada, adquirida ou cronograma de implantação confirmado.",
+      "impact_es": "Es una meta y una arquitectura en desarrollo para renovación de flota y pagos, no una flota contratada, adquirida ni un calendario de implementación confirmado."
+    },
+    {
+      "id": "PER-02",
+      "country": "Peru",
+      "signal": "risk",
+      "source": "Gestión",
+      "source_publication_date": "2026-11-15",
+      "source_url": "https://gestion.pe/economia/lineas-3-y-4-del-metro-de-lima-contratacion-clave-por-s-150-millones-en-pausa-por-el-nino-dice-la-atu-noticia/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / estruturação e recursos",
+      "theme_es": "Metro / estructuración y recursos",
+      "title_pt": "ATU mantém em pausa contratação de PMO e engenharia das Linhas 3 e 4 por recursos redirecionados",
+      "title_es": "ATU mantiene en pausa la contratación de PMO e ingeniería de las Líneas 3 y 4 por recursos redireccionados",
+      "summary_pt": "A ATU informou que os recursos previstos para a PMO e para encaminhar os Estudos Definitivos de Engenharia ainda não foram recuperados após o redirecionamento para a emergência de El Niño. O valor mencionado para a etapa é de S/ 150 milhões.",
+      "summary_es": "ATU informó que los recursos previstos para la PMO y para impulsar los Estudios Definitivos de Ingeniería aún no fueron recuperados tras su redireccionamiento a la emergencia de El Niño. El monto mencionado para la etapa es de S/ 150 millones.",
+      "impact_pt": "A declaração sinaliza risco financeiro e de cronograma na preparação das APPs. Não confirma cancelamento das linhas nem um novo calendário de contratação.",
+      "impact_es": "La declaración señala riesgo financiero y de calendario en la preparación de las APP. No confirma la cancelación de las líneas ni un nuevo calendario de contratación."
+    }
+  ],
+  "coverage_gaps": [
+    "Bolivia",
+    "Chile",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Paraguay",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 1,
+    "Bolivia": 2,
+    "Brasil": 0,
+    "Chile": 2,
+    "Colombia": 1,
+    "Costa Rica": 1,
+    "Equador": 2,
+    "Guatemala": 2,
+    "Mexico": 2,
+    "Panama": 1,
+    "Paraguay": 2,
+    "Peru": 0,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-20-0830-fontes-proprias.md",
+    "2026-11-20-0930-imprensa-instituicoes.md",
+    "2026-11-20-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-13",
+    "2026-11-20"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
