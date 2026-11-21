@@ -1,0 +1,540 @@
+{
+  "date": "2026-11-21",
+  "cards": [
+    {
+      "id": "ARG-01",
+      "country": "Argentina",
+      "signal": "watch",
+      "source": "0221",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://www.0221.com.ar/la-plata/la-municipalidad-presento-el-nuevo-pliego-micros-y-explico-como-controlara-frecuencias-y-recorridos-n137760/amp",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / concessão, dados e fiscalização",
+      "theme_es": "Autobuses / concesión, datos y fiscalización",
+      "title_pt": "La Plata apresenta novo pliego dos ônibus urbanos com controle municipal em tempo real",
+      "title_es": "La Plata presenta un nuevo pliego de autobuses urbanos con control municipal en tiempo real",
+      "summary_pt": "A Prefeitura apresentou ao Conselho Deliberante o projeto de pliego para as linhas Norte, Sul, Este e Oeste. A proposta prevê acompanhamento em tempo real de viagens, passageiros e quilômetros, antes da deliberação legislativa.",
+      "summary_es": "La Alcaldía presentó al Concejo Deliberante el proyecto de pliego para las líneas Norte, Sur, Este y Oeste. La propuesta prevé seguimiento en tiempo real de viajes, pasajeros y kilómetros, antes de la deliberación legislativa.",
+      "impact_pt": "É uma proposta de governança e fiscalização baseada em dados, ainda em tramitação; não é licitação lançada nem concessão adjudicada.",
+      "impact_es": "Es una propuesta de gobernanza y fiscalización basada en datos, aún en trámite; no es una licitación lanzada ni una concesión adjudicada."
+    },
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://diariodotransporte.com.br/2026/11/20/grande-recife-publica-contratos-para-40-onibus-eletricos-da-marcopolo-e-50-carregadores-por-r-1176-milhoes/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Ônibus / eletrificação e recarga",
+      "theme_es": "Autobuses / electrificación y recarga",
+      "title_pt": "Grande Recife formaliza contratos para 40 ônibus elétricos e 50 carregadores",
+      "title_es": "Grande Recife formaliza contratos para 40 autobuses eléctricos y 50 cargadores",
+      "summary_pt": "O Grande Recife publicou contratos de R$ 111,3 milhões para 40 ônibus elétricos Marcopolo e de R$ 6,3 milhões para 50 carregadores. Outros 60 veículos aparecem como vencedores definidos, mas sem extratos contratuais publicados nesta leitura.",
+      "summary_es": "Grande Recife publicó contratos por R$ 111,3 millones para 40 autobuses eléctricos Marcopolo y por R$ 6,3 millones para 50 cargadores. Otros 60 vehículos figuran con ganadores definidos, pero sin extractos contractuales publicados en esta lectura.",
+      "impact_pt": "A contratação efetiva combina frota e infraestrutura de recarga; os 60 veículos adicionais não devem ser tratados como contrato formalizado.",
+      "impact_es": "La contratación efectiva combina flota e infraestructura de recarga; los 60 vehículos adicionales no deben tratarse como contrato formalizado."
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "risk",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://diariodotransporte.com.br/2026/11/20/plenario-do-tcm-mantem-suspensa-licitacao-de-r-2779-milhoes-da-celso-garcia-e-do-corredor-de-onibus-do-bras/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Corredores de ônibus / licitação e obras",
+      "theme_es": "Corredores de autobuses / licitación y obras",
+      "title_pt": "TCM-SP mantém suspensa licitação do corredor Celso Garcia/Brás",
+      "title_es": "El TCM-SP mantiene suspendida la licitación del corredor Celso Garcia/Brás",
+      "summary_pt": "O plenário do TCM-SP manteve a cautelar sobre a concorrência da SPTrans para projetos e obras entre o Terminal Parque Dom Pedro II e a Avenida Aricanduva. O Tribunal pediu esclarecimentos sobre sobreposições de intervenções e orçamento.",
+      "summary_es": "El pleno del TCM-SP mantuvo la medida cautelar sobre la licitación de SPTrans para proyectos y obras entre la Terminal Parque Dom Pedro II y la Avenida Aricanduva. El Tribunal pidió aclaraciones sobre superposiciones de intervenciones y presupuesto.",
+      "impact_pt": "O processo de um corredor estruturante segue interrompido; não há cancelamento definitivo e a retomada depende de manifestação ao Tribunal.",
+      "impact_es": "El proceso de un corredor estructurante sigue interrumpido; no hay cancelación definitiva y su reanudación depende de la respuesta al Tribunal."
+    },
+    {
+      "id": "BRA-03",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://diariodotransporte.com.br/2026/11/19/santa-catarina-reafirma-aporte-de-us-24-milhoes-para-brt-eletrico-e-projeto-do-tunel-entre-itajai-e-navegantes/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "BRT / financiamento e eletrificação",
+      "theme_es": "BRT / financiamiento y electrificación",
+      "title_pt": "Aporte estadual reforça programa de BRT elétrico na Foz do Rio Itajaí",
+      "title_es": "Aporte estatal refuerza el programa de BRT eléctrico en la desembocadura del río Itajaí",
+      "summary_pt": "Santa Catarina reafirmou aporte de US$ 24 milhões ao Promobis após a formalização de empréstimo de US$ 90 milhões do Banco Mundial ao consórcio de 11 municípios. O programa prevê ônibus elétricos regionais; o túnel depende de uma futura PPP.",
+      "summary_es": "Santa Catarina reafirmó un aporte de US$ 24 millones al Promobis después de formalizarse un préstamo de US$ 90 millones del Banco Mundial al consorcio de 11 municipios. El programa contempla autobuses eléctricos regionales; el túnel depende de una futura APP.",
+      "impact_pt": "Há reforço financeiro verificável para integração e eletrificação regional, sem equivaler a início das obras do túnel ou a PPP contratada.",
+      "impact_es": "Existe un refuerzo financiero verificable para integración y electrificación regional, sin equivaler al inicio de las obras del túnel ni a una APP contratada."
+    },
+    {
+      "id": "BRA-04",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-21",
+      "source_url": "https://diariodotransporte.com.br/2026/11/21/grande-goiania-avanca-na-frota-de-onibus-a-gas-e-biometano-com-veiculos-padron-scania-e-caio-plano-preve-501-unidadesgoiania-avanca-na-frota-de-onibus-a-gas-e-biometano-com-veiculos-padron-scania-e-c/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Ônibus / transição energética",
+      "theme_es": "Autobuses / transición energética",
+      "title_pt": "Grande Goiânia inicia entrada de ônibus a gás e biometano; plano prevê 501 unidades",
+      "title_es": "Gran Goiânia inicia la incorporación de autobuses a gas y biometano; el plan prevé 501 unidades",
+      "summary_pt": "A reportagem registra a chegada de seis ônibus Padron preparados para GNV/biometano à HP Mobilidade e cita plano autorizado pela CDTC para incorporar 501 veículos a gás natural e/ou biometano até dezembro de 2027.",
+      "summary_es": "El reportaje registra la llegada de seis autobuses Padron preparados para GNV/biometano a HP Mobilidade y cita un plan autorizado por CDTC para incorporar 501 vehículos a gas natural y/o biometano hasta diciembre de 2027.",
+      "impact_pt": "O lote inicial é implementação verificável de diversificação energética; a meta de 501 unidades continua sendo plano autorizado, não entrega concluída.",
+      "impact_es": "El lote inicial es una implementación verificable de diversificación energética; la meta de 501 unidades sigue siendo un plan autorizado, no una entrega concluida."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "risk",
+      "source": "La Tercera",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://www.latercera.com/nacional/noticia/transportes-pone-termino-anticipado-a-contratos-de-dos-operadores-del-sistema-red-por-incumplimientos-y-entrega-servicios-a-nuevas-empresas/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / contratos e continuidade operacional",
+      "theme_es": "Autobuses / contratos y continuidad operacional",
+      "title_pt": "Chile encerra antecipadamente contratos de dois operadores da Red Movilidad",
+      "title_es": "Chile termina anticipadamente contratos de dos operadores de Red Movilidad",
+      "summary_pt": "O Ministério dos Transportes encerrou antecipadamente os contratos de Buses Alfa e Buses Omega, do grupo Metropol, por descumprimentos operacionais. Voy Santiago e Subus Chile assumirão 52 serviços nas zonas norte e sul-oriente de Santiago.",
+      "summary_es": "El Ministerio de Transportes terminó anticipadamente los contratos de Buses Alfa y Buses Omega, del grupo Metropol, por incumplimientos operacionales. Voy Santiago y Subus Chile asumirán 52 servicios en las zonas norte y suroriente de Santiago.",
+      "impact_pt": "A ruptura contratual exige transição sem perda de continuidade para passageiros; a fonte não sustenta inferências sobre valores, sanções adicionais ou cronograma detalhado.",
+      "impact_es": "La ruptura contractual exige una transición sin pérdida de continuidad para los pasajeros; la fuente no sustenta inferencias sobre montos, sanciones adicionales ni calendario detallado."
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "monitor",
+      "source": "Bogotá.gov.co",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/encuesta-de-bogota-como-vamos-de-2026-resultados-sobre-transmilenio",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Dados / percepção e uso do transporte",
+      "theme_es": "Datos / percepción y uso del transporte",
+      "title_pt": "Pesquisa Bogotá Cómo Vamos aponta TransMilenio como principal modo para 44,6% dos entrevistados",
+      "title_es": "La encuesta Bogotá Cómo Vamos señala a TransMilenio como modo principal para el 44,6% de las personas encuestadas",
+      "summary_pt": "A página oficial atribui à Pesquisa de Percepção Cidadã 2026 a maior participação do TransMilenio como principal modo desde 2014, com 44,6%. O TransMiZonal alcançou 48,7% de satisfação no mesmo levantamento.",
+      "summary_es": "La página oficial atribuye a la Encuesta de Percepción Ciudadana 2026 la mayor participación de TransMilenio como modo principal desde 2014, con 44,6%. TransMiZonal alcanzó 48,7% de satisfacción en el mismo levantamiento.",
+      "impact_pt": "É um indicador atualizado de percepção e centralidade do sistema, não uma avaliação independente de desempenho operacional nem anúncio de expansão.",
+      "impact_es": "Es un indicador actualizado de percepción y centralidad del sistema, no una evaluación independiente del desempeño operacional ni un anuncio de ampliación."
+    },
+    {
+      "id": "CRI-01",
+      "country": "Costa Rica",
+      "signal": "watch",
+      "source": "Teletica",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://www.teletica.com/nacional/aresep-analiza-tarifa-reducida-para-empresas-que-instalen-cargadores-electricos-de-vehiculos_421463",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Regulação / recarga elétrica",
+      "theme_es": "Regulación / recarga eléctrica",
+      "title_pt": "ARESEP analisa categoria tarifária para centros privados de recarga elétrica",
+      "title_es": "ARESEP analiza una categoría tarifaria para centros privados de recarga eléctrica",
+      "summary_pt": "A reguladora analisa uma possível categoria de tarifa de fornecimento para empresas que revendem energia em centros de recarga, após mudança legal que permitiu cobrar pelo uso dos carregadores.",
+      "summary_es": "La reguladora analiza una posible categoría de tarifa de suministro para empresas que revenden energía en centros de recarga, después de un cambio legal que permitió cobrar por el uso de los cargadores.",
+      "impact_pt": "É um sinal regulatório para infraestrutura privada de eletrificação; não é tarifa aprovada, política de ônibus elétricos nem redução confirmada ao usuário.",
+      "impact_es": "Es una señal regulatoria para infraestructura privada de electrificación; no es una tarifa aprobada, una política de autobuses eléctricos ni una reducción confirmada para el usuario."
+    },
+    {
+      "id": "GUA-01",
+      "country": "Guatemala",
+      "signal": "monitor",
+      "source": "La Hora",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://lahora.gt/nacionales/hloarca/2026/11/17/anuncian-cambios-viales-desde-el-20-de-noviembre-por-trabajos-en-estacion-3-del-aerometro-now/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Infraestrutura / AeroMetro e circulação urbana",
+      "theme_es": "Infraestructura / AeroMetro y circulación urbana",
+      "title_pt": "Obras da Estação 3 do AeroMetro acionam mudanças viárias na Cidade da Guatemala",
+      "title_es": "Las obras de la Estación 3 del AeroMetro activan cambios viales en Ciudad de Guatemala",
+      "summary_pt": "A matéria confirma alterações viárias desde 20 de novembro vinculadas aos trabalhos na Estação 3 do AeroMetro. O fato evidencia uma frente física de obra com efeito temporário sobre a circulação urbana.",
+      "summary_es": "La nota confirma cambios viales desde el 20 de noviembre vinculados a los trabajos en la Estación 3 del AeroMetro. El hecho evidencia un frente físico de obra con efecto temporal sobre la circulación urbana.",
+      "impact_pt": "O marco deve ser acompanhado como evolução física do projeto, mas não prova novo financiamento, licitação ou prazo de entrega do sistema.",
+      "impact_es": "El hito debe seguirse como evolución física del proyecto, pero no prueba nuevo financiamiento, licitación ni fecha de entrega del sistema."
+    },
+    {
+      "id": "PAN-01",
+      "country": "Panama",
+      "signal": "watch",
+      "source": "En Segundos Panamá",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://ensegundos.com.pa/2026/11/19/presentan-al-miviot-plan-del-trabajo-del-plan-parcial-de-linea-3-del-metro-para-arraijan/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / integração urbana e ordenamento territorial",
+      "theme_es": "Metro / integración urbana y ordenamiento territorial",
+      "title_pt": "Arraiján inicia plano territorial associado à Linha 3 do Metrô do Panamá",
+      "title_es": "Arraiján inicia un plan territorial asociado a la Línea 3 del Metro de Panamá",
+      "summary_pt": "Miviot e as empresas responsáveis pelo Plano Parcial de Ordenamento Territorial da Linha 3 realizaram a primeira reunião para apresentar o plano de trabalho voltado ao crescimento urbano de Arraiján no entorno do projeto.",
+      "summary_es": "Miviot y las empresas responsables del Plan Parcial de Ordenamiento Territorial de la Línea 3 realizaron la primera reunión para presentar el plan de trabajo orientado al crecimiento urbano de Arraiján alrededor del proyecto.",
+      "impact_pt": "É início de planejamento territorial articulado à infraestrutura de metrô, não autorização imobiliária nem novo contrato de obra metroviária.",
+      "impact_es": "Es el inicio de una planificación territorial articulada con la infraestructura de metro, no una autorización inmobiliaria ni un nuevo contrato de obra metroviaria."
+    },
+    {
+      "id": "PER-01",
+      "country": "Peru",
+      "signal": "watch",
+      "source": "Gestión",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://gestion.pe/economia/chancay-lima-y-callao-atu-presento-plan-logistico-al-2046-para-mejorar-transporte-de-carga-noticia/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Planejamento / integração urbano-logística",
+      "theme_es": "Planificación / integración urbano-logística",
+      "title_pt": "ATU apresenta avanços de plano logístico 2026–2046 para Chancay, Lima e Callao",
+      "title_es": "ATU presenta avances de un plan logístico 2026–2046 para Chancay, Lima y Callao",
+      "summary_pt": "A ATU apresentou avanços do Plano de Desenvolvimento Logístico 2026–2046, com propostas para circulação de caminhões, acessos portuários e conexão entre zonas industriais e comerciais de Chancay, Lima e Callao.",
+      "summary_es": "ATU presentó avances del Plan de Desarrollo Logístico 2026–2046, con propuestas para circulación de camiones, accesos portuarios y conexión entre zonas industriales y comerciales de Chancay, Lima y Callao.",
+      "impact_pt": "A agenda conecta logística e território metropolitano, mas o anúncio descreve propostas e avanços de plano, não financiamento, contratação ou implantação de corredores.",
+      "impact_es": "La agenda conecta logística y territorio metropolitano, pero el anuncio describe propuestas y avances de plan, no financiamiento, contratación ni implementación de corredores."
+    }
+  ],
+  "coverage_gaps": [
+    "Bolivia",
+    "Equador",
+    "Mexico",
+    "Paraguay",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 1,
+    "Bolivia": 2,
+    "Brasil": 0,
+    "Chile": 1,
+    "Colombia": 1,
+    "Costa Rica": 1,
+    "Equador": 2,
+    "Guatemala": 1,
+    "Mexico": 2,
+    "Panama": 1,
+    "Paraguay": 2,
+    "Peru": 1,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-21-0830-fontes-proprias.md",
+    "2026-11-21-0930-imprensa-instituicoes.md",
+    "2026-11-21-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-14",
+    "2026-11-21"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
