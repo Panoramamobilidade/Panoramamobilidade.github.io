@@ -36,5 +36,5 @@
   "google_news_final_urls": 0,
   "local_qa": "passed",
   "pdf": "not generated: established WeasyPrint converter missing libpangoft2-1.0-0",
-  "public_qa": "not deployed"
+  "public_qa": "passed: served GitHub Pages PT/ES dated and /hoje/ pages returned HTTP 200 with 11 cards, 16 functional local anchors, 11 original source links, correct 21/11/2026 date, logo asset and no Google News URLs"
 }
