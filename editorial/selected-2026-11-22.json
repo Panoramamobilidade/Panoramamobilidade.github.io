@@ -1,0 +1,591 @@
+{
+  "date": "2026-11-22",
+  "cards": [
+    {
+      "id": "ARG-01",
+      "country": "Argentina",
+      "signal": "op",
+      "source": "Cadena 3 Argentina",
+      "source_publication_date": "2026-11-15",
+      "source_url": "https://www.cadena3.com/noticia/noticias-rosario/rosario-pone-en-circulacion-este-lunes-la-primera-tanda-de-93-colectivos-a-gnc_613318",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / renovação de frota e transição energética",
+      "theme_es": "Autobuses / renovación de flota y transición energética",
+      "title_pt": "Rosario coloca primeira leva de 93 ônibus a GNV em circulação",
+      "title_es": "Rosario pone en circulación la primera tanda de 93 autobuses a GNC",
+      "summary_pt": "A primeira leva da frota de 93 ônibus a gás natural comprimido começou a operar na renovação da linha 103. A Prefeitura informou previsão de completar a incorporação até o fim de novembro.",
+      "summary_es": "La primera tanda de la flota de 93 autobuses a gas natural comprimido comenzó a operar en la renovación de la línea 103. La Municipalidad informó una previsión de completar la incorporación a finales de noviembre.",
+      "impact_pt": "É entrada operacional verificável de parte da frota; a previsão de completar as 93 unidades não confirma que todo o lote já esteja em serviço.",
+      "impact_es": "Es una entrada operacional verificable de parte de la flota; la previsión de completar las 93 unidades no confirma que todo el lote ya esté en servicio."
+    },
+    {
+      "id": "ARG-02",
+      "country": "Argentina",
+      "signal": "op",
+      "source": "Buenos Aires Ciudad",
+      "source_publication_date": "2026-11-16",
+      "source_url": "https://buenosaires.gob.ar/noticias/los-jubilados-de-la-ciudad-ya-pueden-viajar-gratis-en-subte-con-solo-presentar-el-dni",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Tarifas / acessibilidade e digitalização",
+      "theme_es": "Tarifas / accesibilidad y digitalización",
+      "title_pt": "Buenos Aires habilita DNI para validar passe gratuito de aposentados elegíveis no Subte",
+      "title_es": "Buenos Aires habilita el DNI para validar el pase gratuito de jubilados elegibles en el Subte",
+      "summary_pt": "A nova modalidade permite usar o DNI nos validadores Multipago após cadastro e aprovação, para aposentados, pensionistas e retirados residentes com renda de até 2,5 aposentadorias mínimas.",
+      "summary_es": "La nueva modalidad permite usar el DNI en los validadores Multipago después del registro y la aprobación, para jubilados, pensionados y retirados residentes con ingresos de hasta 2,5 jubilaciones mínimas.",
+      "impact_pt": "A medida reduz barreiras de acesso a um benefício tarifário focalizado; não é gratuidade universal nem dispensa dos critérios de elegibilidade.",
+      "impact_es": "La medida reduce barreras de acceso a un beneficio tarifario focalizado; no es gratuidad universal ni elimina los criterios de elegibilidad."
+    },
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-21",
+      "source_url": "https://diariodotransporte.com.br/2026/11/21/prazo-para-fabricantes-apresentarem-precos-de-compra-de-100-onibus-eletricos-para-porto-alegre-rs-termina-nesta-quarta-feira-25/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Ônibus / eletrificação e recarga",
+      "theme_es": "Autobuses / electrificación y recarga",
+      "title_pt": "Porto Alegre consulta preços para 100 ônibus elétricos e recarga",
+      "title_es": "Porto Alegre consulta precios para 100 autobuses eléctricos y sistemas de recarga",
+      "summary_pt": "Os chamamentos públicos do Projeto E-BUS POA pedem cotações para 100 ônibus elétricos e carregadores de 240 kW e 320 kW, com recursos projetados de até R$ 447,7 milhões do Fundo Clima.",
+      "summary_es": "Las convocatorias públicas del Proyecto E-BUS POA solicitan cotizaciones para 100 autobuses eléctricos y cargadores de 240 kW y 320 kW, con recursos proyectados de hasta R$ 447,7 millones del Fondo Clima.",
+      "impact_pt": "É uma etapa verificável de preparação de referência para compra e recarga em escala; não é licitação, adjudicação ou contratação de fornecedor.",
+      "impact_es": "Es una etapa verificable de preparación de referencia para compra y recarga a escala; no es licitación, adjudicación ni contratación de proveedor."
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-21",
+      "source_url": "https://diariodotransporte.com.br/2026/11/21/sptrans-contrata-enel-por-r-550-mil-para-remanejar-postes-no-corredor-itaquera-lider/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Corredores de ônibus / obras preparatórias",
+      "theme_es": "Corredores de autobuses / obras preparatorias",
+      "title_pt": "SPTrans contrata remanejamento de postes para segunda etapa do Corredor Itaquera–Líder",
+      "title_es": "SPTrans contrata el traslado de postes para la segunda etapa del Corredor Itaquera–Líder",
+      "summary_pt": "A SPTrans contratou a Enel por R$ 550 mil para remover e remanejar postes em até 120 dias, como intervenção preparatória para a ligação ao Terminal Vila Carrão. A fonte informa 6,2 km já entregues dos 9,3 km previstos.",
+      "summary_es": "SPTrans contrató a Enel por R$ 550 mil para retirar y trasladar postes en hasta 120 días, como intervención preparatoria para la conexión con la Terminal Vila Carrão. La fuente informa 6,2 km entregados de los 9,3 km previstos.",
+      "impact_pt": "O contrato destrava uma utilidade necessária ao corredor, mas não inaugura trecho nem altera linhas imediatamente.",
+      "impact_es": "El contrato resuelve una utilidad necesaria para el corredor, pero no inaugura un tramo ni modifica líneas de inmediato."
+    },
+    {
+      "id": "BRA-03",
+      "country": "Brasil",
+      "signal": "monitor",
+      "source": "Via Trolebus",
+      "source_publication_date": "2026-11-21",
+      "source_url": "https://viatrolebus.com.br/2026/11/porto-alegre-testa-biocombustivel-em-dez-onibus/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Ônibus / combustíveis de baixa emissão",
+      "theme_es": "Autobuses / combustibles de bajas emisiones",
+      "title_pt": "Porto Alegre amplia teste de biocombustível para dez ônibus",
+      "title_es": "Porto Alegre amplía la prueba de biocombustible a diez autobuses",
+      "summary_pt": "Seis ônibus da Carris passaram a usar Be8 BeVant, somando-se a quatro veículos da Nortran. A demonstração prevê seis meses de avaliação de consumo, desempenho, manutenção, custos e abastecimento.",
+      "summary_es": "Seis autobuses de Carris empezaron a usar Be8 BeVant, sumándose a cuatro vehículos de Nortran. La demostración prevé seis meses de evaluación de consumo, desempeño, mantenimiento, costos y abastecimiento.",
+      "impact_pt": "O teste produz evidência operacional para decisão tecnológica e energética futura; não representa conversão definitiva da frota.",
+      "impact_es": "La prueba produce evidencia operacional para una futura decisión tecnológica y energética; no representa una conversión definitiva de la flota."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "op",
+      "source": "Mundo Marítimo / SoyChile",
+      "source_publication_date": "2026-11-21",
+      "source_url": "https://www.soychile.cl/antofagasta/sociedad/2026/11/21/973603/micros-electricas-afta.html",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / eletrificação",
+      "theme_es": "Autobuses / electrificación",
+      "title_pt": "Antofagasta recebe 27 ônibus elétricos; expansão para 2027 é projetada",
+      "title_es": "Antofagasta recibe 27 autobuses eléctricos; se proyecta una expansión para 2027",
+      "summary_pt": "A imprensa local reporta o desembarque de 27 ônibus elétricos para o transporte público de Antofagasta e prevê outras 100 unidades no próximo ano, chegando a 134 micros elétricas em operação em 2027.",
+      "summary_es": "La prensa local informa el desembarque de 27 autobuses eléctricos para el transporte público de Antofagasta y prevé otras 100 unidades el próximo año, llegando a 134 micros eléctricas operando en 2027.",
+      "impact_pt": "O desembarque é fato realizado; a frota de 134 veículos é projeção reportada, não capacidade já ativa.",
+      "impact_es": "El desembarque es un hecho realizado; la flota de 134 vehículos es una proyección reportada, no una capacidad ya activa."
+    },
+    {
+      "id": "CHI-02",
+      "country": "Chile",
+      "signal": "watch",
+      "source": "Transelec",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://www.transelec.cl/metro-transelec-avances-para-energizar-nuevas-lineas/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Metrô / infraestrutura energética",
+      "theme_es": "Metro / infraestructura energética",
+      "title_pt": "Infraestrutura para energizar linhas 7, 9 e A do Metrô atinge 85% de avanço",
+      "title_es": "La infraestructura para energizar las líneas 7, 9 y A del Metro alcanza un 85% de avance",
+      "summary_pt": "A subestação Cerro Navia e a infraestrutura associada chegaram a 85% de avanço geral, em integração e testes antes da energização do recinto de média tensão que atenderá a futura Linha 7 e depois as linhas 9 e A.",
+      "summary_es": "La subestación Cerro Navia y la infraestructura asociada alcanzaron un 85% de avance general, en integración y pruebas antes de energizar el recinto de media tensión que atenderá a la futura Línea 7 y luego a las líneas 9 y A.",
+      "impact_pt": "É um marco técnico para a expansão metroviária, mas não representa linha aberta, energização concluída ou operação comercial.",
+      "impact_es": "Es un hito técnico para la expansión metroviaria, pero no representa una línea abierta, energización concluida ni operación comercial."
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "Portafolio",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://www.portafolio.co/amp/energia/bogota-activa-su-primer-patio-troncal-100-electrico-tendra-capacidad-gradual-para-recargar-116-buses-506730",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / recarga e infraestrutura elétrica",
+      "theme_es": "Autobuses / recarga e infraestructura eléctrica",
+      "title_pt": "Bogotá ativa Patio Sur para recarga progressiva de até 116 ônibus troncais",
+      "title_es": "Bogotá activa Patio Sur para la recarga progresiva de hasta 116 autobuses troncales",
+      "summary_pt": "A reportagem informa a entrada em operação do Patio Sur de TransMilenio, anunciado pela Bia Energy, com 9 MVA iniciais e expansão prevista a 13 MVA. A capacidade planejada abrange 74 articulados e 42 biarticulados.",
+      "summary_es": "El reportaje informa la entrada en operación del Patio Sur de TransMilenio, anunciado por Bia Energy, con 9 MVA iniciales y una expansión prevista a 13 MVA. La capacidad proyectada abarca 74 articulados y 42 biarticulados.",
+      "impact_pt": "É infraestrutura de recarga de grande porte para frota troncal; a capacidade é progressiva e não prova que os 116 ônibus estejam simultaneamente em operação.",
+      "impact_es": "Es infraestructura de recarga de gran porte para flota troncal; la capacidad es progresiva y no prueba que los 116 autobuses estén operando simultáneamente."
+    },
+    {
+      "id": "COL-02",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "El Espectador",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://www.elespectador.com/colombia/barranquilla/aprendices-del-sena-tendran-transporte-publico-gratuito-en-barranquilla/?outputType=amp",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Tarifas / acesso ao transporte",
+      "theme_es": "Tarifas / acceso al transporte",
+      "title_pt": "Barranquilla anuncia transporte público gratuito para aprendizes do SENA a partir de 2027",
+      "title_es": "Barranquilla anuncia transporte público gratuito para aprendices del SENA a partir de 2027",
+      "summary_pt": "A Prefeitura informou que subsidiará integralmente a mobilidade dos aprendizes do SENA residentes em Barranquilla a partir de 1º de janeiro de 2027.",
+      "summary_es": "La Alcaldía informó que subsidiará íntegramente la movilidad de los aprendices del SENA residentes en Barranquilla a partir del 1 de enero de 2027.",
+      "impact_pt": "É ampliação focalizada de acesso ao transporte, dependente de regulamentação e implementação; o material não detalha mecanismo tarifário, critérios operacionais ou custo fiscal.",
+      "impact_es": "Es una ampliación focalizada del acceso al transporte, dependiente de reglamentación e implementación; el material no detalla el mecanismo tarifario, los criterios operativos ni el costo fiscal."
+    },
+    {
+      "id": "GUA-01",
+      "country": "Guatemala",
+      "signal": "watch",
+      "source": "Emisoras Unidas",
+      "source_publication_date": "2026-11-21",
+      "source_url": "https://www.emisorasunidas.com/nacional/2026/11/21/interventor-de-fegua-explica-avances-en-proyecto-del-metroriel/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ferrovia urbana / estruturação de projeto",
+      "theme_es": "Ferrocarril urbano / estructuración de proyecto",
+      "title_pt": "FEGUA relata avanço dos estudos preparatórios do MetroRiel",
+      "title_es": "FEGUA informa avances de los estudios preparatorios del MetroRiel",
+      "summary_pt": "O interventor da FEGUA informou ao Congresso a conclusão próxima da fase zero dos estudos, a estruturação de uma PMO com apoio do UK Delivery Team e passos preparatórios de contratação.",
+      "summary_es": "El interventor de FEGUA informó al Congreso la próxima conclusión de la fase cero de estudios, la estructuración de una PMO con apoyo del UK Delivery Team y pasos preparatorios de contratación.",
+      "impact_pt": "O projeto avança na estruturação, mas não há base para tratá-lo como obra iniciada, financiamento contratado ou licitação concluída.",
+      "impact_es": "El proyecto avanza en estructuración, pero no hay base para tratarlo como obra iniciada, financiamiento contratado o licitación concluida."
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "Sistema Mexiquense",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://mexiquensedigital.com/public/noticias/noticia/20_20261118191725_28060",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Ônibus / integração, dados e regulação",
+      "theme_es": "Autobuses / integración, datos y regulación",
+      "title_pt": "Edomex realiza terceira consulta para estruturar Sistema Integral de Transporte Público",
+      "title_es": "Edomex realiza la tercera consulta para estructurar un Sistema Integral de Transporte Público",
+      "summary_pt": "A Semov realizou o terceiro de quatro fóruns de consulta, com mil concessionários participantes acumulados. As mesas abordaram monitoramento da operação, arrecadação, transferências financeiras, rotas, corredores, frequências e informação ao passageiro.",
+      "summary_es": "La Semov realizó el tercero de cuatro foros de consulta, con mil concesionarios participantes acumulados. Las mesas abordaron monitoreo de la operación, recaudo, transferencias financieras, rutas, corredores, frecuencias e información al pasajero.",
+      "impact_pt": "É etapa concreta de formulação institucional e tecnológica, mas não significa sistema contratado, tecnologia implantada ou integração tarifária concluída.",
+      "impact_es": "Es una etapa concreta de formulación institucional y tecnológica, pero no significa sistema contratado, tecnología implementada ni integración tarifaria concluida."
+    },
+    {
+      "id": "PAR-01",
+      "country": "Paraguay",
+      "signal": "monitor",
+      "source": "Prensa Mercosur",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://prensamercosur.org/2026/11/20/buses-electricos-ya-transportaron-a-mas-de-180-000-pasajeros/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / eletrificação e indicadores de uso",
+      "theme_es": "Autobuses / electrificación e indicadores de uso",
+      "title_pt": "Ônibus elétricos metropolitanos do Paraguai superam 180 mil passageiros",
+      "title_es": "Los autobuses eléctricos metropolitanos de Paraguay superan los 180 mil pasajeros",
+      "summary_pt": "A matéria registra 1.136.248 validações e 180.252 passageiros desde a implantação de 30 ônibus elétricos operados pelo Consórcio Arapoti em três itinerários metropolitanos de Assunção.",
+      "summary_es": "La nota registra 1.136.248 validaciones y 180.252 pasajeros desde la implementación de 30 autobuses eléctricos operados por el Consorcio Arapoti en tres itinerarios metropolitanos de Asunción.",
+      "impact_pt": "É um balanço acumulado de uso e desempenho inicial da operação elétrica; não representa nova expansão de frota ou contratação.",
+      "impact_es": "Es un balance acumulado de uso y desempeño inicial de la operación eléctrica; no representa una nueva expansión de flota ni contratación."
+    },
+    {
+      "id": "URU-01",
+      "country": "Uruguay",
+      "signal": "watch",
+      "source": "Brecha",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://brecha.com.uy/el-brt-antes-de-los-bueyes/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "BRT / governança metropolitana",
+      "theme_es": "BRT / gobernanza metropolitana",
+      "title_pt": "Debate sobre BRT expõe governança ainda em definição no transporte metropolitano de Montevidéu",
+      "title_es": "El debate sobre el BRT expone una gobernanza aún por definir en el transporte metropolitano de Montevideo",
+      "summary_pt": "A análise registra que a Agência do Sistema de Transporte Metropolitano foi instituída para conduzir a reforma e aponta a distribuição de competências entre os governos como questão ainda aberta para o desenho do BRT.",
+      "summary_es": "El análisis registra que la Agencia del Sistema de Transporte Metropolitano fue instituida para conducir la reforma y señala la distribución de competencias entre los gobiernos como una cuestión aún abierta para el diseño del BRT.",
+      "impact_pt": "A criação institucional é um marco, mas a definição de competências é determinante para cronograma, contratação e execução; a matéria não prova licitação ou obra iniciada.",
+      "impact_es": "La creación institucional es un hito, pero la definición de competencias es determinante para el calendario, la contratación y la ejecución; el artículo no prueba una licitación ni obra iniciada."
+    },
+    {
+      "id": "URU-02",
+      "country": "Uruguay",
+      "signal": "op",
+      "source": "Intendência de Montevidéu",
+      "source_publication_date": "2026-11-21",
+      "source_url": "https://www.montevideo.gub.uy/noticias/como-ir-renovo-su-aplicacion",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Dados / informação ao passageiro e integração",
+      "theme_es": "Datos / información al pasajero e integración",
+      "title_pt": "Montevidéu lança nova versão beta do app Cómo Ir",
+      "title_es": "Montevideo lanza una nueva versión beta de la app Cómo Ir",
+      "summary_pt": "A nova versão beta amplia a precisão da posição em tempo real, integra paradas suburbanas, adiciona atributos de acessibilidade e conforto e conecta o usuário à recarga STM em Línea.",
+      "summary_es": "La nueva versión beta amplía la precisión de la posición en tiempo real, integra paradas suburbanas, añade atributos de accesibilidad y confort y conecta a la persona usuaria con la recarga STM en Línea.",
+      "impact_pt": "A atualização combina informação ao passageiro, integração metropolitana e acessibilidade; o alcance da beta deve ser acompanhado antes de se inferir adoção consolidada.",
+      "impact_es": "La actualización combina información al pasajero, integración metropolitana y accesibilidad; el alcance de la beta debe seguirse antes de inferir una adopción consolidada."
+    }
+  ],
+  "coverage_gaps": [
+    "Bolivia",
+    "Costa Rica",
+    "Equador",
+    "Panama",
+    "Peru"
+  ],
+  "country_shortfalls": {
+    "Argentina": 0,
+    "Bolivia": 2,
+    "Brasil": 0,
+    "Chile": 0,
+    "Colombia": 0,
+    "Costa Rica": 2,
+    "Equador": 1,
+    "Guatemala": 1,
+    "Mexico": 1,
+    "Panama": 2,
+    "Paraguay": 1,
+    "Peru": 2,
+    "Uruguay": 0
+  },
+  "intake_records": [
+    "2026-11-22-0830-fontes-proprias.md",
+    "2026-11-22-0930-imprensa-instituicoes.md",
+    "2026-11-22-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-15",
+    "2026-11-22"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
