@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-23",
+  "cards": 12,
+  "countries": 8,
+  "country_counts": {
+    "Argentina": 1,
+    "Brasil": 5,
+    "Chile": 1,
+    "Costa Rica": 1,
+    "Equador": 1,
+    "Guatemala": 1,
+    "Mexico": 1,
+    "Paraguay": 1
+  },
+  "signal_counts": {
+    "op": 3,
+    "watch": 3,
+    "monitor": 4,
+    "risk": 2
+  },
+  "country_shortfalls": {
+    "Argentina": 1,
+    "Bolivia": 2,
+    "Brasil": 0,
+    "Chile": 1,
+    "Colombia": 1,
+    "Costa Rica": 1,
+    "Equador": 1,
+    "Guatemala": 1,
+    "Mexico": 1,
+    "Panama": 2,
+    "Paraguay": 1,
+    "Peru": 2,
+    "Uruguay": 2
+  },
+  "google_news_final_urls": 0,
+  "local_qa": "passed",
+  "pdf": "not generated: established WeasyPrint converter missing libpangoft2-1.0-0",
+  "public_qa": "not deployed"
+}

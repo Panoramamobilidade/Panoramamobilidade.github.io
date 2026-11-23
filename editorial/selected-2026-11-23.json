@@ -1,0 +1,556 @@
+{
+  "date": "2026-11-23",
+  "cards": [
+    {
+      "id": "ARG-01",
+      "country": "Argentina",
+      "signal": "op",
+      "source": "Ámbito",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://www.ambito.com/informacion-general/linea-f-del-subte-avanza-la-licitacion-una-obra-us1350-millones-que-conectara-seis-ramales-n6347494",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / licitação e expansão",
+      "theme_es": "Metro / licitación y expansión",
+      "title_pt": "Licitação da Linha F do Subte mantém dois consórcios em disputa",
+      "title_es": "La licitación de la Línea F del Subte mantiene a dos consorcios en competencia",
+      "summary_pt": "A Comissão Avaliadora manteve dois consórcios na disputa pela Linha F do Subte. A reportagem informa previsão de adjudicação em dezembro de 2026 e início de obras em 2027.",
+      "summary_es": "La Comisión Evaluadora mantuvo a dos consorcios en competencia por la Línea F del Subte. El reporte informa una previsión de adjudicación en diciembre de 2026 e inicio de obras en 2027.",
+      "impact_pt": "É avanço administrativo de uma expansão estruturante; não é adjudicação, contrato assinado nem obra iniciada.",
+      "impact_es": "Es un avance administrativo de una expansión estructurante; no es adjudicación, contrato firmado ni obra iniciada."
+    },
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Diário do Transporte",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://diariodotransporte.com.br/2026/11/23/metro-prorroga-em-mais-de-oito-meses-prazo-de-obras-das-estacoes-orfanato-e-santa-clara-da-linha-2-verde-em-sao-paulo/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Metrô / obras e gestão contratual",
+      "theme_es": "Metro / obras y gestión contractual",
+      "title_pt": "Metrô de São Paulo prorroga prazo de obras de duas estações da Linha 2-Verde",
+      "title_es": "Metro de São Paulo prorroga el plazo de obras de dos estaciones de la Línea 2-Verde",
+      "summary_pt": "O décimo aditivo do Lote 3 transferiu a conclusão da execução das futuras estações Orfanato e Santa Clara de 27 de novembro de 2026 para 11 de agosto de 2027. A vigência contratual foi estendida até março de 2028, sem novo acréscimo financeiro informado.",
+      "summary_es": "El décimo aditivo del Lote 3 trasladó la conclusión de las futuras estaciones Orfanato y Santa Clara del 27 de noviembre de 2026 al 11 de agosto de 2027. La vigencia contractual se extendió hasta marzo de 2028, sin un nuevo aumento financiero informado.",
+      "impact_pt": "O aditivo torna verificável um atraso nas obras civis, mas não confirma novo cronograma completo, abertura das estações ou mudança no custo global da Linha 2-Verde.",
+      "impact_es": "El aditivo hace verificable un retraso en las obras civiles, pero no confirma un nuevo calendario completo, apertura de estaciones ni cambio en el costo global de la Línea 2-Verde."
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Via Trolebus",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://viatrolebus.com.br/2026/11/rio-coloca-primeiro-onibus-eletrico-do-sistema-rio/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Ônibus / eletrificação",
+      "theme_es": "Autobuses / electrificación",
+      "title_pt": "Rio inicia circulação do primeiro ônibus elétrico do Sistema RIO",
+      "title_es": "Río inicia la circulación del primer autobús eléctrico del Sistema RIO",
+      "summary_pt": "O veículo elétrico começou a operar na linha 804, entre o Terminal Curral Falso e Campo Grande. A fonte também atribui à Prefeitura uma previsão de PPP para 175 ônibus a bateria a partir do segundo semestre de 2027.",
+      "summary_es": "El vehículo eléctrico comenzó a operar en la línea 804, entre la Terminal Curral Falso y Campo Grande. La fuente también atribuye a la Prefeitura una previsión de APP para 175 autobuses a batería desde el segundo semestre de 2027.",
+      "impact_pt": "A entrada do primeiro veículo em serviço é fato atual; a PPP e a frota de 175 unidades permanecem como planejamento anunciado, não contratação ou entrega realizada.",
+      "impact_es": "La entrada del primer vehículo en servicio es un hecho actual; la APP y la flota de 175 unidades siguen siendo una planificación anunciada, no contratación ni entrega realizada."
+    },
+    {
+      "id": "BRA-03",
+      "country": "Brasil",
+      "signal": "monitor",
+      "source": "Ministério das Cidades",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://www.gov.br/cidades/pt-br/assuntos/noticias-1/noticia-mcid-n-2406/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Dados / mobilidade urbana",
+      "theme_es": "Datos / movilidad urbana",
+      "title_pt": "Pesquisa Nacional de Mobilidade Urbana reúne dados de 96 municípios",
+      "title_es": "Encuesta Nacional de Movilidad Urbana reúne datos de 96 municipios",
+      "summary_pt": "A edição 2026 da Pemob reúne respostas de 96 municípios, com 29.038 ônibus em operação no recorte informado. Para 2025, o levantamento registra mais de 1,06 bilhão de passageiros e R$ 5,26 bilhões em arrecadação tarifária.",
+      "summary_es": "La edición 2026 de Pemob reúne respuestas de 96 municipios, con 29.038 autobuses en operación en el recorte informado. Para 2025, el estudio registra más de 1,06 mil millones de pasajeros y R$ 5,26 mil millones de recaudación tarifaria.",
+      "impact_pt": "A publicação atualiza uma referência pública de escala e dados do setor; não é censo nacional de toda a frota ou da demanda brasileira.",
+      "impact_es": "La publicación actualiza una referencia pública de escala y datos del sector; no es un censo nacional de toda la flota o demanda brasileña."
+    },
+    {
+      "id": "BRA-04",
+      "country": "Brasil",
+      "signal": "risk",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://technibus.com.br/2026/11/19/prefeitos-cobram-participacao-federal-e-estadual-para-evitar-colapso-do-transporte-publico",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Financiamento / política pública",
+      "theme_es": "Financiamiento / política pública",
+      "title_pt": "Gestores municipais pressionam por participação federativa no financiamento do transporte",
+      "title_es": "Gestores municipales presionan por participación federal y estatal en el financiamiento del transporte",
+      "summary_pt": "Prefeitos defendem participação federal e estadual no financiamento do transporte coletivo e associam a discussão à implementação do Marco Legal. A reportagem registra posição setorial e risco relatado de interrupção de serviços.",
+      "summary_es": "Alcaldes defienden participación federal y estatal en el financiamiento del transporte colectivo y vinculan el debate con la implementación del Marco Legal. El artículo registra una posición sectorial y un riesgo reportado de interrupción de servicios.",
+      "impact_pt": "O sinal é de pressão financeira e regulatória; não há nova decisão de financiamento ou medida federal aprovada na fonte.",
+      "impact_es": "La señal es de presión financiera y regulatoria; no hay una nueva decisión de financiamiento ni una medida federal aprobada en la fuente."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "watch",
+      "source": "EFE",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://www.efe.cl/efe-central-y-mutual-de-seguridad-refuerzan-alianza-para-prevenir-accidentes-de-pasajeros/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Ferrovia / segurança do passageiro",
+      "theme_es": "Ferrocarril / seguridad del pasajero",
+      "title_pt": "EFE Central reforça prevenção de acidentes de passageiros",
+      "title_es": "EFE Central refuerza la prevención de accidentes de pasajeros",
+      "summary_pt": "A EFE Central e a Mutual de Seguridad reforçaram uma ação preventiva baseada nos principais riscos da rede, com avaliação de soluções antideslizantes, manutenção e orientação aos passageiros.",
+      "summary_es": "EFE Central y Mutual de Seguridad reforzaron una acción preventiva basada en los principales riesgos de la red, con evaluación de soluciones antideslizantes, mantenimiento y orientación a pasajeros.",
+      "impact_pt": "A iniciativa qualifica a gestão de segurança e prevenção; não é anúncio de expansão ferroviária ou obra nova.",
+      "impact_es": "La iniciativa califica la gestión de seguridad y prevención; no es un anuncio de expansión ferroviaria ni una obra nueva."
+    },
+    {
+      "id": "CRI-01",
+      "country": "Costa Rica",
+      "signal": "watch",
+      "source": "La Nación",
+      "source_publication_date": "2026-11-19",
+      "source_url": "https://www.nacion.com/el-pais/tuasa-pide-alzas-de-hasta-60-en-pasajes-pero/C763NR52YFDPBC4BYBHWNSPIWY/story/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Tarifas / regulação",
+      "theme_es": "Tarifas / regulación",
+      "title_pt": "Pedido de reajuste da TUASA segue em análise pela ARESEP",
+      "title_es": "Solicitud de ajuste de TUASA sigue bajo análisis de ARESEP",
+      "summary_pt": "A TUASA protocolou pedido de reajuste para a rota 200. Segundo a reportagem, a ARESEP identificou inconsistências e deu prazo para correções antes de decidir sobre a admissibilidade.",
+      "summary_es": "TUASA presentó una solicitud de ajuste para la ruta 200. Según el artículo, ARESEP identificó inconsistencias y dio plazo para correcciones antes de decidir sobre la admisibilidad.",
+      "impact_pt": "É um processo regulatório em análise, não tarifa aprovada ou reajuste já aplicado aos passageiros.",
+      "impact_es": "Es un proceso regulatorio bajo análisis, no una tarifa aprobada ni un ajuste ya aplicado a pasajeros."
+    },
+    {
+      "id": "ECU-01",
+      "country": "Equador",
+      "signal": "risk",
+      "source": "Cero Latitud",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://cerolatitud.ec/tendencias/alerta-en-el-metro-de-quito-tren-permanece-bajo-analisis-tras-inundaciones-de-octubre/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / risco técnico e manutenção",
+      "theme_es": "Metro / riesgo técnico y mantenimiento",
+      "title_pt": "Unidade do Metro de Quito permanece sob análise após entrada de água",
+      "title_es": "Una unidad del Metro de Quito sigue bajo análisis tras ingreso de agua",
+      "summary_pt": "A unidade 16 permanece sob análise após entrada de água e possível dano na redutora. A operadora afirma que a indisponibilidade temporária não afeta o serviço, enquanto o alcance e os custos dependem de laudo técnico.",
+      "summary_es": "La unidad 16 sigue bajo análisis tras ingreso de agua y posible daño en la reductora. La operadora afirma que la indisponibilidad temporal no afecta el servicio, mientras el alcance y los costos dependen de un informe técnico.",
+      "impact_pt": "É um risco técnico em apuração: não há base para afirmar dano definitivo, custo fechado ou interrupção sistêmica.",
+      "impact_es": "Es un riesgo técnico en evaluación: no hay base para afirmar daño definitivo, costo cerrado o interrupción sistémica."
+    },
+    {
+      "id": "GUA-01",
+      "country": "Guatemala",
+      "signal": "monitor",
+      "source": "Guatemala.com",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://www.guatemala.com/noticias/tecnologia/vivi-muniguate-app-informacion-trafico-ciudad-guatemala",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Dados / informação ao usuário",
+      "theme_es": "Datos / información a usuarios",
+      "title_pt": "Cidade da Guatemala lança app municipal de trânsito, alertas e rotas",
+      "title_es": "Ciudad de Guatemala lanza app municipal de tránsito, alertas y rutas",
+      "summary_pt": "A Municipalidad lançou o aplicativo VIVI MuniGuate, com informações de trânsito, incidentes, rotas alternativas, mapa, alertas e assistente de IA, associado a dados municipais e da Emetra/PMT.",
+      "summary_es": "La Municipalidad lanzó la aplicación VIVI MuniGuate, con información de tránsito, incidentes, rutas alternativas, mapa, alertas y asistente de IA, asociada a datos municipales y de Emetra/PMT.",
+      "impact_pt": "É um sinal de informação ao usuário e gestão de tráfego; não equivale a melhoria mensurada do transporte coletivo.",
+      "impact_es": "Es una señal de información a usuarios y gestión de tráfico; no equivale a una mejora medida del transporte colectivo."
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Chilango",
+      "source_publication_date": "2026-11-22",
+      "source_url": "https://www.chilango.com/noticias/brugada-30-mil-becas-transporte-universitarios-requisitos-montos/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Tarifas / acesso ao transporte",
+      "theme_es": "Tarifas / acceso al transporte",
+      "title_pt": "CDMX entrega 30 mil bolsas de transporte para universitários",
+      "title_es": "CDMX entrega 30 mil becas de transporte para universitarios",
+      "summary_pt": "A reportagem informa a entrega de 30 mil apoios do programa Beca a Universitarias y Universitarios para Transporte y Más, no valor atual de 1.500 pesos bimestrais, com anúncio de aumento para 2.000 pesos em 2027.",
+      "summary_es": "El artículo informa la entrega de 30 mil apoyos del programa Beca a Universitarias y Universitarios para Transporte y Más, por un valor actual de 1.500 pesos bimestrales, con anuncio de aumento a 2.000 pesos en 2027.",
+      "impact_pt": "O programa reduz o custo de deslocamento de um público focalizado; não é mudança tarifária do sistema, integração tarifária ou gratuidade universal.",
+      "impact_es": "El programa reduce el costo de desplazamiento de un público focalizado; no es un cambio tarifario del sistema, integración tarifaria ni gratuidad universal."
+    },
+    {
+      "id": "PAR-01",
+      "country": "Paraguay",
+      "signal": "monitor",
+      "source": "MOPC",
+      "source_publication_date": "2026-11-17",
+      "source_url": "https://mopc.gov.py/red-buho-supera-las-375-000-validaciones-y-registra-mas-de-64-000-usuarios/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Ônibus / indicadores de uso",
+      "theme_es": "Autobuses / indicadores de uso",
+      "title_pt": "Red Búho supera 375 mil validações no transporte noturno metropolitano",
+      "title_es": "Red Búho supera 375 mil validaciones en el transporte nocturno metropolitano",
+      "summary_pt": "A Red Búho acumulou mais de 375 mil validações, 64.100 usuários e 32.381 percursos em quatro itinerários noturnos metropolitanos de Assunção, segundo o MOPC.",
+      "summary_es": "Red Búho acumuló más de 375 mil validaciones, 64.100 usuarios y 32.381 recorridos en cuatro itinerarios nocturnos metropolitanos de Asunción, según MOPC.",
+      "impact_pt": "É dado atualizado de uso de um serviço em operação, não anúncio de expansão da rede.",
+      "impact_es": "Es un dato actualizado de uso de un servicio en operación, no un anuncio de expansión de la red."
+    },
+    {
+      "id": "UITP-01",
+      "country": "Brasil",
+      "signal": "monitor",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-18",
+      "source_url": "https://technibus.com.br/2026/11/18/integracao-de-dados-entra-na-agenda-do-transporte-publico-latino-americano-para-2027",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Dados / ITS e governança regional",
+      "theme_es": "Datos / ITS y gobernanza regional",
+      "title_pt": "Plataforma ITS da UITP América Latina agenda integração de dados para 2027",
+      "title_es": "Plataforma ITS de UITP América Latina agenda integración de datos para 2027",
+      "summary_pt": "A Plataforma ITS da UITP América Latina apresentou agenda de seis encontros em 2027 sobre dados e padrões, plataformas e integração, e inteligência operacional. A reportagem cita coordenação de Bus2 (Aequante) e Transdata após debates com representantes de dez países.",
+      "summary_es": "La Plataforma ITS de UITP América Latina presentó una agenda de seis encuentros en 2027 sobre datos y estándares, plataformas e integración, e inteligencia operacional. El artículo cita la coordinación de Bus2 (Aequante) y Transdata tras debates con representantes de diez países.",
+      "impact_pt": "É articulação técnica regional e agenda de trabalho, não implantação comprovada de padrão, plataforma ou interoperabilidade.",
+      "impact_es": "Es articulación técnica regional y agenda de trabajo, no implementación comprobada de un estándar, plataforma o interoperabilidad."
+    }
+  ],
+  "coverage_gaps": [
+    "Bolivia",
+    "Panama",
+    "Peru",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 1,
+    "Bolivia": 2,
+    "Brasil": 0,
+    "Chile": 1,
+    "Colombia": 1,
+    "Costa Rica": 1,
+    "Equador": 1,
+    "Guatemala": 1,
+    "Mexico": 1,
+    "Panama": 2,
+    "Paraguay": 1,
+    "Peru": 2,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-23-0830-fontes-proprias.md",
+    "2026-11-23-0930-imprensa-instituicoes.md",
+    "2026-11-23-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-16",
+    "2026-11-23"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
