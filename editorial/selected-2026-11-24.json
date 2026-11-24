@@ -1,0 +1,474 @@
+{
+  "date": "2026-11-24",
+  "cards": [
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "Valora Analitik",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://www.valoraanalitik.com/metro-de-bogota-da-paso-clave-para-avanzar-en-linea-2/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / gestão de projeto",
+      "theme_es": "Metro / gestión de proyecto",
+      "title_pt": "Metro de Bogotá adjudica gestão de projeto para a Linha 2",
+      "title_es": "Metro de Bogotá adjudica la gestión de proyecto para la Línea 2",
+      "summary_pt": "A Empresa Metro de Bogotá adjudicou à Systra a gestão de projeto da Linha 2, etapa preparatória do corredor de 11,8 km e 11 estações entre Chapinero e Engativá, segundo a reportagem.",
+      "summary_es": "La Empresa Metro de Bogotá adjudicó a Systra la gestión de proyecto de la Línea 2, etapa preparatoria del corredor de 11,8 km y 11 estaciones entre Chapinero y Engativá, según el reportaje.",
+      "impact_pt": "É um avanço de contratação e preparação do projeto; não equivale ao início das obras, à conclusão do financiamento ou à entrega da linha.",
+      "impact_es": "Es un avance de contratación y preparación del proyecto; no equivale al inicio de obras, al cierre de financiamiento ni a la entrega de la línea."
+    },
+    {
+      "id": "CRI-01",
+      "country": "Costa Rica",
+      "signal": "watch",
+      "source": "Acontecer / Radio Monumental",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://acontecer.co.cr/nacionales/joselyn-saenz-incofer-regla-fiscal/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ferrovia / financiamento e regulação",
+      "theme_es": "Ferrocarril / financiamiento y regulación",
+      "title_pt": "Projeto propõe retirar o INCOFER da regra fiscal",
+      "title_es": "Proyecto propone retirar a INCOFER de la regla fiscal",
+      "summary_pt": "Uma deputada protocolou iniciativa para retirar o INCOFER da regra fiscal, argumentando que a medida ampliaria a capacidade de investimento ferroviário e ajudaria a enfrentar congestionamentos.",
+      "summary_es": "Una diputada presentó una iniciativa para retirar a INCOFER de la regla fiscal, argumentando que la medida ampliaría la capacidad de inversión ferroviaria y ayudaría a enfrentar la congestión.",
+      "impact_pt": "É uma proposta legislativa em acompanhamento, não uma alteração normativa aprovada nem um orçamento ferroviário liberado.",
+      "impact_es": "Es una propuesta legislativa bajo seguimiento, no un cambio normativo aprobado ni un presupuesto ferroviario liberado."
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Infobae México",
+      "source_publication_date": "2026-11-24",
+      "source_url": "https://www.infobae.com/mexico/2026/11/24/ampliacion-linea-12-del-metro-cdmx-inicia-construccion-de-estaciones-y-lumbreras/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / obras e integração ferroviária",
+      "theme_es": "Metro / obras e integración ferroviaria",
+      "title_pt": "Extensão da Linha 12 do Metro CDMX avança em estações e lumbreras",
+      "title_es": "La ampliación de la Línea 12 del Metro CDMX avanza en estaciones y lumbreras",
+      "summary_pt": "A extensão entre Mixcoac e Observatorio entrou em novas frentes de construção de estações e lumbreras. A reportagem mantém a referência a três novas estações e à conexão com o Tren Interurbano México–Toluca em Observatorio.",
+      "summary_es": "La ampliación entre Mixcoac y Observatorio entró en nuevas frentes de construcción de estaciones y lumbreras. El reportaje mantiene la referencia a tres nuevas estaciones y a la conexión con el Tren Interurbano México–Toluca en Observatorio.",
+      "impact_pt": "O avanço físico é verificável, mas não confirma a entrega integral da extensão nem uma data final de abertura ao público.",
+      "impact_es": "El avance físico es verificable, pero no confirma la entrega integral de la ampliación ni una fecha final de apertura al público."
+    },
+    {
+      "id": "MEX-02",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "MILENIO",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://www.milenio.com/videos/politica/falta-infraestructura-electrica-retrasa-electrificacion-metrobus",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / eletrificação",
+      "theme_es": "Autobuses / electrificación",
+      "title_pt": "CDMX revisa meta de eletrificação do Metrobús para 420 ônibus até 2030",
+      "title_es": "CDMX revisa la meta de electrificación de Metrobús a 420 autobuses para 2030",
+      "summary_pt": "A reportagem afirma que a meta anterior de eletrificar metade do sistema até 2024 alcançou 19% e que o novo objetivo é chegar a 420 ônibus elétricos até 2030, citando limitações de infraestrutura elétrica.",
+      "summary_es": "El reportaje afirma que la meta previa de electrificar la mitad del sistema hasta 2024 alcanzó 19% y que el nuevo objetivo es llegar a 420 autobuses eléctricos hasta 2030, citando limitaciones de infraestructura eléctrica.",
+      "impact_pt": "O sinal central é o ajuste de meta diante de um gargalo de implantação; não há indicação de que toda essa frota já esteja contratada ou entregue.",
+      "impact_es": "La señal central es el ajuste de meta ante un cuello de botella de implementación; no indica que toda esa flota ya esté contratada o entregada."
+    },
+    {
+      "id": "PAR-01",
+      "country": "Paraguay",
+      "signal": "monitor",
+      "source": "Prensa Mercosur",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://prensamercosur.org/2026/11/20/buses-electricos-ya-transportaron-a-mas-de-180-000-pasajeros/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / eletrificação e indicadores de uso",
+      "theme_es": "Autobuses / electrificación e indicadores de uso",
+      "title_pt": "30 ônibus elétricos metropolitanos superam 180 mil passageiros no Paraguai",
+      "title_es": "30 autobuses eléctricos metropolitanos superan 180 mil pasajeros en Paraguay",
+      "summary_pt": "A reportagem atribui a autoridades do MOPC e do Viceministério de Transporte a verificação da recarga e informa 30 unidades do Consórcio Arapoti nos eixos Assunção–San Lorenzo/aeroporto, com 180.252 passageiros desde a implementação.",
+      "summary_es": "El reportaje atribuye a autoridades del MOPC y del Viceministerio de Transporte la verificación de la recarga e informa 30 unidades del Consorcio Arapoti en los ejes Asunción–San Lorenzo/aeropuerto, con 180.252 pasajeros desde la implementación.",
+      "impact_pt": "É indicador operacional de eletromobilidade; os números permanecem atribuídos à reportagem até a localização da nota primária do MOPC.",
+      "impact_es": "Es un indicador operativo de electromovilidad; las cifras se mantienen atribuidas al reportaje hasta localizar la nota primaria del MOPC."
+    },
+    {
+      "id": "PER-01",
+      "country": "Peru",
+      "signal": "risk",
+      "source": "El Comercio Perú",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://elcomercio.pe/lima/la-odisea-de-viajar-en-el-corredor-morado-buses-llenos-y-largas-colas-de-pasajeros-que-esperan-hasta-40-minutos-apuesplan-noticia/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / qualidade de serviço",
+      "theme_es": "Autobuses / calidad del servicio",
+      "title_pt": "Reportagem aponta espera e lotação no Corredor Morado de Lima",
+      "title_es": "Reportaje registra espera y saturación en el Corredor Morado de Lima",
+      "summary_pt": "A reportagem de campo na rota 404 registrou filas e lotação, com passageiros relatando espera de até 40 minutos. A ATU informou programação de 53 ônibus no pico e frequência de seis a oito minutos, além de restrições ligadas à visita papal e a manifestações.",
+      "summary_es": "El reportaje de campo en la ruta 404 registró filas y saturación, con pasajeros que reportaron esperas de hasta 40 minutos. ATU informó una programación de 53 autobuses en hora punta y frecuencias de seis a ocho minutos, además de restricciones ligadas a la visita papal y manifestaciones.",
+      "impact_pt": "É um alerta de qualidade de serviço baseado em observação jornalística e resposta da autoridade; não permite generalizar o quadro para toda a rede.",
+      "impact_es": "Es una alerta de calidad del servicio basada en observación periodística y respuesta de la autoridad; no permite generalizar la situación a toda la red."
+    },
+    {
+      "id": "URU-01",
+      "country": "Uruguay",
+      "signal": "op",
+      "source": "Intendencia de Montevideo",
+      "source_publication_date": "2026-11-21",
+      "source_url": "https://montevideo.gub.uy/noticias/como-ir-renovo-su-aplicacion",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Dados / informação ao passageiro e pagamento",
+      "theme_es": "Datos / información al pasajero y pago",
+      "title_pt": "Montevidéu atualiza o app Cómo Ir com informação suburbana em tempo real",
+      "title_es": "Montevideo actualiza la app Cómo Ir con información suburbana en tiempo real",
+      "summary_pt": "A atualização passa a mostrar linhas e paradas suburbanas, posição e chegada em tempo real, acessibilidade e ar-condicionado. O app também permite vincular e recarregar cartões previamente aderidos ao STM en Línea.",
+      "summary_es": "La actualización muestra líneas y paradas suburbanas, posición y llegada en tiempo real, accesibilidad y aire acondicionado. La app también permite vincular y recargar tarjetas previamente adheridas a STM en Línea.",
+      "impact_pt": "A medida melhora informação ao passageiro e integração digital; a recarga depende de adesão prévia ao STM en Línea.",
+      "impact_es": "La medida mejora la información al pasajero y la integración digital; la recarga depende de la adhesión previa a STM en Línea."
+    }
+  ],
+  "coverage_gaps": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Equador",
+    "Guatemala",
+    "Panama"
+  ],
+  "country_shortfalls": {
+    "Argentina": 2,
+    "Bolivia": 2,
+    "Brasil": 2,
+    "Chile": 2,
+    "Colombia": 1,
+    "Costa Rica": 1,
+    "Equador": 2,
+    "Guatemala": 2,
+    "Mexico": 0,
+    "Panama": 2,
+    "Paraguay": 1,
+    "Peru": 1,
+    "Uruguay": 1
+  },
+  "intake_records": [
+    "2026-11-24-0830-fontes-proprias.md",
+    "2026-11-24-0930-imprensa-instituicoes.md",
+    "2026-11-24-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-17",
+    "2026-11-24"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
