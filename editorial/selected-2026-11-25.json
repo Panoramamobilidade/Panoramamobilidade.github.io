@@ -1,0 +1,425 @@
+{
+  "date": "2026-11-25",
+  "cards": [
+    {
+      "id": "ARG-01",
+      "country": "Argentina",
+      "signal": "watch",
+      "source": "TN / SBASE",
+      "source_publication_date": "2026-11-24",
+      "source_url": "https://tn.com.ar/economia/2026/11/24/el-subte-aumentara-41-en-diciembre-y-la-tarifa-se-acercara-a-los-2000/?outputType=amp",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / tarifa e regulação",
+      "theme_es": "Metro / tarifa y regulación",
+      "title_pt": "Tarifa do Subte de Buenos Aires sobe para ARS 1.966 em dezembro",
+      "title_es": "La tarifa del Subte de Buenos Aires sube a ARS 1.966 en diciembre",
+      "summary_pt": "A atualização tarifária prevista para dezembro leva a tarifa geral do Subte de ARS 1.887 para ARS 1.966 por viagem. A reportagem associa a mudança ao mecanismo mensal de indexação e à resolução da SBASE.",
+      "summary_es": "La actualización tarifaria prevista para diciembre lleva la tarifa general del Subte de ARS 1.887 a ARS 1.966 por viaje. El reportaje vincula el cambio al mecanismo mensual de indexación y a la resolución de SBASE.",
+      "impact_pt": "É um ajuste com efeito direto para o usuário; não representa uma nova política estrutural de financiamento ou expansão da rede.",
+      "impact_es": "Es un ajuste con efecto directo para el usuario; no representa una nueva política estructural de financiamiento ni una expansión de la red."
+    },
+    {
+      "id": "BOL-01",
+      "country": "Bolivia",
+      "signal": "risk",
+      "source": "Visión 360",
+      "source_publication_date": "2026-11-24",
+      "source_url": "https://www.vision360.bo/amp/noticias/2026/11/24/78720-transporte-publico-y-de-carga-rechazan-el-diesel-a-bs-20_57-advierten-golpe-a-la-canasta-familiar-y-perfilan-medidas",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / custos operacionais e tarifas",
+      "theme_es": "Autobuses / costos operativos y tarifas",
+      "title_pt": "Alta do diesel na Bolívia pressiona custos do transporte urbano",
+      "title_es": "El alza del diésel en Bolivia presiona los costos del transporte urbano",
+      "summary_pt": "A ANH ajustou o preço do diesel de Bs 17,95 para Bs 20,57 por litro. Entidades de transporte urbano e de carga contestaram a medida e indicaram que avaliam mobilizações.",
+      "summary_es": "La ANH ajustó el precio del diésel de Bs 17,95 a Bs 20,57 por litro. Entidades de transporte urbano y de carga cuestionaron la medida e indicaron que evalúan movilizaciones.",
+      "impact_pt": "A mudança eleva a pressão sobre a operação e a discussão tarifária; a mobilização é uma possibilidade anunciada, não uma paralisação confirmada.",
+      "impact_es": "El cambio eleva la presión sobre la operación y el debate tarifario; la movilización es una posibilidad anunciada, no una paralización confirmada."
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "Metro de Medellín",
+      "source_publication_date": "2026-11-24",
+      "source_url": "https://www.metrodemedellin.gov.co/al-dia/noticias/metro-de-medellin-presenta-estacion-77-su-primer-proyecto-inmobiliario-aspectos-destacados?hs_amp=true",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Metrô / desenvolvimento orientado ao transporte",
+      "theme_es": "Metro / desarrollo orientado al transporte",
+      "title_pt": "Metro de Medellín apresenta seu primeiro projeto imobiliário ligado à estação Envigado",
+      "title_es": "Metro de Medellín presenta su primer proyecto inmobiliario vinculado a la estación Envigado",
+      "summary_pt": "O Metro apresentou o Estación 77–Ciudad Peldar, em aliança com a AR Construcciones, como seu primeiro empreendimento imobiliário levado ao mercado. O projeto prevê quatro etapas, 1.122 unidades e conexão direta à estação Envigado.",
+      "summary_es": "Metro presentó Estación 77–Ciudad Peldar, en alianza con AR Construcciones, como su primer desarrollo inmobiliario llevado al mercado. El proyecto contempla cuatro etapas, 1.122 unidades y conexión directa con la estación Envigado.",
+      "impact_pt": "O caso aproxima o operador de um modelo de desenvolvimento orientado ao transporte e de receitas complementares; não é obra de ampliação da rede metroviária nem resultado financeiro já realizado.",
+      "impact_es": "El caso acerca al operador a un modelo de desarrollo orientado al transporte y de ingresos complementarios; no es una obra de ampliación de la red ni un resultado financiero ya realizado."
+    },
+    {
+      "id": "EQU-01",
+      "country": "Equador",
+      "signal": "op",
+      "source": "Quito Informa",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://quitoinforma.quito.gob.ec/2026/11/23/la-cuenta-ciudad-suma-12-cooperativas-y-una-mutualista-para-recargar-saldo-en-quito/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Bilhetagem / recarga e arrecadação integrada",
+      "theme_es": "Recaudo / recarga e integración tarifaria",
+      "title_pt": "Quito amplia a rede de recarga da Cuenta Ciudad",
+      "title_es": "Quito amplía la red de recarga de Cuenta Ciudad",
+      "summary_pt": "O Município de Quito informou a integração de 12 cooperativas de poupança e crédito e da Mutualista Pichincha à rede do Sistema Integrado de Recaudo, ampliando os pontos de recarga do saldo usado na mobilidade urbana.",
+      "summary_es": "El Municipio de Quito informó la integración de 12 cooperativas de ahorro y crédito y de Mutualista Pichincha a la red del Sistema Integrado de Recaudo, ampliando los puntos de recarga del saldo usado en la movilidad urbana.",
+      "impact_pt": "A ampliação cria mais canais de acesso à recarga e à arrecadação integrada; a nota não informa adesão, volume transacionado ou cobertura de usuários.",
+      "impact_es": "La ampliación crea más canales de acceso a la recarga y al recaudo integrado; la nota no informa adopción, volumen transaccionado ni cobertura de usuarios."
+    }
+  ],
+  "coverage_gaps": [
+    "Brasil",
+    "Chile",
+    "Costa Rica",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 1,
+    "Bolivia": 1,
+    "Brasil": 2,
+    "Chile": 2,
+    "Colombia": 1,
+    "Costa Rica": 2,
+    "Equador": 1,
+    "Guatemala": 2,
+    "Mexico": 2,
+    "Panama": 2,
+    "Paraguay": 2,
+    "Peru": 2,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-25-0830-fontes-proprias.md",
+    "2026-11-25-0930-imprensa-instituicoes.md",
+    "2026-11-25-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-18",
+    "2026-11-25"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
