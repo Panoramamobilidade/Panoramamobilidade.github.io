@@ -1,0 +1,540 @@
+{
+  "date": "2026-11-26",
+  "cards": [
+    {
+      "id": "BOL-01",
+      "country": "Bolivia",
+      "signal": "risk",
+      "source": "El Deber",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://eldeber.com.bo/economia/buses-bolivianos-cruzan-brasil-cargar-diesel-incremento-precio_1795640835",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / custos operacionais e abastecimento",
+      "theme_es": "Autobuses / costos operativos y abastecimiento",
+      "title_pt": "Ônibus bolivianos cruzam a fronteira para abastecer após alta do diesel",
+      "title_es": "Autobuses bolivianos cruzan la frontera para abastecerse tras el alza del diésel",
+      "summary_pt": "Empresas de passageiros passaram a abastecer em Corumbá, no Brasil, depois que o diesel boliviano passou a custar Bs 20,57 por litro. A reportagem registra maior procura de ônibus da rota Puerto Quijarro–Santa Cruz.",
+      "summary_es": "Empresas de pasajeros comenzaron a abastecerse en Corumbá, Brasil, después de que el diésel boliviano pasara a costar Bs 20,57 por litro. El reportaje registra mayor demanda de autobuses de la ruta Puerto Quijarro–Santa Cruz.",
+      "impact_pt": "É um efeito operacional novo da pressão de custos: expõe risco de distorção no abastecimento e na sustentabilidade da operação, sem confirmar mudança tarifária ou paralisação.",
+      "impact_es": "Es un efecto operativo nuevo de la presión de costos: expone riesgo de distorsión en el abastecimiento y en la sostenibilidad de la operación, sin confirmar cambio tarifario ni paralización."
+    },
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "monitor",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://technibus.com.br/2026/11/25/grande-recife-inicia-testes-de-paineis-com-previsao-de-chegada-dos-onibus-em-abrigos",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Ônibus / informação ao passageiro",
+      "theme_es": "Autobuses / información al pasajero",
+      "title_pt": "Grande Recife testa painéis com previsão de chegada em abrigos",
+      "title_es": "Grande Recife prueba paneles con previsión de llegada en paradas",
+      "summary_pt": "O Grande Recife iniciou testes de painéis de previsão de chegada dos ônibus em três abrigos. A eventual ampliação para outros pontos dependerá da avaliação dos primeiros 30 dias do piloto.",
+      "summary_es": "Grande Recife inició pruebas de paneles con previsión de llegada de autobuses en tres paradas. La eventual ampliación a otros puntos dependerá de la evaluación de los primeros 30 días del piloto.",
+      "impact_pt": "É uma implantação piloto de informação ao passageiro; ainda não equivale a expansão contratada ou cobertura plena da rede.",
+      "impact_es": "Es una implementación piloto de información al pasajero; aún no equivale a una expansión contratada ni a cobertura plena de la red."
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "monitor",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://technibus.com.br/2026/11/25/camara-aprova-pacote-fiscal-e-mantem-conquistas-do-transporte",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Política pública / custos e tributação",
+      "theme_es": "Política pública / costos y tributación",
+      "title_pt": "Câmara aprova pacote fiscal com dispositivos relevantes para o transporte",
+      "title_es": "La Cámara aprueba paquete fiscal con disposiciones relevantes para el transporte",
+      "summary_pt": "A Câmara concluiu a votação do PLP 299/2026. Segundo a reportagem, o texto preserva itens ligados à desoneração da folha, créditos de PIS/Cofins para compensação da CBS e flexibilização excepcional de regras fiscais para diesel.",
+      "summary_es": "La Cámara concluyó la votación del PLP 299/2026. Según el reportaje, el texto preserva disposiciones vinculadas a la desgravación de nómina, créditos de PIS/Cofins para compensar la CBS y flexibilización excepcional de reglas fiscales para diésel.",
+      "impact_pt": "O avanço legislativo pode afetar custos do setor, mas o texto ainda segue para sanção e não deve ser tratado como efeito normativo final.",
+      "impact_es": "El avance legislativo puede afectar los costos del sector, pero el texto aún pasa a sanción y no debe tratarse como efecto normativo final."
+    },
+    {
+      "id": "BRA-03",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Expansión / Sacyr",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://www.expansion.com/empresas/construccion-servicios/2026/11/26/sacyr-crece-brasil-obras-metro-190-millones.html",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / obras e contratação",
+      "theme_es": "Metro / obras y contratación",
+      "title_pt": "Ceará contrata três estações subterrâneas da Linha Leste do Metro de Fortaleza",
+      "title_es": "Ceará contrata tres estaciones subterráneas de la Línea Este del Metro de Fortaleza",
+      "summary_pt": "A Sacyr informou contrato com a Seinfra do Ceará para projetar e executar as estações Sé, Luíza Távora e Leonardo Mota da Linha Leste, no valor de R$ 1,23 bilhão.",
+      "summary_es": "Sacyr informó un contrato con la Seinfra de Ceará para diseñar y ejecutar las estaciones Sé, Luíza Távora y Leonardo Mota de la Línea Este, por R$ 1,23 mil millones.",
+      "impact_pt": "É uma contratação com escopo e valor definidos para expansão metroviária; a fonte não permite antecipar a data de entrega ou início de operação.",
+      "impact_es": "Es una contratación con alcance y valor definidos para expansión metroviaria; la fuente no permite anticipar la fecha de entrega ni el inicio de operación."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "risk",
+      "source": "CNN Chile",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://www.cnnchile.com/pais/robos-en-el-transporte-publico-aumentan-de-26-a-37-en-santiago-entre-julio-agosto-y-septiembre-octubre-segun-estudio/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Segurança / transporte público",
+      "theme_es": "Seguridad / transporte público",
+      "title_pt": "Estudo aponta aumento da participação do transporte público nos roubos relatados em Santiago",
+      "title_es": "Estudio señala un aumento de la participación del transporte público en robos reportados en Santiago",
+      "summary_pt": "Pesquisa da CORPA aplicada entre setembro e outubro indica que a parcela de roubos ou tentativas de roubo relatados no transporte público subiu de 26% para 37% entre os dois bimestres comparados.",
+      "summary_es": "Una encuesta de CORPA aplicada entre septiembre y octubre indica que la proporción de robos o intentos de robo reportados en el transporte público subió de 26% a 37% entre los dos bimestres comparados.",
+      "impact_pt": "É um sinal para políticas de segurança de operadores e autoridades; trata-se de percepção/vitimização declarada, não de uma série policial consolidada.",
+      "impact_es": "Es una señal para las políticas de seguridad de operadores y autoridades; se trata de percepción o victimización declarada, no de una serie policial consolidada."
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "Valora Analitik",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://www.valoraanalitik.com/metro-de-bogota-da-paso-clave-para-avanzar-en-linea-2/?noamp=mobile",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / contratação e gestão de projeto",
+      "theme_es": "Metro / contratación y gestión de proyecto",
+      "title_pt": "Metro de Bogotá abre processos de supervisão e gestão para a Linha 2",
+      "title_es": "Metro de Bogotá abre procesos de supervisión y gestión para la Línea 2",
+      "summary_pt": "A Empresa Metro de Bogotá abriu convocatórias para interventoría integral e PMO da Linha 2, com valores estimados de COP 385,018 bilhões e COP 149,788 bilhões, respectivamente, em preços de dezembro de 2021.",
+      "summary_es": "La Empresa Metro de Bogotá abrió convocatorias para la interventoría integral y la PMO de la Línea 2, con valores estimados de COP 385.018 millones y COP 149.788 millones, respectivamente, a precios de diciembre de 2021.",
+      "impact_pt": "É um avanço concreto de estruturação e governança da infraestrutura, mas não é adjudicação da concessão nem início de obras.",
+      "impact_es": "Es un avance concreto de estructuración y gobernanza de la infraestructura, pero no es adjudicación de la concesión ni inicio de obras."
+    },
+    {
+      "id": "COL-02",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "Bogotá.gov.co",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/llego-colombia-el-tren-numero-24-de-la-linea-1-del-metro-de-bogota",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Metrô / implantação e material rodante",
+      "theme_es": "Metro / implementación y material rodante",
+      "title_pt": "24º dos 30 trens da Linha 1 do Metro de Bogotá chega à Colômbia",
+      "title_es": "Llega a Colombia el tren 24 de los 30 previstos para la Línea 1 del Metro de Bogotá",
+      "summary_pt": "A Prefeitura de Bogotá informou a chegada do 24º trem da Linha 1. Segundo o cronograma divulgado, os seis restantes devem ser despachados até o fim do ano; a obra está com 84,68% de execução informada.",
+      "summary_es": "La Alcaldía de Bogotá informó la llegada del tren 24 de la Línea 1. Según el cronograma divulgado, los seis restantes deben ser despachados hasta fin de año; la obra registra 84,68% de ejecución informada.",
+      "impact_pt": "É um marco logístico verificável da implantação, sem equivaler à entrega final da frota ou à entrada em operação.",
+      "impact_es": "Es un hito logístico verificable de la implementación, sin equivaler a la entrega final de la flota ni a la entrada en operación."
+    },
+    {
+      "id": "EQU-01",
+      "country": "Equador",
+      "signal": "watch",
+      "source": "Quito Informa",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://quitoinforma.quito.gob.ec/2026/11/25/estudio-revela-que-nueve-de-cada-10-mujeres-se-siente-seguras-y-muy-seguras-en-el-metro-de-quito/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Segurança / gênero e experiência do usuário",
+      "theme_es": "Seguridad / género y experiencia del usuario",
+      "title_pt": "Estudo municipal compara segurança percebida no Metro de Quito e no transporte de superfície",
+      "title_es": "Estudio municipal compara la seguridad percibida en el Metro de Quito y en el transporte de superficie",
+      "summary_pt": "O Observatório Metropolitano informou que nove em cada dez mulheres se sentem seguras ou muito seguras no Metro de Quito. No transporte de superfície e no Corredor Central Norte, 38,82% relataram assédio ou abuso sexual.",
+      "summary_es": "El Observatorio Metropolitano informó que nueve de cada diez mujeres se sienten seguras o muy seguras en el Metro de Quito. En el transporte de superficie y el Corredor Central Norte, 38,82% reportó acoso o abuso sexual.",
+      "impact_pt": "A evidência é relevante para prevenção e desenho de políticas de segurança, mas não deve ser extrapolada para todo o sistema sem a metodologia completa.",
+      "impact_es": "La evidencia es relevante para la prevención y el diseño de políticas de seguridad, pero no debe extrapolarse a todo el sistema sin la metodología completa."
+    },
+    {
+      "id": "GUA-01",
+      "country": "Guatemala",
+      "signal": "monitor",
+      "source": "Congreso de la República de Guatemala",
+      "source_publication_date": "2026-11-20",
+      "source_url": "https://www.congreso.gob.gt/noticias_congreso/17558/2026/1",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Ferrovia urbana / marco legal e preparação",
+      "theme_es": "Ferrocarril urbano / marco legal y preparación",
+      "title_pt": "MetroRiel avança na preparação institucional após vigência do Decreto 24-2026",
+      "title_es": "MetroRiel avanza en la preparación institucional tras la vigencia del Decreto 24-2026",
+      "summary_pt": "Em acompanhamento legislativo, a FEGUA informou estar na fase final da etapa zero do MetroRiel, com estudos em curso e preparação da PMO. O Decreto 24-2026 entrou em vigência em 19 de novembro.",
+      "summary_es": "En seguimiento legislativo, FEGUA informó estar en la fase final de la etapa cero de MetroRiel, con estudios en curso y preparación de la PMO. El Decreto 24-2026 entró en vigencia el 19 de noviembre.",
+      "impact_pt": "Há marco legal e preparação institucional, ainda sem contrato de obra, financiamento contratado ou início de construção.",
+      "impact_es": "Hay marco legal y preparación institucional, todavía sin contrato de obra, financiamiento contratado ni inicio de construcción."
+    },
+    {
+      "id": "PAR-01",
+      "country": "Paraguay",
+      "signal": "risk",
+      "source": "ABC Color / MOPC",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://www.abc.com.py/nacionales/2026/11/25/cuando-falla-el-billetaje-electronico-pasaje-es-gratis-recuerdan-desde-el-mopc/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Bilhetagem / continuidade de serviço e direitos do usuário",
+      "theme_es": "Recaudo / continuidad del servicio y derechos del usuario",
+      "title_pt": "Falha de bilhetagem em Asunción aciona gratuidade legal e fiscalização",
+      "title_es": "Falla de recaudo electrónico en Asunción activa gratuidad legal y fiscalización",
+      "summary_pt": "Após falhas em validadores Jaha, o Viceministério de Transporte/MOPC lembrou a gratuidade prevista na Lei 4207/2020 e informou fiscalização. A indisponibilidade foi atribuída pela empresa à queda da plataforma M2M do provedor de telefonia.",
+      "summary_es": "Tras fallas en validadores Jaha, el Viceministerio de Transporte/MOPC recordó la gratuidad prevista en la Ley 4207/2020 e informó fiscalización. La empresa atribuyó la indisponibilidad a la caída de la plataforma M2M del proveedor de telefonía.",
+      "impact_pt": "O incidente afeta diretamente usuário e arrecadação; a atribuição técnica permanece da empresa, sem inferir alcance além dos relatos confirmados.",
+      "impact_es": "El incidente afecta directamente al usuario y al recaudo; la atribución técnica sigue siendo de la empresa, sin inferir alcance más allá de los reportes confirmados."
+    },
+    {
+      "id": "PER-01",
+      "country": "Peru",
+      "signal": "watch",
+      "source": "El Comercio",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://elcomercio.pe/economia/peru/gobierno-busca-acelerar-la-linea-2-del-metro-tras-primer-pago-de-deuda-a-la-concesionaria-cade-ejecutivos-2026-cade-ejecutivos-cade-apuesplan-noticia/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / contrato e execução",
+      "theme_es": "Metro / contrato y ejecución",
+      "title_pt": "Primeiro pagamento abre negociação de adenda para a Linha 2 do Metro de Lima",
+      "title_es": "Primer pago abre negociación de adenda para la Línea 2 del Metro de Lima",
+      "summary_pt": "O ministro dos Transportes informou um primeiro pagamento à concessionária e o início da negociação de uma adenda. O objetivo citado é operar três estações já concluídas em Ate no segundo semestre de 2027.",
+      "summary_es": "El ministro de Transportes informó un primer pago a la concesionaria y el inicio de la negociación de una adenda. El objetivo citado es operar tres estaciones ya concluidas en Ate en el segundo semestre de 2027.",
+      "impact_pt": "O pagamento destrava uma negociação relevante, mas a adenda não está assinada e a operação das estações segue condicionada ao processo contratual.",
+      "impact_es": "El pago destraba una negociación relevante, pero la adenda no está firmada y la operación de las estaciones sigue condicionada al proceso contractual."
+    }
+  ],
+  "coverage_gaps": [
+    "Argentina",
+    "Costa Rica",
+    "Mexico",
+    "Panama",
+    "Uruguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 2,
+    "Bolivia": 1,
+    "Brasil": 0,
+    "Chile": 1,
+    "Colombia": 0,
+    "Costa Rica": 2,
+    "Equador": 1,
+    "Guatemala": 1,
+    "Mexico": 2,
+    "Panama": 2,
+    "Paraguay": 1,
+    "Peru": 1,
+    "Uruguay": 2
+  },
+  "intake_records": [
+    "2026-11-26-0830-fontes-proprias.md",
+    "2026-11-26-0930-imprensa-instituicoes.md",
+    "2026-11-26-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-19",
+    "2026-11-26"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
