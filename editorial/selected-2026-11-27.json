@@ -1,0 +1,555 @@
+{
+  "date": "2026-11-27",
+  "cards": [
+    {
+      "id": "ARG-01",
+      "country": "Argentina",
+      "signal": "op",
+      "source": "El Cronista",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://www.cronista.com/economia-politica/un-consorcio-argentino-chino-presento-la-oferta-mas-baja-por-la-linea-f-cuales-son-los-proximos-pasos/?outputType=amp-type",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / licitação e contratação",
+      "theme_es": "Metro / licitación y contratación",
+      "title_pt": "Linha F do Subte abre ofertas econômicas com dois consórcios no processo",
+      "title_es": "La Línea F del Subte abre las ofertas económicas con dos consorcios en el proceso",
+      "summary_pt": "A abertura dos envelopes econômicos manteve dois consórcios na disputa pela Linha F. Segundo a reportagem, o grupo CITIC Construction/Ranken/Supercemento/Eleprint/Panedile apresentou ARS 2,42 trilhões, abaixo dos ARS 2,82 trilhões do consórcio Roggio/Ghella.",
+      "summary_es": "La apertura de sobres económicos mantuvo a dos consorcios en la disputa por la Línea F. Según el reportaje, el grupo CITIC Construction/Ranken/Supercemento/Eleprint/Panedile presentó ARS 2,42 billones, por debajo de los ARS 2,82 billones del consorcio Roggio/Ghella.",
+      "impact_pt": "É um avanço verificável da contratação, mas oferta mais baixa não equivale a adjudicação, contrato assinado ou início de obra.",
+      "impact_es": "Es un avance verificable de la contratación, pero la oferta más baja no equivale a adjudicación, contrato firmado ni inicio de obra."
+    },
+    {
+      "id": "BOL-01",
+      "country": "Bolivia",
+      "signal": "risk",
+      "source": "ANF Agencia de Noticias Fides",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://noticiasfides.com/economia/ampliado-de-choferes-determina-paro-nacional-indefinido-desde-el-lunes-en-demanda-de-la-abrogacion-del-ds-5716",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / custos operacionais e risco de paralisação",
+      "theme_es": "Autobuses / costos operativos y riesgo de paralización",
+      "title_pt": "Confederação de Choferes anuncia paralisação nacional indefinida a partir de 30 de novembro",
+      "title_es": "La Confederación de Choferes anuncia un paro nacional indefinido a partir del 30 de noviembre",
+      "summary_pt": "O ampliado nacional da Confederação de Choferes decidiu convocar paralisação geral indefinida a partir de 0h de 30 de novembro, exigindo a revogação do DS 5716 e questionando o diesel a Bs 20,57 por litro. O governo sinalizou disposição para diálogo.",
+      "summary_es": "El ampliado nacional de la Confederación de Choferes decidió convocar un paro general indefinido desde las 0h del 30 de noviembre, exigiendo la derogación del DS 5716 y cuestionando el diésel a Bs 20,57 por litro. El Gobierno señaló disposición al diálogo.",
+      "impact_pt": "É um alerta de continuidade do serviço e pressão de custos. Trata-se de anúncio de mobilização, não de confirmação de que a paralisação ocorreu.",
+      "impact_es": "Es una alerta sobre continuidad del servicio y presión de costos. Se trata de un anuncio de movilización, no de la confirmación de que el paro haya ocurrido."
+    },
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://technibus.com.br/2026/11/26/campinas-adia-licitacao-do-transporte-para-rever-custos-da-escala-5x2",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Ônibus / concessão e custos operacionais",
+      "theme_es": "Autobuses / concesión y costos operativos",
+      "title_pt": "Campinas adia licitação do transporte para recalcular custos da escala 5x2",
+      "title_es": "Campinas aplaza la licitación del transporte para recalcular los costos de la jornada 5x2",
+      "summary_pt": "A Prefeitura de Campinas adiou a entrega e a abertura de propostas da nova concessão do transporte coletivo para rever os custos da escala 5x2 após o Decreto Federal nº 13.173. A republicação do edital é prevista para dezembro.",
+      "summary_es": "La Alcaldía de Campinas aplazó la entrega y apertura de propuestas de la nueva concesión de transporte colectivo para revisar los costos de la jornada 5x2 tras el Decreto Federal n.º 13.173. La republicación del pliego está prevista para diciembre.",
+      "impact_pt": "A mudança formal altera o cronograma de uma concessão de 15 anos que inclui BRT, terminais, bilhetagem, gerenciamento e monitoramento; não antecipa leilão ou resultado da revisão.",
+      "impact_es": "El cambio formal modifica el cronograma de una concesión de 15 años que incluye BRT, terminales, recaudo, gestión y monitoreo; no anticipa una subasta ni el resultado de la revisión."
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://technibus.com.br/2026/11/25/trivia-reassume-operacao-e-gestao-das-linhas-11-coral-e-12-safira-nesta-quinta-feira-26",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Trens metropolitanos / concessão e operação",
+      "theme_es": "Trenes metropolitanos / concesión y operación",
+      "title_pt": "Trivia retoma integralmente a operação das Linhas 11-Coral e 12-Safira",
+      "title_es": "Trivia retoma íntegramente la operación de las Líneas 11-Coral y 12-Safira",
+      "summary_pt": "A Trivia Trens retomou integralmente em 26 de novembro a operação e a administração comercial das Linhas 11-Coral e 12-Safira, após atuação conjunta com a CPTM e exigências da Artesp decorrentes do afastamento cautelar de julho.",
+      "summary_es": "Trivia Trens retomó íntegramente el 26 de noviembre la operación y la administración comercial de las Líneas 11-Coral y 12-Safira, tras una actuación conjunta con CPTM y exigencias de Artesp derivadas de la separación cautelar de julio.",
+      "impact_pt": "É uma retomada material de responsabilidade operacional sob concessão; fiscalização e investigação complementar permanecem em curso, sem equivaler ao encerramento definitivo da apuração.",
+      "impact_es": "Es una recuperación material de la responsabilidad operativa bajo concesión; la fiscalización y la investigación complementaria continúan, sin equivaler al cierre definitivo de la investigación."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "monitor",
+      "source": "Mi Radio",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://www.miradiols.cl/2026/11/23/nuevos-recorridos-electricos-minibuses-rurales-la-serena-coquimbo/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus elétricos / planejamento e licitação",
+      "theme_es": "Autobuses eléctricos / planificación y licitación",
+      "title_pt": "La Serena–Coquimbo discute sete novos serviços elétricos e dois centros de recarga",
+      "title_es": "La Serena–Coquimbo analiza siete nuevos servicios eléctricos y dos centros de recarga",
+      "summary_pt": "O Governo Regional tratou com o Ministério de Transportes e Desarrollo País a futura licitação de sete serviços elétricos, estimada em CLP 55 bilhões por oito anos, e dois centros de recarga.",
+      "summary_es": "El Gobierno Regional trató con el Ministerio de Transportes y Desarrollo País la futura licitación de siete servicios eléctricos, estimada en CLP 55 mil millones por ocho años, y dos centros de recarga.",
+      "impact_pt": "A proposta ainda depende de avaliações técnicas, financeiras e de licitação; não há contratação, frota entregue, traçados definitivos ou início de operação confirmados.",
+      "impact_es": "La propuesta aún depende de evaluaciones técnicas, financieras y de licitación; no hay contratación, flota entregada, trazados definitivos ni inicio de operación confirmados."
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "monitor",
+      "source": "Valora Analitik",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://www.valoraanalitik.com/bogota-adjudicara-contratos-por-25-billones/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Bilhetagem / interoperabilidade e contratação",
+      "theme_es": "Recaudo / interoperabilidad y contratación",
+      "title_pt": "Bogotá prevê três adjudicações de arrecadação interoperável para Metro e TransMilenio em 2027",
+      "title_es": "Bogotá prevé tres adjudicaciones de recaudo interoperable para Metro y TransMilenio en 2027",
+      "summary_pt": "O prefeito Carlos Fernando Galán anunciou calendário para três contratos de arrecadação: novo sistema do TransMilenio, arrecadação da Linha 1 do Metro e uma camada interoperável. O valor conjunto informado supera COP 25 trilhões.",
+      "summary_es": "El alcalde Carlos Fernando Galán anunció un calendario para tres contratos de recaudo: nuevo sistema de TransMilenio, recaudo de la Línea 1 del Metro y una capa interoperable. El valor conjunto informado supera COP 25 billones.",
+      "impact_pt": "É um calendário anunciado para integração tarifária e tecnológica; não há edital concluído, adjudicação ou operador definido na fonte consultada.",
+      "impact_es": "Es un calendario anunciado para integración tarifaria y tecnológica; no hay pliego concluido, adjudicación ni operador definido en la fuente consultada."
+    },
+    {
+      "id": "CRI-01",
+      "country": "Costa Rica",
+      "signal": "monitor",
+      "source": "Teletica",
+      "source_publication_date": "2026-11-25",
+      "source_url": "https://www.teletica.com/nacional/800-millones-sin-utilizar-y-trenes-llenos-asi-justifican-liberar-a-incofer-de-regla-fiscal_421837",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ferrovia / regra fiscal e orçamento",
+      "theme_es": "Ferrocarril / regla fiscal y presupuesto",
+      "title_pt": "Projeto propõe retirar o Incofer da regra fiscal",
+      "title_es": "Proyecto propone excluir a Incofer de la regla fiscal",
+      "summary_pt": "O projeto de lei, expediente 25.919, propõe excluir o Incofer da regra fiscal. A reportagem informa que a matéria ainda precisa ser convocada pelo Executivo nas sessões extraordinárias para iniciar tramitação.",
+      "summary_es": "El proyecto de ley, expediente 25.919, propone excluir a Incofer de la regla fiscal. El reportaje informa que la iniciativa todavía debe ser convocada por el Ejecutivo en sesiones extraordinarias para iniciar su trámite.",
+      "impact_pt": "É um sinal de possível mudança de capacidade fiscal para a ferrovia, não uma liberação orçamentária, aprovação legislativa ou expansão contratada.",
+      "impact_es": "Es una señal de posible cambio en la capacidad fiscal ferroviaria, no una liberación presupuestaria, aprobación legislativa ni expansión contratada."
+    },
+    {
+      "id": "GUA-01",
+      "country": "Guatemala",
+      "signal": "risk",
+      "source": "Prensa Libre",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://www.prensalibre.com/ahora/guatemala/comunitario/suspenden-indefinidamente-los-buses-entre-antigua-guatemala-y-la-capital-por-extorsiones-y-amenazas/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus / segurança e continuidade de serviço",
+      "theme_es": "Autobuses / seguridad y continuidad del servicio",
+      "title_pt": "Ônibus entre Antigua Guatemala e a capital são suspensos por extorsões e ameaças",
+      "title_es": "Se suspenden los autobuses entre Antigua Guatemala y la capital por extorsiones y amenazas",
+      "summary_pt": "Associações de transporte extraurbano de passageiros e de rotas curtas urbanas relataram suspensão por tempo indeterminado do serviço e cobraram vigilância permanente da PNC e do Ministério de Gobernación.",
+      "summary_es": "Asociaciones de transporte extraurbano de pasajeros y de rutas cortas urbanas reportaron una suspensión indefinida del servicio y exigieron vigilancia permanente de la PNC y del Ministerio de Gobernación.",
+      "impact_pt": "É risco direto à continuidade do transporte. As alegações de extorsão e ameaças são atribuídas aos transportadores; não há solução institucional ou número validado de usuários afetados.",
+      "impact_es": "Es un riesgo directo para la continuidad del transporte. Las denuncias de extorsión y amenazas se atribuyen a los transportistas; no hay solución institucional ni una cifra validada de usuarios afectados."
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "watch",
+      "source": "La Prensa / OEM",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://oem.com.mx/la-prensa/metropoli/cablebus-linea-5-destinan-dos-terrenos-para-construir-estacion-en-alvaro-obregon-33318966",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Teleférico urbano / preparação fundiária",
+      "theme_es": "Teleférico urbano / preparación predial",
+      "title_pt": "CDMX destina dois terrenos para a estação 12 da Linha 5 do Cablebús",
+      "title_es": "CDMX destina dos terrenos para la estación 12 de la Línea 5 del Cablebús",
+      "summary_pt": "A reportagem informa a destinação de dois terrenos para a estação 12 da Linha 5 do Cablebús, em Álvaro Obregón, e confirma o vínculo das áreas com a futura estação.",
+      "summary_es": "El reportaje informa la destinación de dos terrenos para la estación 12 de la Línea 5 del Cablebús, en Álvaro Obregón, y confirma el vínculo de las áreas con la futura estación.",
+      "impact_pt": "O ato fundiário é um passo preparatório; a matéria não confirma início de construção, orçamento executado ou data de entrega da linha.",
+      "impact_es": "El acto predial es un paso preparatorio; el artículo no confirma inicio de obras, presupuesto ejecutado ni fecha de entrega de la línea."
+    },
+    {
+      "id": "MEX-02",
+      "country": "Mexico",
+      "signal": "monitor",
+      "source": "Quadratín México",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://mexico.quadratin.com.mx/presenta-brugada-plan-de-movilidad-para-tulyehualco/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Mobilidade urbana / planejamento e segurança viária",
+      "theme_es": "Movilidad urbana / planificación y seguridad vial",
+      "title_pt": "CDMX apresenta plano de mobilidade para Tulyehualco com consulta para possível Cablebús",
+      "title_es": "CDMX presenta un plan de movilidad para Tulyehualco con consulta para un posible Cablebús",
+      "summary_pt": "A prefeitura anunciou 13,7 km de infraestrutura cicloviária, intervenções de segurança viária, reorganização de transporte com 33 paradas RTP e frequências propostas de 10 a 15 minutos. A conexão por Cablebús foi apresentada como possibilidade sujeita a consulta.",
+      "summary_es": "La alcaldía anunció 13,7 km de infraestructura ciclista, intervenciones de seguridad vial, reorganización de transporte con 33 paradas RTP y frecuencias propuestas de 10 a 15 minutos. La conexión por Cablebús se presentó como una posibilidad sujeta a consulta.",
+      "impact_pt": "O pacote organiza diretrizes locais de acesso e segurança, mas não confirma licitação, orçamento contratado, obra autorizada nem implantação do Cablebús.",
+      "impact_es": "El paquete organiza lineamientos locales de acceso y seguridad, pero no confirma licitación, presupuesto contratado, obra autorizada ni implementación del Cablebús."
+    },
+    {
+      "id": "PAR-01",
+      "country": "Paraguay",
+      "signal": "monitor",
+      "source": "ABC Color",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://www.abc.com.py/economia/2026/11/26/mopc-asumen-viceministros-de-transporte-y-minas-y-energia/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Governança / transporte público",
+      "theme_es": "Gobernanza / transporte público",
+      "title_pt": "Emigdio Rufino Wendell Mora assume o Viceministério de Transporte",
+      "title_es": "Emigdio Rufino Wendell Mora asume el Viceministerio de Transporte",
+      "summary_pt": "O Executivo oficializou, pelos decretos 7.255 e 7.248, a nomeação de Wendell Mora para o Viceministério de Transporte e de Daniel Ríos para Minas e Energia. Mora substitui Hugo Vera no VMT.",
+      "summary_es": "El Ejecutivo oficializó, mediante los decretos 7.255 y 7.248, el nombramiento de Wendell Mora en el Viceministerio de Transporte y de Daniel Ríos en Minas y Energía. Mora reemplaza a Hugo Vera en el VMT.",
+      "impact_pt": "A troca altera a governança da agenda de transporte em um momento de discussão sobre bilhetagem e operação; a fonte não anuncia nova tarifa, contrato, obra ou plano operacional.",
+      "impact_es": "El cambio modifica la gobernanza de la agenda de transporte en un momento de discusión sobre recaudo y operación; la fuente no anuncia una nueva tarifa, contrato, obra ni plan operativo."
+    },
+    {
+      "id": "URU-01",
+      "country": "Uruguay",
+      "signal": "watch",
+      "source": "El País Uruguay",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://www.elpais.com.uy/informacion/servicios/el-boleto-suburbano-aumentara-a-partir-del-proximo-martes-1-de-diciembre-estos-son-los-nuevos-precios",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Tarifas / ônibus metropolitanos e suburbanos",
+      "theme_es": "Tarifas / autobuses metropolitanos y suburbanos",
+      "title_pt": "Reajuste de tarifas suburbanas e metropolitanas é informado para 1º de dezembro",
+      "title_es": "Se informa un ajuste de tarifas suburbanas y metropolitanas para el 1 de diciembre",
+      "summary_pt": "O MTOP confirmou ao veículo novos valores a partir de 1º de dezembro, com ajuste médio de UYU 3,8 nos serviços suburbanos e metropolitanos. Os valores variam conforme a distância.",
+      "summary_es": "El MTOP confirmó al medio nuevos valores desde el 1 de diciembre, con un ajuste promedio de UYU 3,8 en los servicios suburbanos y metropolitanos. Los valores varían según la distancia.",
+      "impact_pt": "A mudança tem impacto direto para usuários e operadores. A informação foi atribuída ao MTOP pela reportagem; o comunicado ou a resolução primária ainda não foi localizada nesta rodada.",
+      "impact_es": "El cambio tiene impacto directo para usuarios y operadores. La información fue atribuida al MTOP por el reportaje; el comunicado o resolución primaria todavía no se localizó en esta ronda."
+    }
+  ],
+  "coverage_gaps": [
+    "Equador",
+    "Panama",
+    "Peru"
+  ],
+  "country_shortfalls": {
+    "Argentina": 1,
+    "Bolivia": 1,
+    "Brasil": 0,
+    "Chile": 1,
+    "Colombia": 1,
+    "Costa Rica": 1,
+    "Equador": 2,
+    "Guatemala": 1,
+    "Mexico": 0,
+    "Panama": 2,
+    "Paraguay": 1,
+    "Peru": 2,
+    "Uruguay": 1
+  },
+  "intake_records": [
+    "2026-11-27-0830-fontes-proprias.md",
+    "2026-11-27-0930-imprensa-instituicoes.md",
+    "2026-11-27-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-20",
+    "2026-11-27"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
