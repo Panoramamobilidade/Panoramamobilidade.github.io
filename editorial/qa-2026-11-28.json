@@ -36,5 +36,5 @@
   "google_news_final_urls": 0,
   "local_qa": "passed",
   "pdf": "not generated: established WeasyPrint converter missing libpangoft2-1.0-0",
-  "public_qa": "not deployed"
+  "public_qa": "passed: served GitHub Pages PT/ES dated and /hoje/ pages returned HTTP 200 with 12 cards, 13 functional local country anchors, correct 28/11/2026 date, logo asset and no Google News URLs; landing and archive point to the edition; 11 published original source URLs returned HTTP 200 in final check, and Transporte Sostenible was read and validated during intake but returned DNS resolution failure to the final automated verifier."
 }
