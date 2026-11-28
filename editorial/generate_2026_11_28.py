@@ -44,6 +44,9 @@ selection['members'] = members
 (E / f'selected-{DATE}.json').write_text(json.dumps(selection, ensure_ascii=False, indent=2) + '\n')
 
 CITED = {}
+for item in CARDS:
+    for member_name in item.get('members_cited', []):
+        CITED[''.join(ch for ch in unicodedata.normalize('NFKD', member_name.lower()) if not unicodedata.combining(ch))] = item['id']
 COUNTRY_NORMALIZATION = {'paraguai': 'paraguay', 'uruguai': 'uruguay', 'ecuador': 'equador'}
 def norm(text):
     return ''.join(ch for ch in unicodedata.normalize('NFKD', text.lower()) if not unicodedata.combining(ch))
@@ -122,7 +125,6 @@ def build(lang):
     jump_title = 'Ir direto para um país' if lang == 'pt' else 'Ir directo a un país'
     jump = f'<section class="box country-jump"><h2 class="jump-title">{jump_title}</h2><div class="jump jump-buttons">{"".join(jumps)}</div></section>'
     page = page.replace('{{SUMMARY}}', summary(lang)).replace('{{JUMP}}', jump).replace('{{COUNTRIES}}', ''.join(sections))
-    CITED.update({norm(name): c['id'] for c in CARDS for name in c.get('members_cited', [])})
     page = page.replace('</style>', '.country-jump .jump-buttons a.empty-jump{color:#87928f;background:#f6f8f7;border-color:#e2e8e5;font-weight:650}@media(max-width:720px){.country-jump .jump-buttons{flex-wrap:nowrap;max-width:100%;overflow-x:auto}.country-jump .jump-buttons a{flex-shrink:0}}</style>')
     assert page.count('<article class="card"') == len(CARDS)
     assert page.count('class="member-buttons"') == len(COUNTRIES)
