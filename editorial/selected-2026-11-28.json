@@ -1,0 +1,573 @@
+{
+  "date": "2026-11-28",
+  "cards": [
+    {
+      "id": "ARG-01",
+      "country": "Argentina",
+      "signal": "watch",
+      "source": "Perfil",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://www.perfil.com/economia/las-10-ciudades-con-el-boleto-de-colectivo-mas-caro-de-argentina-en-noviembre-a40-aOZB09j8NUas",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Tarifas / ônibus urbanos",
+      "theme_es": "Tarifas / autobuses urbanos",
+      "title_pt": "Levantamento compara tarifas de ônibus em dez cidades argentinas em novembro",
+      "title_es": "Un relevamiento compara las tarifas de autobús en diez ciudades argentinas en noviembre",
+      "summary_pt": "Levantamento do IIEP-UBA citado pela reportagem compara o valor do boleto urbano em dez cidades. Bariloche aparece com a tarifa mais alta, enquanto o AMBA registra o menor valor da amostra, com diferença superior a 200%.",
+      "summary_es": "Un relevamiento del IIEP-UBA citado por el reportaje compara el valor del boleto urbano en diez ciudades. Bariloche aparece con la tarifa más alta, mientras el AMBA registra el menor valor de la muestra, con una diferencia superior al 200%.",
+      "impact_pt": "O retrato evidencia a dispersão tarifária e de custos no país, mas é uma medição comparativa: não anuncia reajuste, subsídio ou decisão regulatória nova.",
+      "impact_es": "El panorama evidencia la dispersión tarifaria y de costos en el país, pero es una medición comparativa: no anuncia un ajuste, subsidio ni una nueva decisión regulatoria."
+    },
+    {
+      "id": "BRA-01",
+      "country": "Brasil",
+      "signal": "op",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-27",
+      "source_url": "https://technibus.com.br/2026/11/27/cobranca-de-tarifa-no-segundo-trecho-do-vlt-de-santos-comeca-em-1-de-dezembro",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "VLT / operação e tarifa",
+      "theme_es": "VLT / operación y tarifa",
+      "title_pt": "Segundo trecho do VLT da Baixada Santista entra em fase tarifada em 1º de dezembro",
+      "title_es": "El segundo tramo del VLT de la Baixada Santista entra en fase tarifada el 1 de diciembre",
+      "summary_pt": "O segundo trecho do VLT da Baixada Santista inicia cobrança de tarifa em 1º de dezembro, após intervenções em portas de plataforma, bloqueios, subestações, monitoramento e sinalização, segundo a publicação setorial.",
+      "summary_es": "El segundo tramo del VLT de la Baixada Santista inicia el cobro de tarifa el 1 de diciembre, tras intervenciones en puertas de andén, accesos, subestaciones, monitoreo y señalización, según la publicación sectorial.",
+      "impact_pt": "A passagem à fase tarifada é um marco operacional concreto. A fonte não substitui a confirmação de indicadores de demanda, regularidade ou desempenho após o início da cobrança.",
+      "impact_es": "El paso a la fase tarifada es un hito operativo concreto. La fuente no sustituye la confirmación de indicadores de demanda, regularidad o desempeño tras el inicio del cobro."
+    },
+    {
+      "id": "BRA-02",
+      "country": "Brasil",
+      "signal": "watch",
+      "source": "Technibus",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://technibus.com.br/2026/11/26/governo-federal-prorroga-subsidio-de-r-2-12-ao-diesel-por-mais-30-dias",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Custos operacionais / diesel e subsídio",
+      "theme_es": "Costos operativos / diésel y subsidio",
+      "title_pt": "Governo federal prorroga por 30 dias a subvenção ao diesel",
+      "title_es": "El Gobierno federal prorroga por 30 días el subsidio al diésel",
+      "summary_pt": "A subvenção de R$ 2,12 por litro de diesel foi prorrogada por 30 dias. A reportagem menciona estimativas de custo adicional entre R$ 8 bilhões e R$ 10,5 bilhões para a medida.",
+      "summary_es": "El subsidio de R$ 2,12 por litro de diésel fue prorrogado por 30 días. El reportaje menciona estimaciones de costo adicional entre R$ 8 mil millones y R$ 10,5 mil millones para la medida.",
+      "impact_pt": "O prolongamento afeta a pressão de custos do transporte rodoviário no curto prazo; não define automaticamente como o benefício será repassado a contratos, tarifas ou subsídios locais.",
+      "impact_es": "La extensión incide en la presión de costos del transporte por carretera a corto plazo; no define automáticamente cómo se trasladará el beneficio a contratos, tarifas o subsidios locales."
+    },
+    {
+      "id": "CHI-01",
+      "country": "Chile",
+      "signal": "op",
+      "source": "Ministerio de Transportes y Telecomunicaciones",
+      "source_publication_date": "2026-11-23",
+      "source_url": "https://mtt.gob.cl/valdivia-navega-en-tiempo-real-taxis-fluviales-se-incorporan-a-la-app-de-transporte-publico-regional/",
+      "source_class": "Fonte institucional",
+      "theme_pt": "Informação ao passageiro / integração digital",
+      "theme_es": "Información al pasajero / integración digital",
+      "title_pt": "Táxis fluviais de Valdivia passam a integrar aplicativo regional com informação em tempo real",
+      "title_es": "Los taxis fluviales de Valdivia se integran a una aplicación regional con información en tiempo real",
+      "summary_pt": "O Ministério dos Transportes informou a incorporação dos táxis fluviais de Valdivia ao aplicativo Red Regional, com consulta de informação em tempo real para os usuários do serviço.",
+      "summary_es": "El Ministerio de Transportes informó la incorporación de los taxis fluviales de Valdivia a la aplicación Red Regional, con consulta de información en tiempo real para los usuarios del servicio.",
+      "impact_pt": "A integração amplia a visibilidade de um modo local na informação ao passageiro. A nota não detalha interoperabilidade tarifária nem integração física com outros serviços.",
+      "impact_es": "La integración amplía la visibilidad de un modo local en la información al pasajero. La nota no detalla interoperabilidad tarifaria ni integración física con otros servicios."
+    },
+    {
+      "id": "COL-01",
+      "country": "Colombia",
+      "signal": "watch",
+      "source": "Bogotá.gov.co",
+      "source_publication_date": "2026-11-27",
+      "source_url": "https://bogota.gov.co/mi-ciudad/movilidad/2026-11/movilidad-bogota-transmilenio-avanza-en-la-transformacion-del-sistema",
+      "source_class": "Fonte institucional",
+      "theme_pt": "BRT / transformação operacional e infraestrutura",
+      "theme_es": "BRT / transformación operativa e infraestructura",
+      "title_pt": "Bogotá reúne frentes de transformação do TransMilenio, da eletrificação à expansão",
+      "title_es": "Bogotá reúne frentes de transformación de TransMilenio, desde la electrificación hasta la expansión",
+      "summary_pt": "A Prefeitura de Bogotá apresenta como frentes do TransMilenio a eletrificação, a Avenida 68, extensões para Ciudad de Cali e Soacha, reengenharia operacional e ações contra evasão de pagamento.",
+      "summary_es": "La Alcaldía de Bogotá presenta como frentes de TransMilenio la electrificación, la Avenida 68, extensiones hacia Ciudad de Cali y Soacha, reingeniería operativa y acciones contra la evasión de pago.",
+      "impact_pt": "A atualização organiza uma agenda ampla de transformação do sistema. Cada frente tem estágio próprio; a página não deve ser lida como entrega simultânea de todas as obras ou resultados.",
+      "impact_es": "La actualización organiza una agenda amplia de transformación del sistema. Cada frente tiene una etapa propia; la página no debe leerse como entrega simultánea de todas las obras o resultados.",
+      "members_cited": [
+        "TransMilenio"
+      ]
+    },
+    {
+      "id": "COL-02",
+      "country": "Colombia",
+      "signal": "op",
+      "source": "PrimerTiempo.CO",
+      "source_publication_date": "2026-11-27",
+      "source_url": "https://primertiempo.co/ciudadpt/transcaribe-recibe-sus-primeros-seis-buses-electricos-ya-estan-en-el-patio-taller-para-su-alistamiento/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus elétricos / preparação operacional",
+      "theme_es": "Autobuses eléctricos / preparación operativa",
+      "title_pt": "TransCaribe recebe seis primeiros ônibus elétricos para alistamento em Cartagena",
+      "title_es": "TransCaribe recibe sus primeros seis autobuses eléctricos para alistamiento en Cartagena",
+      "summary_pt": "Seis ônibus elétricos chegaram ao pátio-taller do TransCaribe para alistamento antes da incorporação operacional, segundo a reportagem local.",
+      "summary_es": "Seis autobuses eléctricos llegaron al patio-taller de TransCaribe para su alistamiento antes de la incorporación operativa, según el reportaje local.",
+      "impact_pt": "A chegada materializa a etapa de preparação de frota elétrica. Ainda não confirma início do serviço comercial, cronograma completo de entrega nem desempenho da futura operação.",
+      "impact_es": "La llegada materializa la etapa de preparación de la flota eléctrica. Aún no confirma el inicio del servicio comercial, el cronograma completo de entrega ni el desempeño de la futura operación."
+    },
+    {
+      "id": "MEX-01",
+      "country": "Mexico",
+      "signal": "op",
+      "source": "Infobae México",
+      "source_publication_date": "2026-11-24",
+      "source_url": "https://www.infobae.com/mexico/2026/11/24/ampliacion-linea-12-del-metro-cdmx-inicia-construccion-de-estaciones-y-lumbreras/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / obras e expansão",
+      "theme_es": "Metro / obras y expansión",
+      "title_pt": "Ampliação da Linha 12 do Metro CDMX entra na fase de estações e lumbreras",
+      "title_es": "La ampliación de la Línea 12 del Metro CDMX entra en la fase de estaciones y lumbreras",
+      "summary_pt": "A reportagem informa o início, em 20 de novembro, da fase de estruturas, acessos e lumbreras das futuras estações Valentín Campa, Álvaro Obregón e Observatorio, após a conclusão do túnel.",
+      "summary_es": "El reportaje informa el inicio, el 20 de noviembre, de la fase de estructuras, accesos y lumbreras de las futuras estaciones Valentín Campa, Álvaro Obregón y Observatorio, tras la conclusión del túnel.",
+      "impact_pt": "É avanço físico de obra. Os prazos futuros atribuídos às autoridades requerem confirmação primária antes de serem tratados como compromisso contratual definitivo.",
+      "impact_es": "Es un avance físico de obra. Los plazos futuros atribuidos a las autoridades requieren confirmación primaria antes de tratarse como un compromiso contractual definitivo.",
+      "members_cited": [
+        "Metro CDMX"
+      ]
+    },
+    {
+      "id": "PAN-01",
+      "country": "Panama",
+      "signal": "op",
+      "source": "TVN Panamá",
+      "source_publication_date": "2026-11-27",
+      "source_url": "https://www.tvn-2.com/nacionales/pasajeros-metro-mibus-pagar-tarjeta-celular_1_2273071.html",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Bilhetagem / pagamentos sem contato",
+      "theme_es": "Recaudo / pagos sin contacto",
+      "title_pt": "Pagamentos sem contato já operam no Metro e em toda a frota MiBus no Panamá",
+      "title_es": "Los pagos sin contacto ya operan en el Metro y en toda la flota MiBus en Panamá",
+      "summary_pt": "Cartões Visa e Mastercard sem contato, Apple Pay e Google Pay passaram a ser aceitos nas Linhas 1 e 2 do Metro, em toda a frota MiBus, zonas pagas e no Terminal de Albrook, segundo a reportagem.",
+      "summary_es": "Las tarjetas Visa y Mastercard sin contacto, Apple Pay y Google Pay pasaron a aceptarse en las Líneas 1 y 2 del Metro, en toda la flota MiBus, zonas pagas y en la Terminal de Albrook, según el reportaje.",
+      "impact_pt": "A operação amplia as opções de acesso e arrecadação na rede. A eventual integração com a Linha 3 e outros operadores permanece perspectiva, não entrega concluída.",
+      "impact_es": "La operación amplía las opciones de acceso y recaudo en la red. La eventual integración con la Línea 3 y otros operadores sigue siendo una perspectiva, no una entrega concluida.",
+      "members_cited": [
+        "MiBus Panamá"
+      ]
+    },
+    {
+      "id": "PER-01",
+      "country": "Peru",
+      "signal": "op",
+      "source": "RPP Noticias",
+      "source_publication_date": "2026-11-26",
+      "source_url": "https://rpp.pe/lima/actualidad/tuneladora-micaela-se-despide-tras-culminar-excavaciones-de-la-linea-2-y-el-ramal-de-la-linea-4-del-metro-de-lima-noticia-1690374",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Metrô / obras subterrâneas",
+      "theme_es": "Metro / obras subterráneas",
+      "title_pt": "Tuneladora Micaela encerra escavação e entra em desmontagem nas Linhas 2 e 4 de Lima",
+      "title_es": "La tuneladora Micaela concluye la excavación y entra en desmontaje en las Líneas 2 y 4 de Lima",
+      "summary_pt": "A tuneladora Micaela concluiu mais de 11 km de escavações e entrou na etapa de desmontagem e retirada nas Linhas 2 e 4 do Metro de Lima, segundo a reportagem.",
+      "summary_es": "La tuneladora Micaela concluyó más de 11 km de excavaciones y entró en la etapa de desmontaje y retiro en las Líneas 2 y 4 del Metro de Lima, según el reportaje.",
+      "impact_pt": "O marco físico reduz um risco de execução subterrânea, mas não altera por si só o estado contratual, adendas ou calendário de abertura das estações.",
+      "impact_es": "El hito físico reduce un riesgo de ejecución subterránea, pero no modifica por sí solo el estado contractual, las adendas ni el calendario de apertura de las estaciones."
+    },
+    {
+      "id": "PER-02",
+      "country": "Peru",
+      "signal": "risk",
+      "source": "Transporte Sostenible",
+      "source_publication_date": "2026-11-27",
+      "source_url": "https://transporte-sostenible.com.pe/atentados-contra-el-transporte-publico-en-lima-y-callao-ya-superan-en-69-a-los-de-todo-2025/",
+      "source_class": "Imprensa setorial",
+      "theme_pt": "Segurança / risco sistêmico",
+      "theme_es": "Seguridad / riesgo sistémico",
+      "title_pt": "Dados apresentados em evento apontam aumento de atentados contra o transporte público em Lima e Callao",
+      "title_es": "Datos presentados en un evento señalan un aumento de atentados contra el transporte público en Lima y Callao",
+      "summary_pt": "A matéria relata que dados apresentados em encontro setorial indicam que os atentados registrados até novembro superam em 69% o total de 2025 em Lima e Callao.",
+      "summary_es": "El artículo informa que datos presentados en un encuentro sectorial indican que los atentados registrados hasta noviembre superan en 69% el total de 2025 en Lima y Callao.",
+      "impact_pt": "É sinal de risco à continuidade e à segurança do sistema. O percentual depende da metodologia e da base apresentadas no evento; a fonte primária dos registros segue pendente.",
+      "impact_es": "Es una señal de riesgo para la continuidad y la seguridad del sistema. El porcentaje depende de la metodología y la base presentadas en el evento; la fuente primaria de los registros sigue pendiente."
+    },
+    {
+      "id": "URU-01",
+      "country": "Uruguay",
+      "signal": "watch",
+      "source": "Subrayado",
+      "source_publication_date": "2026-11-27",
+      "source_url": "https://www.subrayado.com.uy/aplicaciones-transporte-reevaluaran-operacion-uruguay-aprobacion-decreto-que-les-prohibe-usar-taxis-n1024664",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Regulação / plataformas e táxis",
+      "theme_es": "Regulación / plataformas y taxis",
+      "title_pt": "Junta de Montevidéu aprova regra sobre plataformas e corridas de táxi",
+      "title_es": "La Junta de Montevideo aprueba una norma sobre plataformas y viajes en taxi",
+      "summary_pt": "A Junta Departamental aprovou uma regra que, segundo a reportagem, veda às plataformas oferecer, processar ou adjudicar corridas de táxi. Uber e Cabify disseram que reavaliarão sua operação no país.",
+      "summary_es": "La Junta Departamental aprobó una norma que, según el reportaje, prohíbe a las plataformas ofrecer, procesar o adjudicar viajes en taxi. Uber y Cabify dijeron que reevaluarán su operación en el país.",
+      "impact_pt": "A decisão pode alterar a interface entre táxis e plataformas. O texto normativo primário ainda precisa ser recuperado antes de uma leitura jurídica mais detalhada.",
+      "impact_es": "La decisión puede alterar la interfaz entre taxis y plataformas. El texto normativo primario aún debe recuperarse antes de una lectura jurídica más detallada.",
+      "members_cited": [
+        "Intendencia de Montevideo"
+      ]
+    },
+    {
+      "id": "URU-02",
+      "country": "Uruguay",
+      "signal": "monitor",
+      "source": "Metropolitano",
+      "source_publication_date": "2026-11-27",
+      "source_url": "https://www.metropolitano.uy/transporte-metropolitano-100-omnibus-electricos-y-dos-corredores-para-mejorar-la-conexion-de-canelones-con-montevideo/",
+      "source_class": "Imprensa jornalística",
+      "theme_pt": "Ônibus elétricos / projeto metropolitano",
+      "theme_es": "Autobuses eléctricos / proyecto metropolitano",
+      "title_pt": "Proposta para Canelones–Montevidéu prevê 100 ônibus elétricos e dois corredores",
+      "title_es": "Una propuesta para Canelones–Montevideo prevé 100 autobuses eléctricos y dos corredores",
+      "summary_pt": "A reportagem descreve uma proposta de rede metropolitana entre Canelones e Montevidéu com 100 ônibus elétricos e dois corredores para reforçar a conexão entre os dois departamentos.",
+      "summary_es": "El reportaje describe una propuesta de red metropolitana entre Canelones y Montevideo con 100 autobuses eléctricos y dos corredores para reforzar la conexión entre los dos departamentos.",
+      "impact_pt": "O projeto aponta uma direção de integração e eletrificação, mas ainda requer ato de financiamento, licitação ou contrato que confirme sua implantação.",
+      "impact_es": "El proyecto apunta a una dirección de integración y electrificación, pero aún requiere un acto de financiamiento, licitación o contrato que confirme su implementación.",
+      "members_cited": [
+        "Intendencia de Montevideo",
+        "Intendencia de Canelones"
+      ]
+    }
+  ],
+  "coverage_gaps": [
+    "Bolivia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Paraguay"
+  ],
+  "country_shortfalls": {
+    "Argentina": 1,
+    "Bolivia": 2,
+    "Brasil": 0,
+    "Chile": 1,
+    "Colombia": 0,
+    "Costa Rica": 2,
+    "Equador": 2,
+    "Guatemala": 2,
+    "Mexico": 1,
+    "Panama": 1,
+    "Paraguay": 2,
+    "Peru": 0,
+    "Uruguay": 0
+  },
+  "intake_records": [
+    "2026-11-28-0830-fontes-proprias.md",
+    "2026-11-28-0930-imprensa-instituicoes.md",
+    "2026-11-28-1015-google-news-lacunas.md"
+  ],
+  "recovery_window": [
+    "2026-11-21",
+    "2026-11-28"
+  ],
+  "scope": [
+    "Argentina",
+    "Bolivia",
+    "Brasil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Equador",
+    "Guatemala",
+    "Mexico",
+    "Panama",
+    "Paraguay",
+    "Peru",
+    "Uruguay"
+  ],
+  "members": [
+    {
+      "country": "Brasil",
+      "name": "Addax Assessoria Econômica E Financeira Ltda Epp"
+    },
+    {
+      "country": "Brasil",
+      "name": "Bus2 (Aequante)"
+    },
+    {
+      "country": "Brasil",
+      "name": "ABASP"
+    },
+    {
+      "country": "Brasil",
+      "name": "NTU"
+    },
+    {
+      "country": "Brasil",
+      "name": "ANPTrilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Autopass"
+    },
+    {
+      "country": "Brasil",
+      "name": "BRT Sorocaba"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cittati"
+    },
+    {
+      "country": "Brasil",
+      "name": "Metrô de São Paulo"
+    },
+    {
+      "country": "Brasil",
+      "name": "MetrôRio"
+    },
+    {
+      "country": "Brasil",
+      "name": "Cordeiro, Lima e Advogados"
+    },
+    {
+      "country": "Brasil",
+      "name": "CWBUS"
+    },
+    {
+      "country": "Brasil",
+      "name": "EMDEC"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOVE"
+    },
+    {
+      "country": "Brasil",
+      "name": "Motiva Trilhos"
+    },
+    {
+      "country": "Brasil",
+      "name": "Idea Partners"
+    },
+    {
+      "country": "Brasil",
+      "name": "Kim + Tecnologia em Mobilidade Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "RMTC Goiânia / Redemob"
+    },
+    {
+      "country": "Brasil",
+      "name": "Scipopulis"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEMOBI-ES"
+    },
+    {
+      "country": "Brasil",
+      "name": "Transdata"
+    },
+    {
+      "country": "Brasil",
+      "name": "SEINFRA-MG"
+    },
+    {
+      "country": "Brasil",
+      "name": "Urucuia"
+    },
+    {
+      "country": "Brasil",
+      "name": "RP Mobi"
+    },
+    {
+      "country": "Brasil",
+      "name": "Prefeitura de Hortolândia"
+    },
+    {
+      "country": "Brasil",
+      "name": "TEVX  Motors Group Ltda"
+    },
+    {
+      "country": "Brasil",
+      "name": "SMTR Rio"
+    },
+    {
+      "country": "Brasil",
+      "name": "INCITE - Instituto Nacional de Estudo do Transporte"
+    },
+    {
+      "country": "Brasil",
+      "name": "AKLER SOLUTION LTDA"
+    },
+    {
+      "country": "Argentina",
+      "name": "Metropol"
+    },
+    {
+      "country": "Argentina",
+      "name": "METROVIAS S.A. (EMOVA)"
+    },
+    {
+      "country": "Argentina",
+      "name": "SUBTERRANEOS DE BUENOS AIRES S.E. (SBASE)"
+    },
+    {
+      "country": "Argentina",
+      "name": "UALABEE"
+    },
+    {
+      "country": "Argentina",
+      "name": "AMT Salta"
+    },
+    {
+      "country": "Bolivia",
+      "name": "Síntesis"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE"
+    },
+    {
+      "country": "Chile",
+      "name": "Metbus"
+    },
+    {
+      "country": "Chile",
+      "name": "Metro de Santiago"
+    },
+    {
+      "country": "Chile",
+      "name": "DTPM/Red Movilidad"
+    },
+    {
+      "country": "Chile",
+      "name": "SONDA"
+    },
+    {
+      "country": "Chile",
+      "name": "PUC Chile"
+    },
+    {
+      "country": "Chile",
+      "name": "EFE Trenes"
+    },
+    {
+      "country": "Colombia",
+      "name": "CONNEXION MOVIL S.A."
+    },
+    {
+      "country": "Colombia",
+      "name": "VG Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "TransMilenio"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Medellín"
+    },
+    {
+      "country": "Colombia",
+      "name": "SENER Mobility"
+    },
+    {
+      "country": "Colombia",
+      "name": "Green Móvil"
+    },
+    {
+      "country": "Colombia",
+      "name": "Metro de Bogotá"
+    },
+    {
+      "country": "Costa Rica",
+      "name": "ARESEP"
+    },
+    {
+      "country": "Equador",
+      "name": "Transporte de Pasajeros Quito"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito Operadora"
+    },
+    {
+      "country": "Equador",
+      "name": "Metro de Quito"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Grupo Innovate"
+    },
+    {
+      "country": "Guatemala",
+      "name": "Municipalidad de Guatemala"
+    },
+    {
+      "country": "Mexico",
+      "name": "Metro CDMX"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMTM México"
+    },
+    {
+      "country": "Mexico",
+      "name": "Mobility ADO"
+    },
+    {
+      "country": "Mexico",
+      "name": "LIPU"
+    },
+    {
+      "country": "Mexico",
+      "name": "SEMOV Edomex"
+    },
+    {
+      "country": "Mexico",
+      "name": "ATY Yucatán"
+    },
+    {
+      "country": "Mexico",
+      "name": "AMEQ Querétaro"
+    },
+    {
+      "country": "Mexico",
+      "name": "CANAPAT"
+    },
+    {
+      "country": "Mexico",
+      "name": "SOP Guanajuato"
+    },
+    {
+      "country": "Mexico",
+      "name": "ACTIA México"
+    },
+    {
+      "country": "Mexico",
+      "name": "EMBSOFT"
+    },
+    {
+      "country": "Mexico",
+      "name": "IMOVEQROO"
+    },
+    {
+      "country": "Panama",
+      "name": "MiBus Panamá"
+    },
+    {
+      "country": "Paraguay",
+      "name": "MAGNO S.A."
+    },
+    {
+      "country": "Peru",
+      "name": "UNNA TRANSPORTE"
+    },
+    {
+      "country": "Peru",
+      "name": "TATSA PERU SAC"
+    },
+    {
+      "country": "Peru",
+      "name": "ATU Lima-Callao"
+    },
+    {
+      "country": "Uruguay",
+      "name": "CUTCSA"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Montevideo"
+    },
+    {
+      "country": "Uruguay",
+      "name": "Intendencia de Canelones"
+    }
+  ]
+}
